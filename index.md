@@ -160,6 +160,7 @@ came streaming in. Since everything is out in the open, you can see this nicely
 in the stats.
 
 - [nashboard.space](https://nashboard.space/)
+- [nostr.io](https://nostr.io/stats)
 
 ### Sats
 
@@ -172,7 +173,7 @@ amount, and a pay button. One such client is Damus, which shows a nice
 There's [brb.io](https://brb.io/) (also a relay) which indexes public notes and makes them [searchable](https://brb.io/search) and stuff. 
 You can view all public notes here: [https://brb.io/n/search?kind=1](https://brb.io/n/search?kind=1)
 
-- 👉 [https://brb.io/search](https://brb.io/search)
+- [brb.io/search](https://brb.io/search)
 
 ---
 
