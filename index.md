@@ -57,29 +57,27 @@ To use nostr, you need a [client](#clients) and a [key](#keys).
 Your keys are your identity. You can think of your public key (`npub...`) as
 your username and your private key (`nsec...`) as your password. 
 
-Keys exist in two formats, `hex` and the above mentioned npub/nsec. You can
-use a [key converter tool](https://github.com/rot13maxi/key-convertr)[^fn-keys] to convert between the two formats: 
+⚠️ **DO NOT PASTE YOUR PRIVATE KEYS INTO WEBSITES**[^fn-xss] ⚠️
+
+Keys exist in two formats, `hex` and the above mentioned npub/nsec. You can use
+a [key converter tool](https://github.com/rot13maxi/key-convertr)[^fn-keys] to
+convert between the two formats.
 
 [^fn-keys]: There's also the [damus.io/key](https://damus.io/key/) but DO NOT use it for private key conversions. Don't paste your private key into websites. Just don't.
 
-⚠️ **DO NOT PASTE YOUR PRIVATE KEYS INTO WEBSITES**[^fn-xss]
-
 [^fn-xss]: You have to trust whoever is running the website, obviously, and some clients are vulnerable to XSS attacks. A lot of people got rekt already, and had to re-build their nostr identity because of it.
 
-Use [Alby](https://getalby.com) or
-[nos2x](https://github.com/fiatjaf/nos2x)
-to generate your keys. These extensions will store your keys safely (or at least
+Use [Alby](https://getalby.com) or [nos2x](https://github.com/fiatjaf/nos2x) to
+generate your keys. These extensions will store your keys safely (or at least
 more safely).
 
 - [Nostr in the Alby Extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
 - [The nos2x browser extension and why you should use it](https://youtu.be/IoLw-3ok3_M)
 
 You can also generate your keys by other means if you know what you're doing.[^bip85]
-
-[^bip85]: [BIP-85](https://bip85.com/) is an option, for example.
-
 It's still early days, so be prepared to get rekt.
 
+[^bip85]: [BIP-85](https://bip85.com/) is an option, for example.
 
 ## Clients
 
@@ -87,7 +85,8 @@ Periodically check [nostr.net](https://www.nostr.net/) which keeps a curated
 list of clients. Here are some I like:
 
 - [nostr.rocks](https://nostr.rocks/) - Twitter-style interface (Branle)
-- [astral.ninja](https://astral.ninja/) - Fork of Branle w/ different UI & global feed
+- [astral.ninja](https://astral.ninja/) - Fork of Branle with different UI & global feed
+- [snort.social](https://snort.social/) - Very simple feed with automatic image-upload
 
 Mobile clients:
 - [Damus](https://testflight.apple.com/join/CLwjLxWl) - Twitter-style iOS client, also works on MacOS
@@ -111,6 +110,7 @@ turn evil). You need to connect your client to a relay for it to work. There are
 many relays & you can run your own.
 
 - [nostr.watch](http://nostr.watch/)
+- [nostr.info](https://nostr.info/relays/)
 
 Run your own:
 
@@ -126,7 +126,7 @@ Run your own:
 
 Use this search query to find nostr keys of people you follow on twitter:
 
-- 👉 https://twitter.com/search?q=%22verifying%20my%20account%20on%20nostr%22&f=live&pf=1
+- [🔎 "verifying my account on nostr" (ppl you follow)](https://twitter.com/search?q=%22verifying%20my%20account%20on%20nostr%22&f=live&pf=1)
 
 This uses the [nostr.directory](https://www.nostr.directory/) verification
 message, but the `&pf=1` limits the twitter search to only people you follow.
@@ -148,8 +148,8 @@ This also works for videos.
 If you have a domain and want to have a "verified" checkmark, here is some
 useful info:
 
-- 👉 https://nvk.org/n00b-nip5
-- 👉 https://gist.github.com/metasikander/609a538e6a03b2f67e5c8de625baed3e
+- [NVK's guide (using Github Pages)](https://nvk.org/n00b-nip5)
+- [metasikander's guide (generic)](https://gist.github.com/metasikander/609a538e6a03b2f67e5c8de625baed3e)
 
 ### Stats
 
@@ -159,7 +159,7 @@ list](https://twitter.com/dergigi/status/1604548665196138499) a flood of people
 came streaming in. Since everything is out in the open, you can see this nicely
 in the stats.
 
-- 👉 https://nashboard.space/
+- [nashboard.space](https://nashboard.space/)
 
 ### Sats
 
