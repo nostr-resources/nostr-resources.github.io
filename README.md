@@ -1,1 +1,3 @@
-# nostr-resources.github.io
+# Nostr Resources
+
+TODO
