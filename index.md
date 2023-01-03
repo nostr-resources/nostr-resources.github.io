@@ -6,11 +6,33 @@ description: nostr is new and confusing but also really cool.
 redirect_from: resources
 ---
 
-**TL;DR:** nostr is a protocol that has the power to replace Twitter, Telegram, and other things.
+**TL;DR:** nostr is a protocol that has the power to replace twitter, Telegram, and other things.
 
 ---
 
-nostr is new and confusing but also really cool.
+## WTF is nostr?
+
+nostr is new and confusing but also really cool. 
+
+It is the simplest open protocol that is able to create a
+censorship-resistant global "social" network once and for all. It doesn't rely
+on any trusted central server, hence it is resilient; it is based on
+cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P
+techniques, therefore it works.
+
+- There are two components: __clients__ and __relays__. Each user runs a client. Anyone can run a relay.
+- Every user is identified by a public key. Every post is signed. Every client validates these signatures.
+- Clients fetch data from relays of their choice and publish data to other relays of their choice. A relay doesn't talk to another relay, only directly to users.
+
+How it works:
+
+- Everybody runs a client. It can be a native client, a web client, etc. 
+- To publish something, you write a post, sign it with your key and send it to multiple relays (servers hosted by someone else, or yourself). 
+- To get updates from other people, you ask multiple relays if they know anything about these other people. 
+- Anyone can run a relay. A relay is very simple and dumb. It does nothing besides accepting posts from some people and forwarding to others.
+- Relays don't have to be trusted. Signatures are verified on the client side.
+
+To use nostr, you need a [client](#clients) and a [key](#keys).
 
 - [WTF is nostr?](#wtf-is-nostr)
 - [Keys](#keys)
@@ -26,30 +48,6 @@ nostr is new and confusing but also really cool.
   - [More info](#more-info)
 - [Translations](#translations)
 - [About these Resources](#about-these-resources)
-
-## WTF is nostr?
-
-nostr is the simplest open protocol that is able to create a
-censorship-resistant global "social" network once and for all. It doesn't rely
-on any trusted central server, hence it is resilient; it is based on
-cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P
-techniques, therefore it works.
-
-- There are two components: __clients__ and __relays__. Each user runs a client. Anyone can run a relay.
-- Every user is identified by a public key. Every post is signed. Every client validates these signatures.
-- Clients fetch data from relays of their choice and publish data to other relays of their choice. A relay doesn't talk to another relay, only directly to users.
-
-How it works TL;DR:
-
-> Everybody runs a client. It can be a native client, a web client, etc. To
-publish something, you write a post, sign it with your key and send it to
-multiple relays (servers hosted by someone else, or yourself). To get updates
-from other people, you ask multiple relays if they know anything about these
-other people. Anyone can run a relay. A relay is very simple and dumb. It does
-nothing besides accepting posts from some people and forwarding to others.
-Relays don't have to be trusted. Signatures are verified on the client side.
-
-To use nostr, you need a [client](#clients) and a [key](#keys).
 
 ## Keys
 
