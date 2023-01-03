@@ -1,7 +1,7 @@
 ---
 layout: resources
 title: nostr Resources
-image: /assets/images/nostr-cover.png
+image: /assets/images/cover.png
 description: nostr is new and confusing but also really cool.
 redirect_from: resources
 ---
@@ -24,7 +24,9 @@ techniques, therefore it works.
 - Every user is identified by a public key. Every post is signed. Every client validates these signatures.
 - Clients fetch data from relays of their choice and publish data to other relays of their choice. A relay doesn't talk to another relay, only directly to users.
 
-How it works:
+---
+
+To use nostr, you need a [client](#clients) and a [key](#keys).
 
 - Everybody runs a client. It can be a native client, a web client, etc. 
 - To publish something, you write a post, sign it with your key and send it to multiple relays (servers hosted by someone else, or yourself). 
@@ -32,7 +34,8 @@ How it works:
 - Anyone can run a relay. A relay is very simple and dumb. It does nothing besides accepting posts from some people and forwarding to others.
 - Relays don't have to be trusted. Signatures are verified on the client side.
 
-To use nostr, you need a [client](#clients) and a [key](#keys).
+
+---
 
 - [WTF is nostr?](#wtf-is-nostr)
 - [Keys](#keys)
@@ -49,6 +52,8 @@ To use nostr, you need a [client](#clients) and a [key](#keys).
 - [Translations](#translations)
 - [About these Resources](#about-these-resources)
 
+---
+
 ## Keys
 
 Your keys are your identity. You can think of your public key (`npub...`) as
@@ -59,18 +64,17 @@ use this tool to convert between the two formats: https://github.com/rot13maxi/k
 
 [^fn-keys]: There's also https://damus.io/key/ but DO NOT use it for private key conversions. Don't paste your private key into websites. Just don't.
 
-:warning: **DO NOT PASTE YOUR PRIVATE KEYS INTO WEBSITES**[^fn-xss]
+⚠️ **DO NOT PASTE YOUR PRIVATE KEYS INTO WEBSITES**[^fn-xss]
 
 [^fn-xss]: You have to trust whoever is running the website, obviously, and some clients are vulnerable to XSS attacks. A lot of people got rekt already, and had to re-build their nostr identity because of it.
 
 Use [Alby](https://getalby.com) or
 [nos2x](https://github.com/fiatjaf/nos2x)
-([Firefox](https://addons.mozilla.org/en-US/firefox/addon/nos2x/),
-[Chrome](https://chrome.google.com/webstore/detail/nos2x/kpgefcfmnafjgpblomihpgmejjdanjjp))
 to generate your keys. These extensions will store your keys safely (or at least
 more safely).
 
-- 👉 https://blog.getalby.com/nostr-in-the-alby-extension/
+- [Nostr in the Alby Extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
+- [The nos2x browser extension and why you should use it](https://youtu.be/IoLw-3ok3_M)
 
 You can also generate your keys by other means if you know what you're doing.[^bip85]
 
@@ -88,8 +92,10 @@ list of clients. Here are some I like:
 - [astral.ninja](https://astral.ninja/) - Fork of Branle w/ different UI & global feed
 
 Mobile clients:
-- iOS: [Damus](https://testflight.apple.com/join/CLwjLxWl) (also works on MacOS)
-- Android: Nosky,[^nosky] Nostros[^nostros] (both in development)
+- [Damus](https://testflight.apple.com/join/CLwjLxWl) - Twitter-style iOS client, also works on MacOS
+
+There are no Android clients as of today. Nosky[^nosky] and Nostros[^nostros]
+are in development and should be available for testing soon.
 
 [^nosky]: https://github.com/KotlinGeekDev/Nosky
 [^nostros]: https://github.com/KoalaSat/nostros
@@ -106,7 +112,7 @@ Relays are dumb servers that you can leave behind at any time (so they can't
 turn evil). You need to connect your client to a relay for it to work. There are
 many relays & you can run your own.
 
-- 👉 http://nostr.watch/
+- [nostr.watch](http://nostr.watch/)
 
 Run your own:
 
@@ -170,6 +176,8 @@ You can view all public notes here: [https://brb.io/n/search?kind=1](https://brb
 
 - 👉 [https://brb.io/search](https://brb.io/search)
 
+---
+
 ### More info
 
 - [nostr.net](https://www.nostr.net/) aka awesome-nostr by @aaaljaz
@@ -192,23 +200,13 @@ There's known [privacy issues](https://consentonchain.github.io/blog/posts/nostr
 nostr is an open protocol and most clients are open-source. 
 Feel free to report bugs and create PRs!
 
----
+## About these Resources
 
 Most of the text above is copied from
 [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) and
 [nostr.net](https://www.nostr.net/). I just left some stuff out, so consider this an
 opinionated summary.
 
+This site is open source. [Improve this page.](https://github.com/nostr-resources/nostr-resources.github.io)
 
 ---
-
-## About these Resources
-
-The resources listed above are but a small selection which was particularly
-influential in [my thinking][dergigi]. A sincere *thank you* to all the people
-who shared their thoughts and insights, past and present. I have learned so
-much, and for that, I will be eternally grateful.
-
-If you have suggestions for content or improvements, feel free to open issues
-or PRs on [GitHub][issues] or reach out to me.
-
