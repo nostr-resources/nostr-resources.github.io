@@ -1,0 +1,48 @@
+# Site/SEO settings
+email: hi@dergigi.com
+baseurl: ""
+permalink: /:title/
+google_analytics:
+
+name: Gigi
+title: Nostr Resources
+description: >
+  nostr is a protocols, not a platform.
+url: https://nostr-resources.com
+twitter_username: dergigi
+default_img: /assets/images/avatar.png
+social:
+  - name: twitter
+    url: https://twitter.com/dergigi
+  - name: github
+    url: https://github.com/nostr-resources/nostr-resources.github.io
+  - name: bitcoin
+    url: https://dergigi.com/support
+
+# Author settings
+author:
+  - name: Gigi
+    bio: Bio as in biological?
+    url: https://dergigi.com/contact
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - env
+  - scripts
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
