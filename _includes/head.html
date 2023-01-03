@@ -1,0 +1,90 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% capture fullTitle %}
+  {% if page.title %}
+    {% if page.subtitle %}
+      {{ page.title | escape }} - {{ page.subtitle | escape }}
+    {% else %}
+      {{ page.title | escape }}
+    {% endif %}
+  {% else %}
+    {{ site.title | escape }}
+  {% endif %}
+{% endcapture %}
+<title>{{ fullTitle }}</title>
+<meta name="description" content="{{ site.description }}">
+
+<meta itemprop="name" content="{{ site.name }}">
+<meta itemprop="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
+<meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
+
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ fullTitle }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
+
+
+{% if page.path contains 'books' %}
+    <!-- Twitter card image for books -->
+    {% capture slugTitle %}{{ page.title | slugify }}{% endcapture %}
+    {% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
+    {% capture cardImageUrl %}{{ folderPath }}/jpg/{{ slugTitle }}.jpg{% endcapture %}
+
+    <!-- Description for twitter card -->
+    {% capture cardAuthors %}{{ page.authors | join: " and " }}{% endcapture %}
+    {% capture cardDescription %}Book by {{ cardAuthors }}{% endcapture %}
+{% endif %}
+
+<!-- Twitter cards -->
+<meta name="twitter:site"    content="@{{ site.title }}">
+<meta name="twitter:creator" content="@{{ site.twitter_username }}">
+<meta name="twitter:title"   content="{{ fullTitle }}">
+<meta name="twitter:url"     content="{{ page.url | absolute_url }}">
+
+{% if page.description %}
+<meta name="twitter:description" content="{{ page.description | escape }}">
+{% elsif cardDescription %}
+<meta name="twitter:description" content="{{ cardDescription | escape }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+
+{% if page.image %}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ page.image | absolute_url }}">
+{% elsif cardImageUrl %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{ cardImageUrl | absolute_url }}">
+{% else %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{ site.default_img | absolute_url }}">
+{% endif %}
+<!-- end of Twitter cards -->
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+<link rel="stylesheet" href="{{ '/assets/css/app.min.css' | prepend: site.baseurl }}">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.0/css/all.css">
+
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl }}">
+<link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl }}">
+
+{% if site.google_analytics %}
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', '{{ site.google_analytics }}', 'auto');
+    ga('send', 'pageview');
+  </script>
+{% endif %}

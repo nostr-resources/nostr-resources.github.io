@@ -1,0 +1,58 @@
+//----------------------------------------------
+// Buttons
+//----------------------------------------------
+button {
+  @include btn-split($color-white, $color-white, 2px, 0.75em 1em);
+
+  margin: 0;
+
+  font-family: $font;
+  font-weight: 400;
+  font-size: $font-small;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  outline: 0;
+  cursor: pointer;
+  -webkit-appearance: none;
+  transition: background 200ms ease-in-out;
+}
+
+.action-buttons {
+  text-align: center;
+
+  small {
+    color: $color-darkgrey
+  }
+  a {
+    color: $color-lightgrey !important;
+  }
+}
+
+.button {
+  a {
+    border: 0;
+    text-align: center;
+    display: inline-block;
+    padding: 0.5em;
+    width: 8.5em;
+    margin: 0.21em;
+    color: $color-white !important;
+    background-color: $color-orange-dark;
+    border-radius: 8px;
+    font-weight: bolder;
+    font-size: $font-large;
+    text-decoration: none !important;
+    transition: box-shadow 200ms ease-out;
+  }
+  a:hover {
+    background-color: $color-orange;
+  }
+}
+
+.button-wide {
+  a {
+    width: 10em;
+  }
+}

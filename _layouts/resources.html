@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+{% include anchor-headings.html html=content anchorClass="toc__anchor" anchorBody="#" %}
+
+<hr/>
+
+<h3 id="toc">
+  Table of Contents
+  <a href="#toc" class="toc__anchor">#</a>
+</h3>
+
+{% include toc.html html=content class="toc" %}
