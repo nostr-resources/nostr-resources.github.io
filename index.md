@@ -12,19 +12,18 @@ redirect_from: resources
 
 ## WTF is nostr?
 
-nostr is new and confusing but also really cool. 
+nostr is new and confusing but also really cool. It is **the simplest open protocol that is able to create a
+censorship-resistant global "social" network** once and for all.
 
-It is the simplest open protocol that is able to create a
-censorship-resistant global "social" network once and for all. It doesn't rely
-on any trusted central server, hence it is resilient; it is based on
-cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P
-techniques, therefore it works.
+- It doesn't rely on any trusted central server, hence it is resilient.
+- It is based on cryptographic keys and signatures, so it is tamperproof.
+- It does not rely on P2P techniques, therefore it works.
 
-- There are two components: __clients__ and __relays__. Each user runs a client. Anyone can run a relay.
+nostr's design is very basic:
+
+- There are two components: **clients** and **relays**. Each user runs a client. Anyone can run a relay.
 - Every user is identified by a public key. Every post is signed. Every client validates these signatures.
 - Clients fetch data from relays of their choice and publish data to other relays of their choice. A relay doesn't talk to another relay, only directly to users.
-
----
 
 To use nostr, you need a [client](#clients) and a [key](#keys).
 
@@ -33,7 +32,6 @@ To use nostr, you need a [client](#clients) and a [key](#keys).
 - To get updates from other people, you ask multiple relays if they know anything about these other people. 
 - Anyone can run a relay. A relay is very simple and dumb. It does nothing besides accepting posts from some people and forwarding to others.
 - Relays don't have to be trusted. Signatures are verified on the client side.
-
 
 ---
 
@@ -59,10 +57,10 @@ To use nostr, you need a [client](#clients) and a [key](#keys).
 Your keys are your identity. You can think of your public key (`npub...`) as
 your username and your private key (`nsec...`) as your password. 
 
-Keys exist in two formats, `hex` and the above mentioned `npub/nsec`. You can
-use this tool to convert between the two formats: https://github.com/rot13maxi/key-convertr [^fn-keys]
+Keys exist in two formats, `hex` and the above mentioned npub/nsec. You can
+use a [key converter tool](https://github.com/rot13maxi/key-convertr)[^fn-keys] to convert between the two formats: 
 
-[^fn-keys]: There's also https://damus.io/key/ but DO NOT use it for private key conversions. Don't paste your private key into websites. Just don't.
+[^fn-keys]: There's also the [damus.io/key](https://damus.io/key/) but DO NOT use it for private key conversions. Don't paste your private key into websites. Just don't.
 
 ⚠️ **DO NOT PASTE YOUR PRIVATE KEYS INTO WEBSITES**[^fn-xss]
 
