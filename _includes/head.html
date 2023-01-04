@@ -28,17 +28,6 @@
 <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
 
-{% if page.path contains 'books' %}
-    <!-- Twitter card image for books -->
-    {% capture slugTitle %}{{ page.title | slugify }}{% endcapture %}
-    {% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
-    {% capture cardImageUrl %}{{ folderPath }}/jpg/{{ slugTitle }}.jpg{% endcapture %}
-
-    <!-- Description for twitter card -->
-    {% capture cardAuthors %}{{ page.authors | join: " and " }}{% endcapture %}
-    {% capture cardDescription %}Book by {{ cardAuthors }}{% endcapture %}
-{% endif %}
-
 <!-- Twitter cards -->
 <meta name="twitter:site"    content="@{{ site.title }}">
 <meta name="twitter:creator" content="@{{ site.twitter_username }}">
