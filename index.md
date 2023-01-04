@@ -19,6 +19,14 @@ censorship-resistant global "social" network** once and for all.
 - It is based on cryptographic keys and signatures, so it is tamperproof.
 - It does not rely on P2P techniques, therefore it works.
 
+---
+
+<center>
+  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
+</center>
+
+---
+
 nostr's design is very basic:
 
 - There are two components: **clients** and **relays**. Each user runs a client. Anyone can run a relay.
@@ -32,25 +40,6 @@ To use nostr, you need a [key](#keys) and a [client](#clients).
 - To get updates from other people, you ask multiple relays if they know anything about these other people. 
 - Anyone can run a relay. A relay is very simple and dumb. It does nothing besides accepting posts from some people and forwarding to others.
 - Relays don't have to be trusted. Signatures are verified on the client side.
-
----
-
-- [WTF is nostr?](#wtf-is-nostr)
-- [Keys](#keys)
-- [Clients](#clients)
-- [Relays](#relays)
-- [Pro Tips](#pro-tips)
-  - [Finding others](#finding-others)
-  - [Posting images](#posting-images)
-  - [Verification](#verification)
-  - [Stats](#stats)
-  - [Sats](#sats)
-  - [Explorers](#explorers)
-  - [More info](#more-info)
-- [Translations](#translations)
-- [About these Resources](#about-these-resources)
-
----
 
 ## Keys
 
