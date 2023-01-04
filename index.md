@@ -76,6 +76,7 @@ list of clients. Here are some I like:
 - [nostr.rocks](https://nostr.rocks/) - Twitter-style interface (Branle)
 - [astral.ninja](https://astral.ninja/) - Fork of Branle with different UI & global feed
 - [snort.social](https://snort.social/) - Very simple feed with automatic image-upload
+- [yosup.app](https://yosup.app/) - Mobile-friendly and twitter-like
 
 Mobile clients:
 - [Damus](https://testflight.apple.com/join/CLwjLxWl) - Twitter-style iOS client, also works on MacOS
@@ -85,6 +86,8 @@ are in development and should be available for testing soon.
 
 [^nosky]: [KotlinGeekDev/Nosky](https://github.com/KotlinGeekDev/Nosky)
 [^nostros]: [KoalaSat/nostros](https://github.com/KoalaSat/nostros)
+
+However, you can use the [Kiwi Browser](https://kiwibrowser.com/) which allows you to install Alby or nos2x, which in turn allows you to use any web client on Android. [Yosup](https://yosup.app/) has a great mobile experience, for example.
 
 There's also [Nostr Console](https://github.com/vishalxl/nostr_console),
 [noscl](https://github.com/fiatjaf/noscl), and
