@@ -25,7 +25,7 @@ nostr's design is very basic:
 - Every user is identified by a public key. Every post is signed. Every client validates these signatures.
 - Clients fetch data from relays of their choice and publish data to other relays of their choice. A relay doesn't talk to another relay, only directly to users.
 
-To use nostr, you need a [client](#clients) and a [key](#keys).
+To use nostr, you need a [key](#keys) and a [client](#clients).
 
 - Everybody runs a client. It can be a native client, a web client, etc. 
 - To publish something, you write a post, sign it with your key and send it to multiple relays (servers hosted by someone else, or yourself). 
@@ -94,8 +94,8 @@ Mobile clients:
 There are no Android clients as of today. Nosky[^nosky] and Nostros[^nostros]
 are in development and should be available for testing soon.
 
-[^nosky]: https://github.com/KotlinGeekDev/Nosky
-[^nostros]: https://github.com/KoalaSat/nostros
+[^nosky]: [KotlinGeekDev/Nosky](https://github.com/KotlinGeekDev/Nosky)
+[^nostros]: [KoalaSat/nostros](https://github.com/KoalaSat/nostros)
 
 There's also [Nostr Console](https://github.com/vishalxl/nostr_console),
 [noscl](https://github.com/fiatjaf/noscl), and
@@ -120,6 +120,7 @@ Run your own:
 
 ## Pro Tips
 
+Some things work a bit differently and aren't obvious.
 
 
 ### Finding others
@@ -171,9 +172,9 @@ amount, and a pay button. One such client is Damus, which shows a nice
 ### Explorers
 
 There's [brb.io](https://brb.io/) (also a relay) which indexes public notes and makes them [searchable](https://brb.io/search) and stuff. 
-You can view all public notes here: [https://brb.io/n/search?kind=1](https://brb.io/n/search?kind=1)
+It also allows you to [view all public notes](https://brb.io/n/search?kind=1).
 
-- [brb.io/search](https://brb.io/search)
+There's also [nostr.guru](https://www.nostr.guru/) which allows you view events by their ID.
 
 ---
 
@@ -192,12 +193,13 @@ Articles and explainers:
 It's still very early days. 
 There's known [privacy issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) and other things. 
 
+nostr is an open protocol and most clients are open-source.
+You are encouraged to report bugs and create PRs!
+
 ## Translations
 
 - [Chinese translation](https://mp.weixin.qq.com/s/RoO-oOgGAXpcGyjD8IYBdw) by Cakksakkas
 
-nostr is an open protocol and most clients are open-source. 
-Feel free to report bugs and create PRs!
 
 ## About these Resources
 
