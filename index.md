@@ -181,6 +181,7 @@ Articles and explainers:
 - [usenostr.org](https://usenostr.org/) by Pluja
 - [What is Nostr, and how to start using Nostr](https://github.com/vishalxl/nostr_console/discussions/31) by Vishal
 - [Nostr, an Introduction](https://wiki.wellorder.net/post/nostr-intro/) by Greg Heartsfield
+- [Nostr Newcomers Most Common Questions and Answers](https://uselessshit.co/resources/nostr/) by pitiunited
 
 It's still very early days. 
 There's known [privacy issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) and other things. 
