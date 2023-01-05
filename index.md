@@ -127,14 +127,20 @@ message, but the `&pf=1` limits the twitter search to only people you follow.
 ### Posting images
 
 Most clients will display image URLs as images, so you can just upload any image
-to sites like [imgbb.com](https://imgbb.com/) or [imgur](https://imgur.com/) and
-then post the image as an URL like this:
+to image sharing sites and post the URL like this:
 
 ```
 https://i.ibb.co/w4WvnYb/image.png
 ```
 
 This also works for videos. 
+
+Here are some free image hosts:
+
+- [nostr.build](https://nostr.build/)
+- [imgbb.com](https://imgbb.com/)
+- [imgur](https://imgur.com/)
+- [postimages.org](https://postimages.org/)
 
 ### Verification
 
