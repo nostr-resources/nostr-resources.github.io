@@ -18,6 +18,7 @@ censorship-resistant global "social" network** once and for all.
 - It doesn't rely on any trusted central server, hence it is resilient.
 - It is based on cryptographic keys and signatures, so it is tamperproof.
 - It does not rely on P2P techniques, therefore it works.
+- Howto Start with Nostr [Tutorial in Italian](https://www.youtube.com/watch?v=m0yhG-1vNt4)
 
 ---
 
@@ -77,6 +78,7 @@ list of clients. Here are some I like:
 - [astral.ninja](https://astral.ninja/) - Fork of Branle with different UI & global feed
 - [snort.social](https://snort.social/) - Very simple feed with automatic image-upload
 - [yosup.app](https://yosup.app/) - Mobile-friendly and twitter-like
+- [nostrpy](https://github.com/monty888/nostrpy) - Client, relay and tools in python
 
 Mobile clients:
 - [Damus](https://testflight.apple.com/join/CLwjLxWl) - Twitter-style iOS client, also works on MacOS
@@ -107,7 +109,7 @@ Run your own:
 
 - [Set up a Nostr Relay server in under 5 minutes](https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under)[^fn-fork]
 
-[^fn-fork]: Fork with small modifications/fixes: [Install a nostr relay](https://www.massmux.com/install-a-nostr-relay/)
+[^fn-fork]: Fork with small modifications/fixes: [Install a nostr relay (nostream)](https://www.massmux.com/install-a-nostr-relay/)
 
 ## Pro Tips
 
