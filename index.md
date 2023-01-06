@@ -197,7 +197,7 @@ You are encouraged to report bugs and create PRs!
 ## Translations
 
 - [Chinese translation](https://mp.weixin.qq.com/s/RoO-oOgGAXpcGyjD8IYBdw) by Cakksakkas
-
+- [French translation](https://nostr.fr) by Marco.BTC.fr
 
 ## About these Resources
 
