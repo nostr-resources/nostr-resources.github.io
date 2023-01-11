@@ -159,6 +159,7 @@ in the stats.
 
 - [nashboard.space](https://nashboard.space/)
 - [nostr.io](https://nostr.io/stats)
+- [nostr.band](https://nostr.band/stats.html)
 
 ### Sats
 
@@ -172,6 +173,8 @@ There's [brb.io](https://brb.io/) (also a relay) which indexes public notes and 
 It also allows you to [view all public notes](https://brb.io/n/search?kind=1).
 
 There's also [nostr.guru](https://www.nostr.guru/) which allows you view events by their ID.
+
+And at [nostr.band](https://nostr.band/) you can search profiles and posts by keyword, and also checkout links/hashtags/people that are currently trending on the network. 
 
 ---
 
