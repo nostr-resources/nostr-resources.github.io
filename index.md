@@ -6,7 +6,9 @@ description: nostr is new and confusing but also really cool.
 redirect_from: resources
 ---
 
-**TL;DR:** nostr is a protocol that has the power to replace twitter, Telegram, and other things.
+**TL;DR:** nostr[^fn-nostr] is a protocol that has the power to replace twitter, Telegram, and other things.
+
+[^fn-nostr]: nostr = Notes and Other Stuff Transmitted by Relays
 
 ---
 
