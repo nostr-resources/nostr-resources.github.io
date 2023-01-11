@@ -176,7 +176,11 @@ It also allows you to [view all public notes](https://brb.io/n/search?kind=1).
 
 There's also [nostr.guru](https://www.nostr.guru/) which allows you view events by their ID.
 
-And at [nostr.band](https://nostr.band/) you can search profiles and posts by keyword, and also checkout links/hashtags/people that are currently trending on the network. 
+And at [nostr.band](https://nostr.band/) you can search profiles and posts by keyword, and also check out links/hashtags/people that are currently trending on the network. 
+
+### Bots
+
+You can create a search bot at [sb.nostr.band](https://sb.nostr.band) and then follow it to receive new posts matching a keyword or hashtag right into your feed. 
 
 ---
 
