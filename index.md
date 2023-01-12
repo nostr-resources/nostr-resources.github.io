@@ -48,7 +48,7 @@ To use nostr, you need a [key](#keys) and a [client](#clients).
 Your keys are your identity. You can think of your public key (`npub...`) as
 your username and your private key (`nsec...`) as your password. 
 
-⚠️ **DO NOT PASTE YOUR PRIVATE KEYS INTO WEBSITES**[^fn-xss] ⚠️
+⚠️ **DO NOT PASTE YOUR PRIVATE KEY INTO WEBSITES**[^fn-xss] ⚠️
 
 Keys exist in two formats, `hex` and the above mentioned npub/nsec. You can use
 a [key converter tool](https://github.com/rot13maxi/key-convertr)[^fn-keys] to
