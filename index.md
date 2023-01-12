@@ -111,6 +111,20 @@ Run your own:
 
 [^fn-fork]: Fork with small modifications/fixes: [Install a nostr relay](https://www.massmux.com/install-a-nostr-relay/)
 
+## Tools
+
+nostr can do more than just social media.
+
+- [Sendstr](https://sendstr.com/) - shared clipboard between devices over nostr
+- [nosbin](https://nosbin.com/) - pastebin over nostr
+
+
+## Games
+
+Games? WTF? Yes, games:
+
+- [Jester](https://jesterui.github.io/) - Chess over nostr by theborakompanioni
+
 ## Pro Tips
 
 Some things work a bit differently and aren't obvious.
