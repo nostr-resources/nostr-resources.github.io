@@ -148,7 +148,7 @@ to image sharing sites and post the URL like this:
 https://i.ibb.co/w4WvnYb/image.png
 ```
 
-This also works for videos. 
+This also works for videos.
 
 Here are some free image hosts:
 
@@ -157,7 +157,7 @@ Here are some free image hosts:
 - [imgur](https://imgur.com/)
 - [postimages.org](https://postimages.org/)
 
-### Verification
+### Verifying yourself
 
 If you have a domain and want to have a "verified" checkmark, here is some
 useful info:
@@ -165,7 +165,7 @@ useful info:
 - [NVK's guide (using Github Pages)](https://nvk.org/n00b-nip5)
 - [metasikander's guide (generic)](https://gist.github.com/metasikander/609a538e6a03b2f67e5c8de625baed3e)
 
-### Stats
+## Stats
 
 Ever since [Jack](https://twitter.com/jack/status/1603945963944480768) joined
 (and funded some nostr devs) and [Elon put it on his naughty
@@ -177,28 +177,30 @@ in the stats.
 - [nostr.io](https://nostr.io/stats)
 - [nostr.band](https://nostr.band/stats.html)
 
-### Sats
+## Sats
 
 Some clients will render Lightning invoices natively, showing the recipient, 
 amount, and a pay button. One such client is Damus, which shows a nice 
 [little widget and a pay button](https://i.ibb.co/zhd4Fbs/damus-invoice-render.png).
 
-### Explorers
+## Search
 
-There's [brb.io](https://brb.io/) (also a relay) which indexes public notes and makes them [searchable](https://brb.io/search) and stuff. 
-It also allows you to [view all public notes](https://brb.io/n/search?kind=1).
+Most clients support search, but there's also:
 
-There's also [nostr.guru](https://www.nostr.guru/) which allows you view events by their ID.
-
-And at [nostr.band](https://nostr.band/) you can search profiles and posts by keyword, and also check out links/hashtags/people that are currently trending on the network. 
+- [brb.io/search](https://brb.io/search)
+- [nostr.band](https://nostr.band/)
 
 ### Bots
 
 You can create a search bot at [sb.nostr.band](https://sb.nostr.band) and then follow it to receive new posts matching a keyword or hashtag right into your feed. 
 
+## Explorers
+
+- [nostr.guru](https://www.nostr.guru/)
+
 ---
 
-### More info
+## More info
 
 - [nostr.net](https://www.nostr.net/) aka awesome-nostr by @aaaljaz
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) by fiatjaf
