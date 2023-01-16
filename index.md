@@ -73,7 +73,9 @@ It's still early days, so be prepared to get rekt.
 ## Clients
 
 Periodically check [nostr.net](https://www.nostr.net/) which keeps a curated
-list of clients. Here are some I like:
+list of clients or have a look at the [client comparison table](https://github.com/vishalxl/Nostr-Clients-Features-List). 
+
+Here are some I like:
 
 - [nostr.rocks](https://nostr.rocks/) - Twitter-style interface (Branle)
 - [astral.ninja](https://astral.ninja/) - Fork of Branle with different UI & global feed
