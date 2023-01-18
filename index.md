@@ -233,6 +233,7 @@ You are encouraged to report bugs and create PRs!
 
 - [Chinese translation](https://mp.weixin.qq.com/s/RoO-oOgGAXpcGyjD8IYBdw) by Cakksakkas
 - [French translation](https://nostr.fr) by Marco.BTC.fr
+- [Spanish translation](https://bitcoinnostr.com/recursos-de-nostr/) by [BitByBit](https://nostr.guru/p/npub1luhyzgce7qtcs6r6v00ryjxza8av8u4dzh3avg0zks38tjktnmxspxq903)
 
 ## About these Resources
 
