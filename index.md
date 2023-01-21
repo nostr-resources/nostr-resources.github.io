@@ -84,9 +84,10 @@ Here are some I like:
 
 Mobile clients:
 - [Damus](https://testflight.apple.com/join/CLwjLxWl) - Twitter-style iOS client, also works on MacOS
-- On Android, you can use the [Kiwi Browser](https://kiwibrowser.com/) which allows you to install Alby or nos2x, which in turn allows you to use any web client. [Yosup](https://yosup.app/) has a good mobile experience, for example.
+- [Amethyst](https://github.com/vitorpamplona/amethyst/releases/) - Twitter-style Android client (early stage APK releases)
+- On Android, you can also use the [Kiwi Browser](https://kiwibrowser.com/) which allows you to install Alby or nos2x, which in turn allows you to use any web client. [Yosup](https://yosup.app/) has a good mobile experience, for example.
 
-There are no native Android clients as of today. Nosky[^nosky], Nostros[^nostros], and Amethyst[^amethyst]
+There are no native Android clients in the Play Store, as of today. Nosky[^nosky], Nostros[^nostros], and Amethyst[^amethyst]
 are in development and should be available for testing soon.
 
 [^nosky]: [KotlinGeekDev/Nosky](https://github.com/KotlinGeekDev/Nosky)
