@@ -81,6 +81,7 @@ Here are some I like:
 - [snort.social](https://snort.social/) - Very simple feed with automatic image-upload
 - [iris.to](https://iris.to/) - Clean interface, supports block lists and webtorrents
 - [yosup.app](https://yosup.app/) - Mobile-friendly and twitter-like
+- [hamstr.to](https://hamstr.to/) - Twitter interface, multi-account support
 
 Mobile clients:
 - [Damus](https://testflight.apple.com/join/CLwjLxWl) - Twitter-style iOS client, also works on MacOS
