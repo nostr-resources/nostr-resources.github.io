@@ -77,9 +77,9 @@ list of clients or have a look at the [client comparison table](https://github.c
 
 Here are some I like:
 
-- [nostr.rocks](https://nostr.rocks/) - Twitter-style interface (Branle)
 - [astral.ninja](https://astral.ninja/) - Fork of Branle with different UI & global feed
 - [snort.social](https://snort.social/) - Very simple feed with automatic image-upload
+- [iris.to](https://iris.to/) - Clean interface, supports block lists and webtorrents
 - [yosup.app](https://yosup.app/) - Mobile-friendly and twitter-like
 
 Mobile clients:
