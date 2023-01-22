@@ -48,7 +48,9 @@ To use nostr, you need a [key](#keys) and a [client](#clients).
 Your keys are your identity. You can think of your public key (`npub...`) as
 your username and your private key (`nsec...`) as your password. 
 
-⚠️ **DO NOT PASTE YOUR PRIVATE KEY INTO WEBSITES**[^fn-xss] ⚠️
+Two quick things:
+- ⚠️ **DO NOT PASTE YOUR PRIVATE KEY INTO WEBSITES**[^fn-xss] ⚠️
+- Store your keys securely and do not share your private key
 
 Keys exist in two formats, `hex` and the above mentioned npub/nsec. You can use
 a [key converter tool](https://github.com/rot13maxi/key-convertr)[^fn-keys] to
@@ -59,8 +61,9 @@ convert between the two formats.
 [^fn-xss]: You have to trust whoever is running the website, obviously, and some clients are vulnerable to XSS attacks. A lot of people got rekt already, and had to re-build their nostr identity because of it.
 
 Use [Alby](https://getalby.com) or [nos2x](https://github.com/fiatjaf/nos2x) to
-generate your keys. These extensions will store your keys safely (or at least
-more safely).
+generate your keys, or generate them using a dedicated tool like
+[rana](https://github.com/grunch/rana). The aforementioned extensions will store
+your keys safely (or at least more safely).
 
 - [Nostr in the Alby Extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
 - [The nos2x browser extension and why you should use it](https://youtu.be/IoLw-3ok3_M)
