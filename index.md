@@ -197,6 +197,7 @@ Most clients support search, but there's also:
 
 - [brb.io/search](https://brb.io/search)
 - [nostr.band](https://nostr.band/)
+- [nostrview.com](https://nostrview.com)
 
 ### Bots
 
