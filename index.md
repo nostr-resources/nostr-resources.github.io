@@ -206,6 +206,10 @@ You can create a search bot at [sb.nostr.band](https://sb.nostr.band) and then f
 - [How to build a nostr gm bot](https://dergigi.com/2023/01/19/how-to-build-a-nostr-gm-bot/) by [Gigi](https://www.nostr.guru/p/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc)
 - [nostr_bot](https://docs.rs/nostr-bot/latest/nostr_bot/) Rust crate
 
+### RSS
+
+You can also create an RSS feed with posts matching some keywords at [rss.nostr.band](https://rss.nostr.band) and use your favorite RSS reader app to follow different nostr conversations.
+
 ## Pods
 
 - [nostrovia](https://nostrovia.org/) - weekly roundup
