@@ -251,6 +251,7 @@ You are encouraged to report bugs and create PRs!
 - [French translation](https://nostr.fr) by Marco.BTC.fr
 - [Spanish translation](https://bitcoinnostr.com/recursos-de-nostr/) by [BitByBit](https://nostr.guru/p/npub1luhyzgce7qtcs6r6v00ryjxza8av8u4dzh3avg0zks38tjktnmxspxq903)
 - [German translation](https://nostr-info.de) by [cercatrova](https://nostr.guru/p/npub1nxzp3zn90r44z07aeajc7wyah4fju49c9d3g45mxvmm64rmnrdusffch7m)
+- [Italian translation](https://gist.github.com/theRescuer/717295270a35b4641081b6ef2cdf3025) by [avallanosterza](https://nostr.guru/p/npub1l0cwargp532n6x62pdcetkau783sxhpfhwu9d6qgpqm8r0mvt0eqqhlf2c)
 
 ## About these Resources
 
