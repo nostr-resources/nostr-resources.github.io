@@ -87,7 +87,7 @@ Here are some I like:
 - [hamstr.to](https://hamstr.to/) - Twitter interface, multi-account support
 
 Mobile clients:
-- [Damus](https://testflight.apple.com/join/CLwjLxWl) - Twitter-style iOS client, also works on MacOS
+- [Damus](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, also works on MacOS
 - [Amethyst](https://github.com/vitorpamplona/amethyst/releases/) - Twitter-style Android client (early stage APK releases)
 - On Android, you can also use the [Kiwi Browser](https://kiwibrowser.com/) which allows you to install Alby or nos2x, which in turn allows you to use any web client. [Yosup](https://yosup.app/) and [Hamstr](https://hamstr.to/) have good mobile experiences, for example.
 
