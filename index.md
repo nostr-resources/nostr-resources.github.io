@@ -165,6 +165,8 @@ Here are some free image hosts:
 - [imgur](https://imgur.com/)
 - [postimages.org](https://postimages.org/)
 
+You can also use your Twitter display picture by [following this guide](https://medium.com/@_Bosch_/how-to-use-your-twitter-display-picture-on-nostr-fd43c6a26257).
+
 ### Verifying yourself
 
 If you have a domain and want to have a "verified" checkmark, here is some
