@@ -231,6 +231,7 @@ You can also create an RSS feed with posts matching some keywords at [rss.nostr.
 
 ## More info
 
+- [nostr.how](https://nostr.how/) by [Jeff Gardner](https://nostr.guru/p/npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc)
 - [nostr.net](https://www.nostr.net/) aka awesome-nostr by @aaaljaz
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) by fiatjaf
 
