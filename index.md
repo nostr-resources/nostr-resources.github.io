@@ -87,12 +87,12 @@ Here are some I like:
 - [hamstr.to](https://hamstr.to/) - Twitter interface, multi-account support
 
 Mobile clients:
-- [Damus](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, also works on MacOS
-- [Amethyst](https://github.com/vitorpamplona/amethyst/releases/) - Twitter-style Android client (early stage APK releases)
-- On Android, you can also use the [Kiwi Browser](https://kiwibrowser.com/) which allows you to install Alby or nos2x, which in turn allows you to use any web client. [Yosup](https://yosup.app/) and [Hamstr](https://hamstr.to/) have good mobile experiences, for example.
+- [Damus (iOS)](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, also works on MacOS[^fn-mac]
+- [Amethyst (Android)](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
 
-There are no native Android clients in the Play Store, as of today. Nosky[^nosky], Nostros[^nostros], and Amethyst[^amethyst]
-are in development and should be available for testing soon.
+There are more native clients in development, Nosky[^nosky] and Nostros[^nostros] being two of them.
+
+On Android, you can also use the [Kiwi Browser](https://kiwibrowser.com/) which allows you to install Alby or nos2x, which in turn allows you to use any web client. [Yosup](https://yosup.app/) and [Hamstr](https://hamstr.to/) have good mobile experiences, for example.
 
 [^nosky]: [KotlinGeekDev/Nosky](https://github.com/KotlinGeekDev/Nosky)
 [^nostros]: [KoalaSat/nostros](https://github.com/KoalaSat/nostros)
@@ -103,6 +103,7 @@ There's also [Nostr Console](https://github.com/vishalxl/nostr_console),
 [nostr-commander](https://github.com/8go/nostr-commander-rs) if you're into CLI
 stuff.
 
+[^fn-mac]: Apple Silicone only (M1 or M2 chip)
 
 ## Relays
 
