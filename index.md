@@ -176,6 +176,17 @@ useful info:
 - [NVK's guide (using Github Pages)](https://nvk.org/n00b-nip5)
 - [metasikander's guide (generic)](https://gist.github.com/metasikander/609a538e6a03b2f67e5c8de625baed3e)
 
+### Receiving Zaps
+
+Zaps are [V4V](https://value4value.info/) lightning payments that are broadcast
+as nostr events, so that clients can display them on user profiles and specific
+notes.
+
+To receive zaps you need a lightning wallet that supports
+[NIP-57](https://github.com/nostr-protocol/nips/blob/master/57.md). Two popular
+custodial solutions are [Stacker News](https://stacker.news) and [Lightning Tip
+Bot](https://ln.tips).
+
 ## Stats
 
 Ever since [Jack](https://twitter.com/jack/status/1603945963944480768) joined
