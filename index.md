@@ -134,10 +134,16 @@ Games? WTF? Yes, games:
 
 - [Jester](https://jesterui.github.io/) - Chess over nostr by theborakompanioni
 
+---
+
 ## Pro Tips
 
-Some things work a bit differently and aren't obvious.
+Some things work a bit differently and aren't always obvious, such as:
 
+- [Finding others](#finding-others)
+- [Posting images](#posting-images)
+- [Verifying yourself](#verifying-yourself)
+- [Receiving Zaps](#receiving-zaps)
 
 ### Finding others
 
