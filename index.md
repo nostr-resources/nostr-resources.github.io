@@ -187,6 +187,14 @@ To receive zaps you need a lightning wallet that supports
 custodial solutions are [Stacker News](https://stacker.news) and [Lightning Tip
 Bot](https://ln.tips).
 
+To use the latter in a more private way, you can:
+
+1. Use [sms4sats](https://sms4sats.com/) to sign up to Telegram
+2. Create an [LN.tips](https://ln.tips) wallet
+3. Type `/nostr add <your_npub>` to add your npub
+4. Type `/advanced` to see your anonymous lightning address...
+5. ...and add it to your nostr profile. Done!
+
 ## Stats
 
 Ever since [Jack](https://twitter.com/jack/status/1603945963944480768) joined
