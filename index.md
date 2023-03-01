@@ -62,8 +62,9 @@ convert between the two formats.
 
 Use [Alby](https://getalby.com) or [nos2x](https://github.com/fiatjaf/nos2x) to
 generate your keys, or generate them using a dedicated tool like
-[rana](https://github.com/grunch/rana). The aforementioned extensions will store
-your keys safely (or at least more safely).
+[rana](https://github.com/grunch/rana) or
+[nostrogen](https://hitony.com/nostrogen/). The aforementioned extensions will
+store your keys safely (or at least more safely).
 
 - [Nostr in the Alby Extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
 - [The nos2x browser extension and why you should use it](https://youtu.be/IoLw-3ok3_M)
