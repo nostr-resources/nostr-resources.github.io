@@ -91,9 +91,9 @@ Mobile clients:
 - [Damus (iOS)](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, also works on MacOS[^fn-mac]
 - [Amethyst (Android)](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
 
-There are more native clients in development, Nosky[^nosky] and Nostros[^nostros] being two of them.
-
 On Android, you can also use the [Kiwi Browser](https://kiwibrowser.com/) which allows you to install Alby or nos2x, which in turn allows you to use any web client. [Yosup](https://yosup.app/) and [Hamstr](https://hamstr.to/) have good mobile experiences, for example.
+
+There are more native clients in development, Nosky[^nosky] and Nostros[^nostros] being two of them.
 
 [^nosky]: [KotlinGeekDev/Nosky](https://github.com/KotlinGeekDev/Nosky)
 [^nostros]: [KoalaSat/nostros](https://github.com/KoalaSat/nostros)
