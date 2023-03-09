@@ -81,11 +81,11 @@ list of clients or have a look at the [client comparison table](https://github.c
 
 Here are some I like:
 
-- [astral.ninja](https://astral.ninja/) - Fork of Branle with different UI & global feed
-- [snort.social](https://snort.social/) - Very simple feed with automatic image-upload
-- [iris.to](https://iris.to/) - Clean interface, supports block lists and webtorrents
+- [iris.to](https://iris.to/) - Clean interface & rich in features
+- [snort.social](https://snort.social/) - Simple interface with automatic image-upload
 - [yosup.app](https://yosup.app/) - Mobile-friendly and twitter-like
 - [hamstr.to](https://hamstr.to/) - Twitter interface, multi-account support
+- [nostrgram.co](https://nostrgram.co/) - Focus on images and media, supports multiple layout styles (Pinterest, 
 
 Mobile clients:
 - [Damus (iOS)](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, also works on MacOS[^fn-mac]
