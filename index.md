@@ -16,7 +16,7 @@ redirect_from: resources
   <div class="button button-black button-medium">
     <a href="#get-started"><i class="fa-solid fa-rocket"></i> Get Started</a>
     <a href="#learn-more"><i class="fa-solid fa-book-open-reader"></i> Learn More</a>
-    <a href="#"><i class="fab fa-github"></i> Get Involved</a>
+    <a href="#get-involved"><i class="fab fa-github"></i> Get Involved</a>
   </div>
 </div>
 
@@ -314,8 +314,26 @@ Articles and explainers:
 It's still very early days. 
 There's known [privacy issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) and other things. 
 
+---
+
+# Get Involved
+
 nostr is an open protocol and most clients are open-source.
-You are encouraged to report bugs and create PRs!
+You are encouraged to report bugs and create pull requests!
+
+nostr protocol:
+- [NIPs](https://github.com/nostr-protocol/nips)
+
+Clients:
+- [Damus](https://github.com/damus-io/damus)
+- [Amethyst](https://github.com/vitorpamplona/amethyst)
+- [Iris](https://github.com/irislib/iris-messenger)
+
+Check out [awesome-nostr](https://github.com/aljazceru/awesome-nostr) for links to other clients, libraries, relay implementations, and related projects to work on.
+
+Also make sure to have a look at the various [nostr bounties](https://bountsr.org/) if you're in the mood to earn sats.
+
+---
 
 ## Translations
 
