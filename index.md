@@ -12,6 +12,16 @@ redirect_from: resources
 
 ---
 
+<div class="action-buttons">
+  <div class="button button-black button-medium">
+    <a href="#"><i class="fa-solid fa-book-open-reader"></i> Learn More</a>
+    <a href="#"><i class="fa-solid fa-rocket"></i> Get Started</a>
+    <a href="#"><i class="fab fa-github"></i> Get Involved</a>
+  </div>
+</div>
+
+---
+
 ## WTF is nostr?
 
 nostr is new and confusing but also really cool. It is **the simplest open protocol that is able to create a
