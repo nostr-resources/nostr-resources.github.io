@@ -45,7 +45,9 @@ censorship-resistant global "social" network** once and for all.
 
 # Get Started
 
-Download a [client](#clients):
+While there are [many clients](#clients), the following three are currently quite popular: Damus for iOS, Amethyst for Android, and Iris for Web.
+
+Download a suitable client:
 
 <div class="action-buttons">
   <div class="button button-black">
@@ -55,7 +57,9 @@ Download a [client](#clients):
   </div>
 </div>
 
-Need help?
+---
+
+Need help? Check out these guides:
 - [Guide for Damus](https://nostr.how/guides/damus) (iOS)
 - [Guide for Amethyst](https://nostr.how/guides/amethyst) (Android)
 - [Guide for Iris](https://nostr.how/guides/iris) (Web)
