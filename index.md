@@ -26,15 +26,6 @@ redirect_from: resources
 >
 ><cite>You, probably</cite>
 
----
-
-<center>
-  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
-</center>
-
----
-
-# What is nostr?
 
 nostr is new and confusing but also really cool. It is **the simplest open protocol that is able to create a
 censorship-resistant global "social" network** once and for all.
@@ -42,6 +33,14 @@ censorship-resistant global "social" network** once and for all.
 - It doesn't rely on any trusted central server, hence it is resilient.
 - It is based on cryptographic keys and signatures, so it is tamperproof.
 - It does not rely on P2P techniques, therefore it works.
+
+---
+
+<center>
+  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
+</center>
+
+---
 
 # Get Started
 
