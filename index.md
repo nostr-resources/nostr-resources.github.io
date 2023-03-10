@@ -12,7 +12,20 @@ redirect_from: resources
 
 ---
 
-## WTF is nostr?
+<div class="action-buttons">
+  <div class="button button-black button-medium">
+    <a href="#get-started"><i class="fa-solid fa-rocket"></i> Get Started</a>
+    <a href="#learn-more"><i class="fa-solid fa-book-open-reader"></i> Learn More</a>
+    <a href="#get-involved"><i class="fab fa-github"></i> Get Involved</a>
+  </div>
+</div>
+
+---
+
+> WTF is nostr?
+>
+><cite>You, probably</cite>
+
 
 nostr is new and confusing but also really cool. It is **the simplest open protocol that is able to create a
 censorship-resistant global "social" network** once and for all.
@@ -28,6 +41,33 @@ censorship-resistant global "social" network** once and for all.
 </center>
 
 ---
+
+# Get Started
+
+While there are [many clients](#clients), the following three are currently quite popular: Damus for iOS, Amethyst for Android, and Iris for Web.
+
+Download a suitable client:
+
+<div class="action-buttons">
+  <div class="button button-black">
+    <a href="https://apps.apple.com/ca/app/damus/id1628663131" target="_blank"><i class="fa-brands fa-apple"></i> Damus</a>
+    <a href="https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst" target="_blank"><i class="fa-brands fa-android"></i> Amethyst</a>
+    <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a>
+  </div>
+</div>
+
+---
+
+Need help? Check out these guides:
+- [Guide for Damus](https://nostr.how/guides/damus) (iOS)
+- [Guide for Amethyst](https://nostr.how/guides/amethyst) (Android)
+- [Guide for Iris](https://nostr.how/guides/iris) (Web)
+
+Make sure to take care of your [key management](#keys)!
+
+---
+
+# Learn More
 
 nostr's design is very basic:
 
@@ -273,8 +313,28 @@ Articles and explainers:
 It's still very early days. 
 There's known [privacy issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) and other things. 
 
+---
+
+# Get Involved
+
 nostr is an open protocol and most clients are open-source.
-You are encouraged to report bugs and create PRs!
+You are encouraged to report bugs and create pull requests!
+
+nostr protocol:
+- [NIPs](https://github.com/nostr-protocol/nips)
+
+Clients:
+- [Damus](https://github.com/damus-io/damus)
+- [Amethyst](https://github.com/vitorpamplona/amethyst)
+- [Iris](https://github.com/irislib/iris-messenger)
+
+Check out [awesome-nostr](https://github.com/aljazceru/awesome-nostr) for links to other clients, libraries, relay implementations, and related projects to work on.
+
+Also make sure to have a look at the various [nostr bounties](https://bountsr.org/) if you're in the mood to earn sats.
+
+This site is open source too. If you can, please [improve this page](https://github.com/nostr-resources/nostr-resources.github.io). You can also create a [translation](#translations).
+
+---
 
 ## Translations
 
@@ -285,13 +345,22 @@ You are encouraged to report bugs and create PRs!
 - [Italian translation](https://gist.github.com/theRescuer/717295270a35b4641081b6ef2cdf3025) by [avallanosterza](https://nostr.guru/p/npub1l0cwargp532n6x62pdcetkau783sxhpfhwu9d6qgpqm8r0mvt0eqqhlf2c)
 - [Brazilian Portuguese translation](https://gist.github.com/fernandoporazzi/d1c47b4f2a1d2c1a2e0654a2a31668ff) por [fernandoporazzi](https://www.nostr.guru/p/npub1wh30wunfpkezx5s7edqu9g0s0raeetf5dgthzm0zw7sk8wqygmjqqfljgh)
 
-## About these Resources
+Please [create a PR](https://github.com/nostr-resources/nostr-resources.github.io/pulls?q=is%3Apr+is%3Aclosed) to add your translation to the list above.
 
-Most of the text above is copied from
+## About
+
+This project evolved out of [a
+gist](https://gist.github.com/dergigi/1ee8dc7e3da4b6572ed785ab24bc9907/revisions)
+that was quite hastily put together. Its purpose was to help people wrap their heads
+around nostr, and I guess this is the purpose still.
+
+Some of the text above is copied from
 [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) and
-[nostr.net](https://www.nostr.net/). I just left some stuff out, so consider this an
-opinionated summary.
+[nostr.net](https://www.nostr.net/). I just left some stuff out, so consider
+the descriptions and explanations an opinionated summary.
 
-This site is open source. [Improve this page.](https://github.com/nostr-resources/nostr-resources.github.io)
+If you found a typo, please [fix it](https://github.com/nostr-resources/nostr-resources.github.io/blob/master/index.md).
+If you have suggestions, please [create an issue](https://github.com/nostr-resources/nostr-resources.github.io/issues).
+If you want to scream at me because you think this whole thing is stupid, please [find me on nostr](https://www.nostr.guru/p/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc).
 
 ---
