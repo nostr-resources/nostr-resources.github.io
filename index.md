@@ -14,8 +14,8 @@ redirect_from: resources
 
 <div class="action-buttons">
   <div class="button button-black button-medium">
-    <a href="#architecture"><i class="fa-solid fa-book-open-reader"></i> Learn More</a>
-    <a href="#getting-started"><i class="fa-solid fa-rocket"></i> Get Started</a>
+    <a href="#learn-more"><i class="fa-solid fa-book-open-reader"></i> Learn More</a>
+    <a href="#get-started"><i class="fa-solid fa-rocket"></i> Get Started</a>
     <a href="#"><i class="fab fa-github"></i> Get Involved</a>
   </div>
 </div>
@@ -43,7 +43,7 @@ censorship-resistant global "social" network** once and for all.
 - It is based on cryptographic keys and signatures, so it is tamperproof.
 - It does not rely on P2P techniques, therefore it works.
 
-# Getting started
+# Get Started
 
 Download a [client](#clients):
 
@@ -55,11 +55,16 @@ Download a [client](#clients):
   </div>
 </div>
 
+Need help?
+- [Guide for Damus](https://nostr.how/guides/damus) (iOS)
+- [Guide for Amethyst](https://nostr.how/guides/amethyst) (Android)
+- [Guide for Iris](https://nostr.how/guides/iris) (Web)
+
 Make sure to take care of your [key management](#keys)!
 
 ---
 
-## Architecture
+# Learn More
 
 nostr's design is very basic:
 
