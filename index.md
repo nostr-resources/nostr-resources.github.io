@@ -14,8 +14,8 @@ redirect_from: resources
 
 <div class="action-buttons">
   <div class="button button-black button-medium">
-    <a href="#what-is-nostr"><i class="fa-solid fa-book-open-reader"></i> Learn More</a>
-    <a href="#"><i class="fa-solid fa-rocket"></i> Get Started</a>
+    <a href="#architecture"><i class="fa-solid fa-book-open-reader"></i> Learn More</a>
+    <a href="#getting-started"><i class="fa-solid fa-rocket"></i> Get Started</a>
     <a href="#"><i class="fab fa-github"></i> Get Involved</a>
   </div>
 </div>
@@ -42,6 +42,22 @@ censorship-resistant global "social" network** once and for all.
 - It doesn't rely on any trusted central server, hence it is resilient.
 - It is based on cryptographic keys and signatures, so it is tamperproof.
 - It does not rely on P2P techniques, therefore it works.
+
+# Getting started
+
+Download a [client](#clients):
+
+<div class="action-buttons">
+  <div class="button button-black">
+    <a href="https://apps.apple.com/ca/app/damus/id1628663131" target="_blank"><i class="fa-brands fa-apple"></i> Damus</a>
+    <a href="https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst" target="_blank"><i class="fa-brands fa-android"></i> Amethyst</a>
+    <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a>
+  </div>
+</div>
+
+Make sure to take care of your [key management](#keys)!
+
+---
 
 ## Architecture
 
