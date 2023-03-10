@@ -345,7 +345,7 @@ This site is open source too. If you can, please [improve this page](https://git
 - [Italian translation](https://gist.github.com/theRescuer/717295270a35b4641081b6ef2cdf3025) by [avallanosterza](https://nostr.guru/p/npub1l0cwargp532n6x62pdcetkau783sxhpfhwu9d6qgpqm8r0mvt0eqqhlf2c)
 - [Brazilian Portuguese translation](https://gist.github.com/fernandoporazzi/d1c47b4f2a1d2c1a2e0654a2a31668ff) por [fernandoporazzi](https://www.nostr.guru/p/npub1wh30wunfpkezx5s7edqu9g0s0raeetf5dgthzm0zw7sk8wqygmjqqfljgh)
 
-Your translation is not listed? Please [create a PR](https://github.com/nostr-resources/nostr-resources.github.io/pulls?q=is%3Apr+is%3Aclosed)!
+Please [create a PR](https://github.com/nostr-resources/nostr-resources.github.io/pulls?q=is%3Apr+is%3Aclosed) to add your translation to the list above.
 
 ## About
 
