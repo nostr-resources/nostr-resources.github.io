@@ -14,8 +14,8 @@ redirect_from: resources
 
 <div class="action-buttons">
   <div class="button button-black button-medium">
-    <a href="#learn-more"><i class="fa-solid fa-book-open-reader"></i> Learn More</a>
     <a href="#get-started"><i class="fa-solid fa-rocket"></i> Get Started</a>
+    <a href="#learn-more"><i class="fa-solid fa-book-open-reader"></i> Learn More</a>
     <a href="#"><i class="fab fa-github"></i> Get Involved</a>
   </div>
 </div>
