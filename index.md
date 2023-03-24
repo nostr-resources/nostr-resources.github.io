@@ -133,10 +133,10 @@ Mobile clients:
 
 On Android, you can also use the [Kiwi Browser](https://kiwibrowser.com/) which allows you to install Alby or nos2x, which in turn allows you to use any web client. [Yosup](https://yosup.app/) and [Hamstr](https://hamstr.to/) have good mobile experiences, for example.
 
-There are more native clients in development, Nosky[^nosky] and Nostros[^nostros] being two of them.
+There are more native clients in development, Nostros[^nostros] and Nozzle[^nozzle] being two of them.
 
-[^nosky]: [KotlinGeekDev/Nosky](https://github.com/KotlinGeekDev/Nosky)
 [^nostros]: [KoalaSat/nostros](https://github.com/KoalaSat/nostros)
+[^nozzle]: [kaiwolfram/Nozzle](https://github.com/kaiwolfram/Nozzle)
 [^amethyst]: [vitorpamplona/amethyst](https://github.com/vitorpamplona/amethyst/)
 
 There's also [Nostr Console](https://github.com/vishalxl/nostr_console),
