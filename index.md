@@ -133,6 +133,7 @@ Web clients:
 - [snort.social](https://snort.social/) - Simple interface with automatic image-upload
 - [yosup.app](https://yosup.app/) - Mobile-friendly and twitter-like
 - [hamstr.to](https://hamstr.to/) - Twitter interface, multi-account support
+- [primal.net](https://primal.net/) - Trending posts, most zapped posts
 - [nostrgram.co](https://nostrgram.co/) - Focus on images and media, supports multiple layout styles
 
 
