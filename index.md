@@ -53,8 +53,9 @@ Download a suitable client:
   <div class="button button-black">
     <a href="https://apps.apple.com/ca/app/damus/id1628663131" target="_blank"><i class="fa-brands fa-apple"></i> Damus</a>
     <a href="https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst" target="_blank"><i class="fa-brands fa-android"></i> Amethyst</a>
-    <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a>
   </div>
+  <br/>
+  <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a>
 </div>
 
 ---
