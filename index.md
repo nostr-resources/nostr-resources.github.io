@@ -67,6 +67,8 @@ Need help? Check out these guides:
 
 Make sure to take care of your [key management](#keys)!
 
+Not happy with the client choice above? Pick one of the [many other clients](#clients)!
+
 ---
 
 # Learn More
