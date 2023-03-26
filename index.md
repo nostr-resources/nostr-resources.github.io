@@ -123,25 +123,29 @@ It's still early days, so be prepared to get rekt.
 Periodically check [nostr.net](https://www.nostr.net/) which keeps a curated
 list of clients or have a look at the [client comparison table](https://github.com/vishalxl/Nostr-Clients-Features-List). 
 
-Here are some I like:
+Mobile clients:
+
+- [Damus (iOS)](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, also works on MacOS[^fn-mac]
+- [Amethyst (Android)](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
+
+There are more native clients in development, Nostros[^nostros] and Nozzle[^nozzle] being two of them.
+
+Web clients:
 
 - [iris.to](https://iris.to/) - Clean interface & rich in features
 - [snort.social](https://snort.social/) - Simple interface with automatic image-upload
 - [yosup.app](https://yosup.app/) - Mobile-friendly and twitter-like
 - [hamstr.to](https://hamstr.to/) - Twitter interface, multi-account support
+- [primal.net](https://primal.net/) - Trending posts, most zapped posts
 - [nostrgram.co](https://nostrgram.co/) - Focus on images and media, supports multiple layout styles
 
-Mobile clients:
-- [Damus (iOS)](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, also works on MacOS[^fn-mac]
-- [Amethyst (Android)](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
-
-On Android, you can also use the [Kiwi Browser](https://kiwibrowser.com/) which allows you to install Alby or nos2x, which in turn allows you to use any web client. [Yosup](https://yosup.app/) and [Hamstr](https://hamstr.to/) have good mobile experiences, for example.
-
-There are more native clients in development, Nostros[^nostros] and Nozzle[^nozzle] being two of them.
+On Android, you can use the [Kiwi Browser](https://kiwibrowser.com/) which
+allows you to install Alby or nos2x, which in turn allows you to use any web
+client. [Yosup](https://yosup.app/) and [Hamstr](https://hamstr.to/) have good
+mobile experiences, for example.
 
 [^nostros]: [KoalaSat/nostros](https://github.com/KoalaSat/nostros)
 [^nozzle]: [kaiwolfram/Nozzle](https://github.com/kaiwolfram/Nozzle)
-[^amethyst]: [vitorpamplona/amethyst](https://github.com/vitorpamplona/amethyst/)
 
 There's also [Nostr Console](https://github.com/vishalxl/nostr_console),
 [noscl](https://github.com/fiatjaf/noscl), and
