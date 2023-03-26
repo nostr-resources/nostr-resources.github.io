@@ -16,8 +16,9 @@ redirect_from: resources
   <div class="button button-black button-medium">
     <a href="#get-started"><i class="fa-solid fa-rocket"></i> Get Started</a>
     <a href="#learn-more"><i class="fa-solid fa-book-open-reader"></i> Learn More</a>
-    <a href="#get-involved"><i class="fab fa-github"></i> Get Involved</a>
   </div>
+  <br/>
+  <a href="#get-involved"><i class="fab fa-github"></i> Get Involved</a>
 </div>
 
 ---
@@ -52,8 +53,9 @@ Download a suitable client:
   <div class="button button-black">
     <a href="https://apps.apple.com/ca/app/damus/id1628663131" target="_blank"><i class="fa-brands fa-apple"></i> Damus</a>
     <a href="https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst" target="_blank"><i class="fa-brands fa-android"></i> Amethyst</a>
-    <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a>
   </div>
+  <br/>
+  <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a>
 </div>
 
 ---
@@ -64,6 +66,8 @@ Need help? Check out these guides:
 - [Guide for Iris](https://nostr.how/guides/iris) (Web)
 
 Make sure to take care of your [key management](#keys)!
+
+Not happy with the client choice above? Pick one of the [many other clients](#clients)!
 
 ---
 
@@ -134,10 +138,10 @@ Web clients:
 
 On Android, you can use the [Kiwi Browser](https://kiwibrowser.com/) which allows you to install Alby or nos2x, which in turn allows you to use any web client. [Yosup](https://yosup.app/) and [Hamstr](https://hamstr.to/) have good mobile experiences, for example.
 
-There are more native clients in development, Nosky[^nosky] and Nostros[^nostros] being two of them.
+There are more native clients in development, Nostros[^nostros] and Nozzle[^nozzle] being two of them.
 
-[^nosky]: [KotlinGeekDev/Nosky](https://github.com/KotlinGeekDev/Nosky)
 [^nostros]: [KoalaSat/nostros](https://github.com/KoalaSat/nostros)
+[^nozzle]: [kaiwolfram/Nozzle](https://github.com/kaiwolfram/Nozzle)
 [^amethyst]: [vitorpamplona/amethyst](https://github.com/vitorpamplona/amethyst/)
 
 There's also [Nostr Console](https://github.com/vishalxl/nostr_console),
@@ -265,13 +269,12 @@ amount, and a pay button. One such client is Damus, which shows a nice
 
 Most clients support search, but there's also:
 
+- [nostrview.com](https://nostrview.com) 
 - [brb.io/search](https://brb.io/search)
-- [nostr.band](https://nostr.band/)
-- [nostrview.com](https://nostrview.com)
+
+You can also create a search bot at [sb.nostr.band](https://sb.nostr.band) and then follow it to receive new posts matching a keyword or hashtag right into your feed.
 
 ### Bots
-
-You can create a search bot at [sb.nostr.band](https://sb.nostr.band) and then follow it to receive new posts matching a keyword or hashtag right into your feed.
 
 - [How to build a nostr gm bot](https://dergigi.com/2023/01/19/how-to-build-a-nostr-gm-bot/) by [Gigi](https://www.nostr.guru/p/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc)
 - [nostr_bot](https://docs.rs/nostr-bot/latest/nostr_bot/) Rust crate
