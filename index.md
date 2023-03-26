@@ -264,13 +264,12 @@ amount, and a pay button. One such client is Damus, which shows a nice
 
 Most clients support search, but there's also:
 
+- [nostrview.com](https://nostrview.com) 
 - [brb.io/search](https://brb.io/search)
-- [nostr.band](https://nostr.band/)
-- [nostrview.com](https://nostrview.com)
+
+You can also create a search bot at [sb.nostr.band](https://sb.nostr.band) and then follow it to receive new posts matching a keyword or hashtag right into your feed.
 
 ### Bots
-
-You can create a search bot at [sb.nostr.band](https://sb.nostr.band) and then follow it to receive new posts matching a keyword or hashtag right into your feed.
 
 - [How to build a nostr gm bot](https://dergigi.com/2023/01/19/how-to-build-a-nostr-gm-bot/) by [Gigi](https://www.nostr.guru/p/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc)
 - [nostr_bot](https://docs.rs/nostr-bot/latest/nostr_bot/) Rust crate
