@@ -268,6 +268,28 @@ To use Lightning Tip Bot in a more private way, you can:
 4. Type `/advanced` to see your anonymous lightning address...
 5. ...and add it to your nostr profile. Done!
 
+### Mentions & Deep Links
+
+You can mention a note or a user by putting an "@" before an _npub_ or _note_ like this:
+
+- `@npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc`
+- `@note1m2ev3e2ma7a84rr8053qhsggeg6apmp00445v8k7tyeqvhu5u8aqpc30sp`
+
+When mentioning a note in another note, the note will be shown as a quote-note.[^fn-quotenote]
+
+Most clients support the `nostr:` URL scheme as defined in
+[NIP-21](https://github.com/nostr-protocol/nips/blob/master/21.md), which means
+you can link to your nostr profile by putting "nostr:" in front of your npub.
+This will result in a link that opens in the user's nostr client, like
+so: [open my nostr
+profile](nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc).
+
+You can use this for http redirects too, which can be used as a way to verify your nostr profile if you own a domain, like so: dergigi.com/nostr
+
+There is even a [redirect tool](https://nostredirect.davidcoen.it/) that you can use; h/t to [David](nostr:npub149mp2m0q8prpdys7x2lusv2vceraxwzr4ajf6tv3l24my3gtszxsncas0t) for putting it together.
+
+[^fn-quotenote]: How's that for a tongue twister?
+
 ## Stats
 
 Ever since [Jack](https://twitter.com/jack/status/1603945963944480768) joined
