@@ -1,0 +1,28 @@
+- name: NostrCheck.me
+  link: https://nostrcheck.me/
+
+- name: Nostr.Industries
+  link: https://nostr.industries/
+
+- name: NostrVerified.com
+  link: https://nostrverified.com/
+
+- name: NostrPlebs.com
+  link: https://nostrplebs.com/
+  price: 12.5k sats
+
+- name: Plebs.Place
+  link: https://plebs.place/
+  price: 5k sats
+
+- name: no.str.cr
+  link: https://no.str.cr/verify.html
+  price: $1.00 USD
+
+- name: Verified-Nostr.com
+  link: https://verified-nostr.com/
+  price: $0.99 USD / month
+
+- name: Nostrich.Love
+  link: https://uselessshit.co/nostr/nip-05/
+  price: 420 sats
