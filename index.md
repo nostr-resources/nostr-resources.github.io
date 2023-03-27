@@ -231,6 +231,11 @@ useful info:
 - [NVK's guide (using Github Pages)](https://nvk.org/n00b-nip5)
 - [metasikander's guide (generic)](https://gist.github.com/metasikander/609a538e6a03b2f67e5c8de625baed3e)
 
+There are also [paid
+services](https://uselessshit.co/resources/nostr/#paid-nip-05-providers) you can
+use, but be aware that all these are centralized and that they can rug-pull you
+at any moment.
+
 ### Receiving Zaps
 
 Zaps are [V4V](https://value4value.info/) lightning payments that are broadcast
