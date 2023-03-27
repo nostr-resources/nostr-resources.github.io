@@ -338,6 +338,7 @@ Articles and explainers:
 - [Nostr, an Introduction](https://wiki.wellorder.net/post/nostr-intro/) by Greg Heartsfield
 - [Nostr Newcomers Most Common Questions and Answers](https://uselessshit.co/resources/nostr/) by pitiunited
 - [Why Nostr Matters](https://blog.lopp.net/why-nostr-matters/) by Jameson Lopp
+- Video: [How To Use NOSTR](https://youtu.be/qn-Zp491t4Y) by [BTC Sessions](nostr:npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8)
 
 It's still very early days.
 There's known [privacy issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) and other things.
