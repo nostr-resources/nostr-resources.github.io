@@ -254,11 +254,13 @@ as nostr events, so that clients can display them on user profiles and specific
 notes.
 
 To receive zaps you need a lightning wallet that supports
-[NIP-57](https://github.com/nostr-protocol/nips/blob/master/57.md). Two popular
-custodial solutions are [Stacker News](https://stacker.news) and [Lightning Tip
-Bot](https://ln.tips).
+[NIP-57](https://github.com/nostr-protocol/nips/blob/master/57.md).
+Three popular custodial solutions are
+[Stacker News](https://stacker.news),
+[Lightning Tip Bot](https://ln.tips),
+and [Alby](https://getalby.com/).
 
-To use the latter in a more private way, you can:
+To use Lightning Tip Bot in a more private way, you can:
 
 1. Use [sms4sats](https://sms4sats.com/) to sign up to Telegram
 2. Create an [LN.tips](https://ln.tips) wallet
