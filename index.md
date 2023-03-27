@@ -27,7 +27,6 @@ redirect_from: resources
 >
 ><cite>You, probably</cite>
 
-
 nostr is new and confusing but also really cool. It is **the simplest open protocol that is able to create a
 censorship-resistant global "social" network** once and for all.
 
@@ -61,6 +60,7 @@ Download a suitable client:
 ---
 
 Need help? Check out these guides:
+
 - [Guide for Damus](https://nostr.how/guides/damus) (iOS)
 - [Guide for Amethyst](https://nostr.how/guides/amethyst) (Android)
 - [Guide for Iris](https://nostr.how/guides/iris) (Web)
@@ -81,18 +81,19 @@ nostr's design is very basic:
 
 To use nostr, you need a [key](#keys) and a [client](#clients).
 
-- Everybody runs a client. It can be a native client, a web client, etc. 
-- To publish something, you write a post, sign it with your key and send it to multiple relays (servers hosted by someone else, or yourself). 
-- To get updates from other people, you ask multiple relays if they know anything about these other people. 
+- Everybody runs a client. It can be a native client, a web client, etc.
+- To publish something, you write a post, sign it with your key and send it to multiple relays (servers hosted by someone else, or yourself).
+- To get updates from other people, you ask multiple relays if they know anything about these other people.
 - Anyone can run a relay. A relay is very simple and dumb. It does nothing besides accepting posts from some people and forwarding to others.
 - Relays don't have to be trusted. Signatures are verified on the client side.
 
 ## Keys
 
 Your keys are your identity. You can think of your public key (`npub...`) as
-your username and your private key (`nsec...`) as your password. 
+your username and your private key (`nsec...`) as your password.
 
 Two quick things:
+
 - ⚠️ **DO NOT PASTE YOUR PRIVATE KEY INTO WEBSITES**[^fn-xss] ⚠️
 - Store your keys securely and do not share your private key
 
@@ -121,7 +122,7 @@ It's still early days, so be prepared to get rekt.
 ## Clients
 
 Periodically check [nostr.net](https://www.nostr.net/) which keeps a curated
-list of clients or have a look at the [client comparison table](https://github.com/vishalxl/Nostr-Clients-Features-List). 
+list of clients or have a look at the [client comparison table](https://github.com/vishalxl/Nostr-Clients-Features-List).
 
 Mobile clients:
 
@@ -175,7 +176,6 @@ nostr can do more than just social media.
 
 - [Sendstr](https://sendstr.com/) - shared clipboard between devices over nostr
 - [nosbin](https://nosbin.com/) - pastebin over nostr
-
 
 ## Games
 
@@ -264,15 +264,15 @@ in the stats.
 
 ## Sats
 
-Some clients will render Lightning invoices natively, showing the recipient, 
-amount, and a pay button. One such client is Damus, which shows a nice 
+Some clients will render Lightning invoices natively, showing the recipient,
+amount, and a pay button. One such client is Damus, which shows a nice
 [little widget and a pay button](https://i.ibb.co/zhd4Fbs/damus-invoice-render.png).
 
 ## Search
 
 Most clients support search, but there's also:
 
-- [nostrview.com](https://nostrview.com) 
+- [nostrview.com](https://nostrview.com)
 - [brb.io/search](https://brb.io/search)
 
 You can also create a search bot at [sb.nostr.band](https://sb.nostr.band) and then follow it to receive new posts matching a keyword or hashtag right into your feed.
@@ -317,8 +317,8 @@ Articles and explainers:
 - [Nostr Newcomers Most Common Questions and Answers](https://uselessshit.co/resources/nostr/) by pitiunited
 - [Why Nostr Matters](https://blog.lopp.net/why-nostr-matters/) by Jameson Lopp
 
-It's still very early days. 
-There's known [privacy issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) and other things. 
+It's still very early days.
+There's known [privacy issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) and other things.
 
 ---
 
@@ -328,9 +328,11 @@ nostr is an open protocol and most clients are open-source.
 You are encouraged to report bugs and create pull requests!
 
 nostr protocol:
+
 - [NIPs](https://github.com/nostr-protocol/nips)
 
 Clients:
+
 - [Damus](https://github.com/damus-io/damus)
 - [Amethyst](https://github.com/vitorpamplona/amethyst)
 - [Iris](https://github.com/irislib/iris-messenger)
