@@ -246,6 +246,9 @@ Free services:
 - [{{ provider.name }}]({{ provider.link }})
 {% endfor %}
 
+Provider missing? Price changed? \\
+Please [create a PR](https://github.com/nostr-resources/nostr-resources.github.io/blob/master/_data/nip05providers.yml) or [open an issue](https://github.com/nostr-resources/nostr-resources.github.io/issues) to fix it!
+
 ### Receiving Zaps
 
 Zaps are [V4V](https://value4value.info/) lightning payments that are broadcast
