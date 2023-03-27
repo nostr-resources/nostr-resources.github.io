@@ -185,7 +185,7 @@ Games? WTF? Yes, games:
 
 ---
 
-## Pro Tips
+## Tips & Tricks
 
 Some things work a bit differently and aren't always obvious, such as:
 
