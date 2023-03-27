@@ -284,7 +284,7 @@ This will result in a link that opens in the user's nostr client, like
 so: [open my nostr
 profile](nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc).
 
-You can use this for http redirects too, which can be used as a way to verify your nostr profile if you own a domain, like so: dergigi.com/nostr
+You can use this for http redirects too, which can be used as a way to verify your nostr profile if you own a domain, like so: [dergigi.com/npub](https://dergigi.com/npub)
 
 There is even a [redirect tool](https://nostredirect.davidcoen.it/) that you can use; h/t to [David](nostr:npub149mp2m0q8prpdys7x2lusv2vceraxwzr4ajf6tv3l24my3gtszxsncas0t) for putting it together.
 
