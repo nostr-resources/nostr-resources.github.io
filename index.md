@@ -236,15 +236,13 @@ that all these are centralized and that they can rug-pull you at any moment.
 
 Paid services:
 
-{% for provider in site.data.nip05providers %}
-{% unless provider.price %}{% continue %}{% endunless %}
+{% for provider in site.data.nip05providers %}{% unless provider.price %}{% continue %}{% endunless %}
 - [{{ provider.name }}]({{ provider.link }}) ({{ provider.price }})
 {% endfor %}
 
 Free services:
 
-{% for provider in site.data.nip05providers %}
-{% if provider.price %}{% continue %}{% endif %}
+{% for provider in site.data.nip05providers %}{% if provider.price %}{% continue %}{% endif %}
 - [{{ provider.name }}]({{ provider.link }})
 {% endfor %}
 
