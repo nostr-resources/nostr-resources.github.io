@@ -295,7 +295,7 @@ You can also create a search bot at [sb.nostr.band](https://sb.nostr.band) and t
 
 ### Bots
 
-- [How to build a nostr gm bot](https://dergigi.com/2023/01/19/how-to-build-a-nostr-gm-bot/) by [Gigi](https://www.nostr.guru/p/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc)
+- [How to build a nostr gm bot](https://dergigi.com/2023/01/19/how-to-build-a-nostr-gm-bot/) by [Gigi](nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc)
 - [nostr_bot](https://docs.rs/nostr-bot/latest/nostr_bot/) Rust crate
 
 ### RSS
@@ -309,11 +309,11 @@ You can also create an RSS feed with posts matching some keywords at [rss.nostr.
 
 Episodes:
 
-- [BR018](https://bitcoin.review/podcast/episode-18/) - [jack](https://www.nostr.guru/p/npub1sg6plzptd64u62a878hep2kev88swjh3tw00gjsfl8f237lmu63q0uf63m), [fiatjaf](https://www.nostr.guru/p/npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6), and [jb55](https://www.nostr.guru/p/npub1xtscya34g58tk0z605fvr788k263gsu6cy9x0mhnm87echrgufzsevkk5s) talk nostr with [nvk](https://www.nostr.guru/p/npub1az9xj85cmxv8e9j9y80lvqp97crsqdu2fpu3srwthd99qfu9qsgstam8y8) ([transcript](https://archive.is/wip/Qoh4M), [archive](https://archive.is/wip/dkQj2))
-- [Lightning Tidbits 769571](https://pod.link/1586346643/episode/33f509c2a1990640334b48739c59e31f) - [fiatjaf](https://www.nostr.guru/p/npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6) talks nostr with [André Neves](https://www.nostr.guru/p/npub1rvg76s0gz535txd9ypg2dfqv0x7a80ar6e096j3v343xdxyrt4ksmkxrck)
-- [CD63 - building nostr](https://pod.link/1546393840/episode/112bd2a52d54e203ec0c11022b5aaf11), a censorship resistant alternative to twitter, with [fiatjaf](https://www.nostr.guru/p/npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6), [jb55](https://www.nostr.guru/p/npub1xtscya34g58tk0z605fvr788k263gsu6cy9x0mhnm87echrgufzsevkk5s), and [kukks](https://github.com/Kukks), hosted by [ODELL](https://www.nostr.guru/p/npub1qny3tkh0acurzla8x3zy4nhrjz5zd8l9sy9jys09umwng00manysew95gx) ([transcript](https://archive.is/wip/Qoh4M), [archive](https://archive.ph/Qoh4M))
-- [BA691 - A Native Protocol for Social Media](https://pod.link/1359544516/episode/8e647d338c79265bed63dfb06dd71e7b) by [jack](https://www.nostr.guru/p/npub1sg6plzptd64u62a878hep2kev88swjh3tw00gjsfl8f237lmu63q0uf63m)
-- [BTC111 - Decentralized Social Media & Bitcoin](https://www.theinvestorspodcast.com/bitcoin-fundamentals/nostr-decentralized-social-media-william-casarin/) with [jb55](https://www.nostr.guru/p/npub1xtscya34g58tk0z605fvr788k263gsu6cy9x0mhnm87echrgufzsevkk5s) hosted by [Preston Pysh](https://www.nostr.guru/p/npub1s5yq6wadwrxde4lhfs56gn64hwzuhnfa6r9mj476r5s4hkunzgzqrs6q7z) ([transcript](https://chowcollection.medium.com/preston-pysh-btc111-nostr-decentralized-social-media-bitcoin-w-william-casarin-352f6dedce46), [archive](https://archive.ph/uCSDQ))
+- [BR018](https://bitcoin.review/podcast/episode-18/) - [jack](nostr:npub1sg6plzptd64u62a878hep2kev88swjh3tw00gjsfl8f237lmu63q0uf63m), [fiatjaf](nostr:npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6), and [jb55](nostr:npub1xtscya34g58tk0z605fvr788k263gsu6cy9x0mhnm87echrgufzsevkk5s) talk nostr with [nvk](nostr:npub1az9xj85cmxv8e9j9y80lvqp97crsqdu2fpu3srwthd99qfu9qsgstam8y8) ([transcript](https://archive.is/wip/Qoh4M), [archive](https://archive.is/wip/dkQj2))
+- [Lightning Tidbits 769571](https://pod.link/1586346643/episode/33f509c2a1990640334b48739c59e31f) - [fiatjaf](nostr:npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6) talks nostr with [André Neves](nostr:npub1rvg76s0gz535txd9ypg2dfqv0x7a80ar6e096j3v343xdxyrt4ksmkxrck)
+- [CD63 - building nostr](https://pod.link/1546393840/episode/112bd2a52d54e203ec0c11022b5aaf11), a censorship resistant alternative to twitter, with [fiatjaf](nostr:npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6), [jb55](nostr:npub1xtscya34g58tk0z605fvr788k263gsu6cy9x0mhnm87echrgufzsevkk5s), and [kukks](https://github.com/Kukks), hosted by [ODELL](nostr:npub1qny3tkh0acurzla8x3zy4nhrjz5zd8l9sy9jys09umwng00manysew95gx) ([transcript](https://archive.is/wip/Qoh4M), [archive](https://archive.ph/Qoh4M))
+- [BA691 - A Native Protocol for Social Media](https://pod.link/1359544516/episode/8e647d338c79265bed63dfb06dd71e7b) by [jack](nostr:npub1sg6plzptd64u62a878hep2kev88swjh3tw00gjsfl8f237lmu63q0uf63m)
+- [BTC111 - Decentralized Social Media & Bitcoin](https://www.theinvestorspodcast.com/bitcoin-fundamentals/nostr-decentralized-social-media-william-casarin/) with [jb55](nostr:npub1xtscya34g58tk0z605fvr788k263gsu6cy9x0mhnm87echrgufzsevkk5s) hosted by [Preston Pysh](nostr:npub1s5yq6wadwrxde4lhfs56gn64hwzuhnfa6r9mj476r5s4hkunzgzqrs6q7z) ([transcript](https://chowcollection.medium.com/preston-pysh-btc111-nostr-decentralized-social-media-bitcoin-w-william-casarin-352f6dedce46), [archive](https://archive.ph/uCSDQ))
 - [What's new with Stacker.News and Nostr?](https://www.curiousdk.com/p/whats-new-with-stackernews-and-nostr) a conversation with Keyan Kousha and Max Webster ([transcript](https://chowcollection.medium.com/david-king-whats-new-with-stacker-news-e49e3256eddc), [archive](https://archive.is/wip/wGrb8))
 
 ## Explorers
@@ -372,7 +372,7 @@ This site is open source too. If you can, please [improve this page](https://git
 - [Spanish translation](https://bitcoinnostr.com/recursos-de-nostr/) by [BitByBit](https://nostr.guru/p/npub1luhyzgce7qtcs6r6v00ryjxza8av8u4dzh3avg0zks38tjktnmxspxq903)
 - [German translation](https://nostr-info.de) by [cercatrova](https://nostr.guru/p/npub1nxzp3zn90r44z07aeajc7wyah4fju49c9d3g45mxvmm64rmnrdusffch7m)
 - [Italian translation](https://gist.github.com/theRescuer/717295270a35b4641081b6ef2cdf3025) by [avallanosterza](https://nostr.guru/p/npub1l0cwargp532n6x62pdcetkau783sxhpfhwu9d6qgpqm8r0mvt0eqqhlf2c)
-- [Brazilian Portuguese translation](https://gist.github.com/fernandoporazzi/d1c47b4f2a1d2c1a2e0654a2a31668ff) por [fernandoporazzi](https://www.nostr.guru/p/npub1wh30wunfpkezx5s7edqu9g0s0raeetf5dgthzm0zw7sk8wqygmjqqfljgh)
+- [Brazilian Portuguese translation](https://gist.github.com/fernandoporazzi/d1c47b4f2a1d2c1a2e0654a2a31668ff) por [fernandoporazzi](nostr:npub1wh30wunfpkezx5s7edqu9g0s0raeetf5dgthzm0zw7sk8wqygmjqqfljgh)
 
 Please [create a PR](https://github.com/nostr-resources/nostr-resources.github.io/pulls?q=is%3Apr+is%3Aclosed) to add your translation to the list above.
 
@@ -390,6 +390,6 @@ the descriptions and explanations an opinionated summary.
 
 If you found a typo, please [fix it](https://github.com/nostr-resources/nostr-resources.github.io/blob/master/index.md).
 If you have suggestions, please [create an issue](https://github.com/nostr-resources/nostr-resources.github.io/issues).
-If you want to scream at me because you think this whole thing is stupid, please [find me on nostr](https://www.nostr.guru/p/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc).
+If you want to scream at me because you think this whole thing is stupid, please [find me on nostr](nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc).
 
 ---
