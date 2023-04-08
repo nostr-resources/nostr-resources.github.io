@@ -358,22 +358,24 @@ Episodes:
 
 ## Privacy
 
+There are multiple [privacy
+issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) when it
+comes to using nostr.
+
 Your IP address is exposed to the relays you connect to, so consider using a VPN
 or similar. Some clients also support connecting via Tor.
-Tor nostr relays exist. Not all clients support Tor nostr relays.
+Tor nostr relays exist, but not all clients support Tor nostr relays.
 
 Relays also know which public keys you are requesting, meaning your public key
 will be tied to your IP address.
 
-### Image Uploads
+### Privacy & Image Uploads
 
 Some third party media hosters may be able to see, and share your IP address.
 
-### Direct Messages
+### Privacy & Direct Messages
 
 Only the message content is encrypted on Nostr: the sender, recipient and timestamp are visible to everyone.
-
-Read more on  known [privacy issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) and other things.
 
 ---
 
