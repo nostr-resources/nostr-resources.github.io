@@ -261,8 +261,9 @@ notes.
 
 To receive zaps you need a lightning wallet that supports
 [NIP-57](https://github.com/nostr-protocol/nips/blob/master/57.md).
-The most popular zappable lightning wallet is [Wallet of Satoshi]([url](https://www.walletofsatoshi.com)).
-Three other popular custodial solutions are
+
+Four popular custodial solutions are
+[Wallet of Satoshi](https://walletofsatoshi.com/),
 [Stacker News](https://stacker.news),
 [Lightning Tip Bot](https://ln.tips),
 and [Alby](https://getalby.com/).
