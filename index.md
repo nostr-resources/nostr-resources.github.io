@@ -356,7 +356,7 @@ Episodes:
 
 ---
 
-## Privacy Gotchas
+## Privacy
 
 Your IP address is exposed to the relays you connect to, so consider using a VPN
 or similar. Some clients also support connecting via Tor.
