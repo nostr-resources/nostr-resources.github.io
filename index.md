@@ -57,6 +57,8 @@ Download a suitable client:
   <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a>
 </div>
 
+Not happy with the client choice above? Pick one of the [many other clients](#clients)!
+
 ---
 
 Need help? Check out these guides:
@@ -66,8 +68,6 @@ Need help? Check out these guides:
 - [Guide for Iris](https://nostr.how/guides/iris) (Web)
 
 Make sure to take care of your [key management](#keys)!
-
-Not happy with the client choice above? Pick one of the [many other clients](#clients)!
 
 ---
 
