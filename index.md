@@ -356,26 +356,27 @@ Episodes:
 
 ---
 
-# Privacy on Relays
-Your internet protocol (IP) address is exposed to the relays you connect to. If you want to improve your privacy, consider utilizing a service that masks your IP address (e.g. a VPN) from trackers online. You can also connect to Iris messenger on Tor Browser, which will mask your IP address.
+## Privacy Gotchas
 
-The relay also learns which public keys you are requesting, meaning your public key will be tied to your IP address.
+Your IP address is exposed to the relays you connect to, so consider using a VPN
+or similar. Some clients also support connecting via Tor.
+Tor nostr relays exist. Not all clients support Tor nostr relays.
 
-# Privacy and third party media hosters
+Relays also know which public keys you are requesting, meaning your public key
+will be tied to your IP address.
+
+### Image Uploads
+
 Some third party media hosters may be able to see, and share your IP address.
 
-# Direct Message Privacy 
+### Direct Messages
+
 Only the message content is encrypted on Nostr: the sender, recipient and timestamp are visible to everyone.
-
-On [Iris](https://iris.to/) Visit your profile with a public key login or see someone else's profile with the View as... feature to experience the level of privacy firsthand.
-
-# Tor Support
-[Iris messenger](https://iris.to) can be used in [Tor Browser](https://www.torproject.org/download/).
-Tor nostr relays exist. Not all clients support Tor nostr relays.
 
 Read more on  known [privacy issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) and other things.
 
 ---
+
 ## More info
 
 - [nostr.how](https://nostr.how/) by [Jeff Gardner](https://nostr.guru/p/npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc)
