@@ -207,7 +207,9 @@ message, but the `&pf=1` limits the twitter search to only people you follow.
 
 ### Posting images
 
-[Damus](https://damus.io) supports image uploads from posts creation or reply creation view.
+Many popular clients support image uploads directly. (Keep in mind that all
+uploaded images to external hosts are public, so don't upload confidential
+things willy-nilly.)
 
 Most clients will display image URLs as images, so you can just upload any image
 to image sharing sites and post the URL like this:
