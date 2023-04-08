@@ -26,3 +26,7 @@
 - name: Nostrich.Love
   link: https://uselessshit.co/nostr/nip-05/
   price: 420 sats
+  
+- name: nostr-relay.org
+  link: https://nostr-relay.org
+  price: 1000 sats
