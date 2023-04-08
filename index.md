@@ -78,7 +78,7 @@ Make sure to take care of your [key management](#keys)!
 nostr's design is very basic:
 
 - There are two components: **clients** and **relays**. Each user runs a client. Anyone can run a relay.
-- Every user is identified by a public key. Every post is signed. Every client *should* validate these signatures (in practice some clients do not choose to validate signatures).
+- Every user is identified by a public key. Every post is signed. Every client validates these signatures.
 - Clients fetch data from relays of their choice and publish data to other relays of their choice. A relay doesn't talk to another relay, only directly to users.
 
 To use nostr, you need a [key](#keys) and a [client](#clients).
