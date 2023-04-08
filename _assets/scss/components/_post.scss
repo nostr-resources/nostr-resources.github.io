@@ -26,6 +26,14 @@
     img {
       width: 18em;
     }
+
+    /* Parallax background image */
+    background-image: url("bg.jpg");
+    min-height: 210px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
   &__date, &__source {
