@@ -78,7 +78,7 @@ Make sure to take care of your [key management](#keys)!
 nostr's design is very basic:
 
 - There are two components: **clients** and **relays**. Each user runs a client. Anyone can run a relay.
-- Every user is identified by a public key. Every post is signed. Every client validates these signatures.
+- Every user is identified by a public key. Every post is signed. Every client *should* validate these signatures (in practice some clients do not choose to validate signatures).
 - Clients fetch data from relays of their choice and publish data to other relays of their choice. A relay doesn't talk to another relay, only directly to users.
 
 To use nostr, you need a [key](#keys) and a [client](#clients).
@@ -207,6 +207,8 @@ message, but the `&pf=1` limits the twitter search to only people you follow.
 
 ### Posting images
 
+[Damus](https://damus.io) supports image uploads from posts creation or reply creation view.
+
 Most clients will display image URLs as images, so you can just upload any image
 to image sharing sites and post the URL like this:
 
@@ -257,7 +259,8 @@ notes.
 
 To receive zaps you need a lightning wallet that supports
 [NIP-57](https://github.com/nostr-protocol/nips/blob/master/57.md).
-Three popular custodial solutions are
+The most popular zappable lightning wallet is [Wallet of Satoshi]([url](https://www.walletofsatoshi.com)).
+Three other popular custodial solutions are
 [Stacker News](https://stacker.news),
 [Lightning Tip Bot](https://ln.tips),
 and [Alby](https://getalby.com/).
@@ -316,6 +319,7 @@ Most clients support search, but there's also:
 
 - [nostrview.com](https://nostrview.com)
 - [brb.io/search](https://brb.io/search)
+- [nos.today](https://nos.today)
 
 You can also create a search bot at [sb.nostr.band](https://sb.nostr.band) and then follow it to receive new posts matching a keyword or hashtag right into your feed.
 
@@ -349,6 +353,26 @@ Episodes:
 
 ---
 
+# Privacy on Relays
+Your internet protocol (IP) address is exposed to the relays you connect to. If you want to improve your privacy, consider utilizing a service that masks your IP address (e.g. a VPN) from trackers online. You can also connect to Iris messenger on Tor Browser, which will mask your IP address.
+
+The relay also learns which public keys you are requesting, meaning your public key will be tied to your IP address.
+
+# Privacy and third party media hosters
+Some third party media hosters may be able to see, and share your IP address.
+
+# Direct Message Privacy 
+Only the message content is encrypted on Nostr: the sender, recipient and timestamp are visible to everyone.
+
+On [Iris](https://iris.to/) Visit your profile with a public key login or see someone else's profile with the View as... feature to experience the level of privacy firsthand.
+
+# Tor Support
+[Iris messenger](https://iris.to) can be used in [Tor Browser](https://www.torproject.org/download/).
+Tor nostr relays exist. Not all clients support Tor nostr relays.
+
+Read more on  known [privacy issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) and other things.
+
+---
 ## More info
 
 - [nostr.how](https://nostr.how/) by [Jeff Gardner](https://nostr.guru/p/npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc)
@@ -366,7 +390,6 @@ Articles and explainers:
 - Video: [How To Use NOSTR](https://youtu.be/qn-Zp491t4Y) by [BTC Sessions](nostr:npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8)
 
 It's still very early days.
-There's known [privacy issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) and other things.
 
 ---
 
