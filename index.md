@@ -59,6 +59,10 @@ Download a suitable client:
 
 ---
 
+Not happy with the client choice above? Pick one of the [many other clients](#clients)!
+
+---
+
 Need help? Check out these guides:
 
 - [Guide for Damus](https://nostr.how/guides/damus) (iOS)
@@ -66,8 +70,6 @@ Need help? Check out these guides:
 - [Guide for Iris](https://nostr.how/guides/iris) (Web)
 
 Make sure to take care of your [key management](#keys)!
-
-Not happy with the client choice above? Pick one of the [many other clients](#clients)!
 
 ---
 
@@ -334,7 +336,7 @@ You can also create an RSS feed with posts matching some keywords at [rss.nostr.
 
 - [nostrovia](https://nostrovia.org/) - weekly nostr news roundup
 - [La Cosa Nostr](https://cast.bitcoiner.social/@lacosanostr/about) - interviews with relay operators and builders
-- [Nostr Talks]([url](https://www.curiousdk.com/podcast)) - pod with Max of Hivemend and CuriousDK
+- [Nostr Talks](https://www.curiousdk.com/podcast) - Nostr related news and interviews 
 
 Episodes:
 
