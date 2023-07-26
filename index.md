@@ -148,7 +148,7 @@ client. [Yosup](https://yosup.app/) and [Hamstr](https://hamstr.to/) have good
 mobile experiences, for example.
 
 [^nostros]: [KoalaSat/nostros](https://github.com/KoalaSat/nostros)
-[^nozzle]: [kaiwolfram/Nozzle](https://github.com/kaiwolfram/Nozzle)
+[^nozzle]: [dluvian/Nozzle](https://github.com/dluvian/Nozzle)
 
 There's also [Nostr Console](https://github.com/vishalxl/nostr_console),
 [noscl](https://github.com/fiatjaf/noscl), and
