@@ -173,6 +173,14 @@ Run your own:
 
 - [Set up a Nostr Relay server in under 5 minutes](https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under)[^fn-fork]
 
+Paid relays:
+
+- [relay.exchange](https://relay.exchange/)
+
+Paid relays effectively deal with spam by charging users a small usage fee in
+sats. You can set your global feed to paid relays only, which will get rid of
+almost all spam.
+
 [^fn-fork]: Fork with small modifications/fixes: [Install a nostr relay](https://www.massmux.com/install-a-nostr-relay/)
 
 ## Tools
