@@ -139,7 +139,6 @@ Web clients:
 - [snort.social](https://snort.social/) - Simple interface with automatic image-upload
 - [coracle.social](https://coracle.social/) - Search, filters, and micro-apps
 - [yosup.app](https://yosup.app/) - Mobile-friendly and twitter-like
-- [hamstr.to](https://hamstr.to/) - Twitter interface, multi-account support
 - [primal.net](https://primal.net/) - Explore your tribe, network, and global trends
 - [nostrgram.co](https://nostrgram.co/) - Focus on images and media, supports multiple layout styles
 
