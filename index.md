@@ -349,7 +349,8 @@ You can also create an RSS feed with posts matching some keywords at [rss.nostr.
 
 - [nostrovia](https://nostrovia.org/) - weekly nostr news roundup
 - [La Cosa Nostr](https://cast.bitcoiner.social/@lacosanostr/about) - interviews with relay operators and builders
-- [Nostr Talks](https://www.curiousdk.com/podcast) - Nostr related news and interviews 
+- [Nostr Talks](https://www.curiousdk.com/podcast) - Nostr related news and interviews
+- [Thank God For Nostr](https://tgfb.com/podcasts/thank-god-for-nostr/) - nostr from the Christian perspective
 
 Episodes:
 
