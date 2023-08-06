@@ -403,6 +403,7 @@ Articles and explainers:
 - [Implications of Open Monetary and Information Networks](https://www.lynalden.com/open-networks/) by [Lyn Alden](nostr:npub1a2cww4kn9wqte4ry70vyfwqyqvpswksna27rtxd8vty6c74era8sdcw83a)
 - [What Is Nostr and How Do I Use It?](https://www.btctimes.com/news/what-is-nostr-and-how-do-i-use-it) by [Walker V.](nostr:npub1cj8znuztfqkvq89pl8hceph0svvvqk0qay6nydgk9uyq7fhpfsgsqwrz4u)
 - [What is Nostr, and how to start using Nostr](https://github.com/vishalxl/nostr_console/discussions/31) by Vishal
+- [Welcome to Nostr](http://lnshort.it/nostr-welcome/) by [Tony](nostr:npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7)
 - [Nostr, an Introduction](https://wiki.wellorder.net/post/nostr-intro/) by Greg Heartsfield
 - [Nostr Newcomers Most Common Questions and Answers](https://uselessshit.co/resources/nostr/) by pitiunited
 - [Why Nostr Matters](https://blog.lopp.net/why-nostr-matters/) by Jameson Lopp
