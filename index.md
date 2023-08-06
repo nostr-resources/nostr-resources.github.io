@@ -324,7 +324,6 @@ amount, and a pay button. One such client is Damus, which shows a nice
 Most clients support search, but there's also:
 
 - [nostrview.com](https://nostrview.com)
-- [brb.io/search](https://brb.io/search)
 - [nos.today](https://nos.today)
 
 You can also create a search bot at [sb.nostr.band](https://sb.nostr.band) and then follow it to receive new posts matching a keyword or hashtag right into your feed.
