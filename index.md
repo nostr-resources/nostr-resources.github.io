@@ -386,13 +386,13 @@ Only the message content is encrypted on Nostr: the sender, recipient and timest
 
 - [nostr.how](https://nostr.how/) by [Jeff Gardner](nostr:npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc)
 - [heynostr.com](https://www.heynostr.com/) by [Karnage](nostr:npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac)
+- [usenostr.org](https://usenostr.org/) by Pluja
 - [nostr.net](https://www.nostr.net/) aka awesome-nostr by @aaaljaz
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) by fiatjaf
 
 Articles and explainers:
 
 - [What Is Nostr and How Do I Use It?](https://www.btctimes.com/news/what-is-nostr-and-how-do-i-use-it) by Walker V.
-- [usenostr.org](https://usenostr.org/) by Pluja
 - [What is Nostr, and how to start using Nostr](https://github.com/vishalxl/nostr_console/discussions/31) by Vishal
 - [Nostr, an Introduction](https://wiki.wellorder.net/post/nostr-intro/) by Greg Heartsfield
 - [Nostr Newcomers Most Common Questions and Answers](https://uselessshit.co/resources/nostr/) by pitiunited
