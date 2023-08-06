@@ -54,7 +54,10 @@ Download a suitable client:
     <a href="https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst" target="_blank"><i class="fa-brands fa-android"></i> Amethyst</a>
   </div>
   <br/>
-  <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a>
+  <a href="https://snort.social/" target="_blank"><i class="fa-solid fa-globe"></i> Snort</a> &nbsp; &middot; &nbsp;
+  <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a> &nbsp; &middot; &nbsp;
+  <a href="https://primal.net/" target="_blank"><i class="fa-solid fa-globe"></i> Primal</a> &nbsp; &middot; &nbsp;
+  <a href="https://coracle.social/" target="_blank"><i class="fa-solid fa-globe"></i> Coracle</a>
 </div>
 
 ---
