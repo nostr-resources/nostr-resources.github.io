@@ -385,6 +385,7 @@ Only the message content is encrypted on Nostr: the sender, recipient and timest
 ## More info
 
 - [nostr.how](https://nostr.how/) by [Jeff Gardner](https://nostr.guru/p/npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc)
+- [heynostr.com](https://www.heynostr.com/) by [Karnage](nostr:npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac)
 - [nostr.net](https://www.nostr.net/) aka awesome-nostr by @aaaljaz
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) by fiatjaf
 
