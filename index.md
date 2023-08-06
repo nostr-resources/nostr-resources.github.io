@@ -137,10 +137,10 @@ Web clients:
 
 - [iris.to](https://iris.to/) - Clean interface & rich in features
 - [snort.social](https://snort.social/) - Simple interface with automatic image-upload
-- [coracle.social](https://coracle.social/) - Explore your tribe, network, and global trends
+- [coracle.social](https://coracle.social/) - Search, filters, and micro-apps
 - [yosup.app](https://yosup.app/) - Mobile-friendly and twitter-like
 - [hamstr.to](https://hamstr.to/) - Twitter interface, multi-account support
-- [primal.net](https://primal.net/) - Trending posts, most zapped posts
+- [primal.net](https://primal.net/) - Explore your tribe, network, and global trends
 - [nostrgram.co](https://nostrgram.co/) - Focus on images and media, supports multiple layout styles
 
 On Android, you can use the [Kiwi Browser](https://kiwibrowser.com/) which
