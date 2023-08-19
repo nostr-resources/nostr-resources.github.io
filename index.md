@@ -331,6 +331,7 @@ amount, and a pay button. One such client is Damus, which shows a nice
 
 Most clients support search, but there's also:
 
+- [nostr.band](https://nostr.band/)
 - [nostrview.com](https://nostrview.com)
 - [nos.today](https://nos.today)
 
