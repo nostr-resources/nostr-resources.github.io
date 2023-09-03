@@ -237,6 +237,7 @@ Here are some free image hosts:
 - [imgbb.com](https://imgbb.com/)
 - [imgur](https://imgur.com/)
 - [postimages.org](https://postimages.org/)
+- [nostrcheck.me](https://nostrcheck.me/public/)
 
 You can also use your Twitter display picture by [following this guide](https://medium.com/@_Bosch_/how-to-use-your-twitter-display-picture-on-nostr-fd43c6a26257).
 
