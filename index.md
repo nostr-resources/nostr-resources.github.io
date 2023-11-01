@@ -138,17 +138,19 @@ There are more native clients in development, Nostros[^nostros] and Nozzle[^nozz
 
 Web clients:
 
-- [iris.to](https://iris.to/) - Clean interface & rich in features
 - [primal.net](https://primal.net/) - Explore your tribe, network, and global trends
 - [snort.social](https://snort.social/) - Simple interface with automatic image-upload
+- [noStrudel](https://nostrudel.ninja/) - Supports many NIPs inc communities, streams, blogs and more
 - [coracle.social](https://coracle.social/) - Search, filters, and micro-apps
 - [yosup.app](https://yosup.app/) - Mobile-friendly and twitter-like
+- [iris.to](https://iris.to/) - Clean interface & rich in features
 - [nostrgram.co](https://nostrgram.co/) - Focus on images and media, supports multiple layout styles
 
-On Android, you can use the [Kiwi Browser](https://kiwibrowser.com/) which
-allows you to install Alby or nos2x, which in turn allows you to use any web
-client. [Yosup](https://yosup.app/) and [Hamstr](https://hamstr.to/) have good
-mobile experiences, for example.
+On Android, you can use:
+
+- [Plebstr](https://play.google.com/store/apps/details?id=com.plebstr.client) - Good short message client similar to Twitter.
+- [Kiwi Browser](https://kiwibrowser.com/) - Support for Alby or nos2x, which allows you to use any web client. 
+- [Yosup](https://yosup.app/) and [Hamstr](https://hamstr.to/) have good mobile experiences, for example.
 
 [^nostros]: [KoalaSat/nostros](https://github.com/KoalaSat/nostros)
 [^nozzle]: [dluvian/Nozzle](https://github.com/dluvian/Nozzle)
@@ -159,6 +161,18 @@ There's also [Nostr Console](https://github.com/vishalxl/nostr_console),
 stuff.
 
 [^fn-mac]: Apple Silicone only (M1 or M2 chip)
+
+Web clients for content creators:
+
+- [ZapStream](https://zap.stream/) - Streaming on nostr allows for instant monetarisation of content.
+- [Habla](https://habla.news/) and [yakihonne](https://yakihonne.com/) - Longform posts on nostr similar to Medium.
+- [Stemstr](https://stemstr.app/) - Share your music with the world and let others collaborate.
+- [Wavelake](https://www.wavlake.com/) - A music platform similar to Spotify.
+- [Satellite.earth](https://satellite.earth/) - Focuses on moderated communities like reddit but also offers CDN media hosting and other nostr services.
+
+Desktop clients:
+
+- [Lume](https://lume.nu/)
 
 ## Relays
 
@@ -187,8 +201,10 @@ almost all spam.
 
 nostr can do more than just social media.
 
-- [Sendstr](https://sendstr.com/) - shared clipboard between devices over nostr
-- [nosbin](https://nosbin.com/) - pastebin over nostr
+- [Sendstr](https://sendstr.com/) - shared clipboard between devices over nostr.
+- [nosbin](https://nosbin.com/) - pastebin over nostr.
+- [Metadata Nostr](https://metadata.nostr.com/) - A profile and following list backup tool.
+- [NostrSync](https://nostrsync.live/) - Another service to backup profile AND nostr events.
 
 ## Games
 
@@ -274,11 +290,16 @@ notes.
 To receive zaps you need a lightning wallet that supports
 [NIP-57](https://github.com/nostr-protocol/nips/blob/master/57.md).
 
-Four popular custodial solutions are
-[Wallet of Satoshi](https://walletofsatoshi.com/),
-[Stacker News](https://stacker.news),
-[Lightning Tip Bot](https://ln.tips),
-and [Alby](https://getalby.com/).
+Popular custodial solutions are:
+
+- [Wallet of Satoshi](https://walletofsatoshi.com/) - recommended for mobile
+- [Alby](https://getalby.com/) - recommended for desktop as browser extention 
+- [Stacker News](https://stacker.news)
+- [Lightning Tip Bot](https://ln.tips)
+
+Self-custodial solutions:
+- [Mutiny Wallet](https://www.mutinywallet.com/)
+- [Zeus](https://zeusln.app/)
 
 To use Lightning Tip Bot in a more private way, you can:
 
@@ -371,8 +392,7 @@ Episodes:
 
 ## Privacy
 
-There are multiple [privacy
-issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) when it
+There are multiple [privacy issues](https://consentonchain.github.io/blog/posts/nostr-privacy/) when it
 comes to using nostr.
 
 Your IP address is exposed to the relays you connect to, so consider using a VPN
