@@ -133,6 +133,8 @@ Mobile clients:
 
 - [Damus (iOS)](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, also works on MacOS[^fn-mac]
 - [Amethyst (Android)](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
+- [Plebstr (iOS & Android)](https://play.google.com/store/apps/details?id=com.plebstr.client) - Good short message client similar to Twitter
+- [Primal (iOS & Android)](https://primal.net/downloads) - Clean & performant, but not very feature-rich (yet)
 
 There are more native clients in development, Nostros[^nostros] and Nozzle[^nozzle] being two of them.
 
@@ -146,11 +148,9 @@ Web clients:
 - [iris.to](https://iris.to/) - Clean interface & rich in features
 - [nostrgram.co](https://nostrgram.co/) - Focus on images and media, supports multiple layout styles
 
-On Android, you can use:
-
-- [Plebstr](https://play.google.com/store/apps/details?id=com.plebstr.client) - Good short message client similar to Twitter.
-- [Kiwi Browser](https://kiwibrowser.com/) - Support for Alby or nos2x, which allows you to use any web client. 
-- [Yosup](https://yosup.app/) and [Hamstr](https://hamstr.to/) have good mobile experiences, for example.
+On Android you can use the [Kiwi Browser](https://kiwibrowser.com/) to use the
+[Alby](https://getalby.com) or [nos2x](https://github.com/fiatjaf/nos2x)
+extension, which allows you to use any web client.
 
 [^nostros]: [KoalaSat/nostros](https://github.com/KoalaSat/nostros)
 [^nozzle]: [dluvian/Nozzle](https://github.com/dluvian/Nozzle)
