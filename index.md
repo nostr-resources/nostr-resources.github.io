@@ -133,6 +133,7 @@ Mobile clients:
 
 - [Damus (iOS)](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, also works on MacOS[^fn-mac]
 - [Amethyst (Android)](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
+- [Snort (Android)](https://play.google.com/store/apps/details?id=social.snort.app)
 - [Plebstr (iOS & Android)](https://play.google.com/store/apps/details?id=com.plebstr.client) - Good short message client similar to Twitter
 - [Primal (iOS & Android)](https://primal.net/downloads) - Clean & performant, but not very feature-rich (yet)
 
@@ -142,6 +143,7 @@ Web clients:
 
 - [primal.net](https://primal.net/) - Explore your tribe, network, and global trends
 - [snort.social](https://snort.social/) - Simple interface with automatic image-upload
+- [snort.deck](https://snort.social/deck) - A tweetdeck like version of the snort client.
 - [noStrudel](https://nostrudel.ninja/) - Supports many NIPs inc communities, streams, blogs and more
 - [coracle.social](https://coracle.social/) - Search, filters, and micro-apps
 - [yosup.app](https://yosup.app/) - Mobile-friendly and twitter-like
@@ -172,7 +174,10 @@ Web clients for content creators:
 
 Desktop clients:
 
-- [Lume](https://lume.nu/)
+- [Lume](https://lume.nu/) - Website
+- [Gossip](https://github.com/mikedilger/gossip) - Github
+- [Nostrid](https://github.com/lapulpeta/Nostrid) - Github
+- [more-speech](https://github.com/unclebob/more-speech) - Github, a Nostr client in Clojure
 
 ## Relays
 
@@ -180,8 +185,9 @@ Relays are dumb servers that you can leave behind at any time (so they can't
 turn evil). You need to connect your client to a relay for it to work. There are
 many relays & you can run your own.
 
-- [nostr.watch](http://nostr.watch/)
-- [nostr.info](https://nostr.info/relays/)
+- [nostr.watch](http://nostr.watch/) - directory of paid and free relays
+- [nostr.info](https://nostr.info/relays/) directory of known nostr relays
+- [relay.tools](https://relay.tools/) - public relay browser
 
 Run your own:
 
@@ -199,12 +205,20 @@ almost all spam.
 
 ## Tools
 
+Backing up your nostr keys AND your profile is as essential as backing up your private keys for Bitcoin!
+
+- [Metadata Nostr](https://metadata.nostr.com/) - a profile and following list backup tool.
+- [NostrSync](https://nostrsync.live/) - another service to backup profile AND nostr events.
+
 nostr can do more than just social media.
 
 - [Sendstr](https://sendstr.com/) - shared clipboard between devices over nostr.
 - [nosbin](https://nosbin.com/) - pastebin over nostr.
-- [Metadata Nostr](https://metadata.nostr.com/) - A profile and following list backup tool.
-- [NostrSync](https://nostrsync.live/) - Another service to backup profile AND nostr events.
+- [Nostr.Cooking](https://nostr.cooking/) - create, explore or share recipes.
+- [Badges](https://badges.page/) - create badges and award them to your friends or followers.
+- [Emojis](https://emojis-iota.vercel.app/) - create or use emoji packs supported on most nostr clients.
+- [ZapGoals](https://goals-silk.vercel.app/) - create zap goals for fund raisers or other events.
+- [NsecBunker](https://nsecbunker.com/) - keep your nostr keys in a single place and provide fine-grained access to team members.
 
 ## Games
 
@@ -363,6 +377,7 @@ You can also create a search bot at [sb.nostr.band](https://sb.nostr.band) and t
 
 - [How to build a nostr gm bot](https://dergigi.com/2023/01/19/how-to-build-a-nostr-gm-bot/) by [Gigi](nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc)
 - [nostr_bot](https://docs.rs/nostr-bot/latest/nostr_bot/) Rust crate
+- [nostr GPT bot](https://github.com/Marfusios/nostr-client/tree/master/apps/nostr-bot) A GPT 3.5 bot for nostr.
 
 ### RSS
 
@@ -455,6 +470,8 @@ Clients:
 - [Iris](https://github.com/irislib/iris-messenger)
 
 Check out [awesome-nostr](https://github.com/aljazceru/awesome-nostr) for links to other clients, libraries, relay implementations, and related projects to work on.
+
+There is also [NostrDesign](https://nostrdesign.org/), a great resource for developers and UIX design for nostr. 
 
 Also make sure to have a look at the various [nostr bounties](https://bountsr.org/) if you're in the mood to earn sats.
 
