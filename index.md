@@ -66,6 +66,8 @@ Download a suitable client:
 
 ---
 
+Want some hand-holding while you set up your profile? Give [nosta.me](https://nosta.me/) a try!
+
 Not happy with the client choice above? Pick one of the [many other clients](#clients)!
 
 ---
