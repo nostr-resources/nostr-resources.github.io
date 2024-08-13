@@ -444,6 +444,7 @@ Only the message content is encrypted on Nostr: the sender, recipient and timest
 
 Articles and explainers:
 
+- [Can Nostr Make Twitter's Dreams Come True?](https://reason.com/2024/08/13/can-nostr-make-twitters-dreams-come-true/) by [Alex Gladstein](nostr:npub1trr5r2nrpsk6xkjk5a7p6pfcryyt6yzsflwjmz6r7uj7lfkjxxtq78hdpu)
 - [The Power of Nostr: Decentralized Social Media and More](https://www.lynalden.com/the-power-of-nostr/) by [Lyn Alden](nostr:npub1a2cww4kn9wqte4ry70vyfwqyqvpswksna27rtxd8vty6c74era8sdcw83a)
 - [Implications of Open Monetary and Information Networks](https://www.lynalden.com/open-networks/) by [Lyn Alden](nostr:npub1a2cww4kn9wqte4ry70vyfwqyqvpswksna27rtxd8vty6c74era8sdcw83a)
 - [What Is Nostr and How Do I Use It?](https://www.btctimes.com/news/what-is-nostr-and-how-do-i-use-it) by [Walker V.](nostr:npub1cj8znuztfqkvq89pl8hceph0svvvqk0qay6nydgk9uyq7fhpfsgsqwrz4u)
