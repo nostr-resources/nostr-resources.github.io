@@ -137,10 +137,13 @@ Mobile clients:
 
 - [Damus (iOS)](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, also works on MacOS[^fn-mac]
 - [Amethyst (Android)](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
+- [Nostur (iOS)](https://apps.apple.com/us/app/nostur/id1672780508) - native iOS/iPad client with MacOS[^fn-mac] version
 - [Plebstr (iOS & Android)](https://play.google.com/store/apps/details?id=com.plebstr.client) - Good short message client similar to Twitter
 - [Primal (iOS & Android)](https://primal.net/downloads) - Clean & performant, but not very feature-rich (yet)
 
 There are more native clients in development, Nostros[^nostros] and Nozzle[^nozzle] being two of them.
+
+[Nootti](https://nootti.com) is the first iOS native cross-posting client for Nostr, Bluesky and Mastodon.
 
 Web clients:
 
