@@ -176,7 +176,9 @@ stuff.
 Web clients for content creators:
 
 - [ZapStream](https://zap.stream/) - Streaming on nostr allows for instant monetarisation of content.
-- [Habla](https://habla.news/) and [yakihonne](https://yakihonne.com/) - Longform posts on nostr similar to Medium.
+- [Habla](https://habla.news/) and [yakihonne](https://yakihonne.com/) - Long-form posts on nostr similar to Medium.
+- [Highlighter](https://highlighter.com/) - Client focused on reading, writing, and highlighting long-form content.
+- [Shipyard](https://shipyard.pub/) - Write, schedule, and boost your notes.
 - [Stemstr](https://stemstr.app/) - Share your music with the world and let others collaborate.
 - [Wavelake](https://www.wavlake.com/) - A music platform similar to Spotify.
 - [Satellite.earth](https://satellite.earth/) - Focuses on moderated communities like reddit but also offers CDN media hosting and other nostr services.
