@@ -6,7 +6,9 @@ description: nostr is new and confusing but also really cool.
 redirect_from: resources
 ---
 
-**TL;DR:** nostr[^fn-nostr] is a protocol that has the power to replace twitter, Telegram, and other things.
+**TL;DR:** nostr[^fn-nostr] is a protocol that has the power to replace twitter,
+Instagram, and all the other data silos that force various feeds down our
+collective throats.
 
 [^fn-nostr]: nostr = Notes and Other Stuff Transmitted by Relays
 
@@ -33,6 +35,8 @@ censorship-resistant global "social" network** once and for all.
 - It doesn't rely on any trusted central server, hence it is resilient.
 - It is based on cryptographic keys and signatures, so it is tamperproof.
 - It does not rely on P2P techniques, therefore it works.
+
+It is free as in freedom and puts the user in control.
 
 ---
 
@@ -134,10 +138,13 @@ Mobile clients:
 - [Damus (iOS)](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, also works on MacOS[^fn-mac]
 - [Amethyst (Android)](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
 - [Snort (Android)](https://play.google.com/store/apps/details?id=social.snort.app)
+- [Nostur (iOS)](https://apps.apple.com/us/app/nostur/id1672780508) - native iOS/iPad client with MacOS[^fn-mac] version
 - [Plebstr (iOS & Android)](https://play.google.com/store/apps/details?id=com.plebstr.client) - Good short message client similar to Twitter
 - [Primal (iOS & Android)](https://primal.net/downloads) - Clean & performant, but not very feature-rich (yet)
 
 There are more native clients in development, Nostros[^nostros] and Nozzle[^nozzle] being two of them.
+
+[Nootti](https://nootti.com) is the first iOS native cross-posting client for Nostr, Bluesky and Mastodon.
 
 Web clients:
 
