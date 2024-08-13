@@ -6,7 +6,9 @@ description: nostr is new and confusing but also really cool.
 redirect_from: resources
 ---
 
-**TL;DR:** nostr[^fn-nostr] is a protocol that has the power to replace twitter, Telegram, and other things.
+**TL;DR:** nostr[^fn-nostr] is a protocol that has the power to replace twitter,
+Instagram, and all the other data silos that force various feeds down our
+collective throats.
 
 [^fn-nostr]: nostr = Notes and Other Stuff Transmitted by Relays
 
@@ -33,6 +35,8 @@ censorship-resistant global "social" network** once and for all.
 - It doesn't rely on any trusted central server, hence it is resilient.
 - It is based on cryptographic keys and signatures, so it is tamperproof.
 - It does not rely on P2P techniques, therefore it works.
+
+It is free as in freedom and puts the user in control.
 
 ---
 
