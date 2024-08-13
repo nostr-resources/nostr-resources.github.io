@@ -70,6 +70,8 @@ Want some hand-holding while you set up your profile? Give [nosta.me](https://no
 
 Not happy with the client choice above? Pick one of the [many other clients](#clients)!
 
+Android user? Check out [zap.store](https://zap.store/download/), a permissionless app store built on nostr.
+
 ---
 
 Need help? Check out these guides:
