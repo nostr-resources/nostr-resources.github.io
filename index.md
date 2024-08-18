@@ -25,6 +25,14 @@ collective throats.
 
 ---
 
+```
+LOOKING FOR MAINTAINERS
+
+This site could be way better (and up-to-date) than it is. If you're interested in maintaining it, please reach out to me by leaving a comment in the "Looking for Maintainers" issues on GitHub. More info in the footnote at the very end.
+
+Thank you.
+```
+
 > WTF is nostr?
 >
 ><cite>You, probably</cite>
@@ -517,7 +525,11 @@ Some of the text above is copied from
 the descriptions and explanations an opinionated summary.
 
 If you found a typo, please [fix it](https://github.com/nostr-resources/nostr-resources.github.io/blob/master/index.md).
-If you have suggestions, please [create an issue](https://github.com/nostr-resources/nostr-resources.github.io/issues).
+If you have suggestions, please [create an issue](https://github.com/nostr-resources/nostr-resources.github.io/issues).[^fn-lfm]
 If you want to scream at me because you think this whole thing is stupid, please [find me on nostr](nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc).
+
+[^fn-lfm]: As mentioned above, this site could be way better (and up-to-date) than it is. If you're interested in maintaining it, please leave a comment in the "[Looking for Maintainers][lfm]" issues on GitHub: [nostr-resources/issues/62][lfm]
+
+[lfm]: https://github.com/nostr-resources/nostr-resources.github.io/issues/62
 
 ---
