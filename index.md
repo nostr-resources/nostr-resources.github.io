@@ -96,15 +96,15 @@ yourself!
 power of nostr. Check out [zap.store](https://zap.store/download/), an app store
 built on nostr.
 
+**Where do I store my "nsec" aka private key?**  
+🦚 Make sure read the [key management](#keys) section!
+
 **How do I set up my client properly?**  
 🦚 Check out these guides:
 
 - [Guide for Damus](https://nostr.how/guides/damus) (iOS)
 - [Guide for Amethyst](https://nostr.how/guides/amethyst) (Android)
 - [Guide for Iris](https://nostr.how/guides/iris) (Web)
-
-**Where do I store my "nsec" aka private key?**  
-🦚 Make sure read the [key management](#keys) section!
 
 **Where do I find alternatives to existing stuff?**  
 🦚 Have a look at [noalt.app](http://noalt.app/)
@@ -142,6 +142,7 @@ Two quick things:
 - ⚠️ **DO NOT PASTE YOUR PRIVATE KEY INTO WEBSITES**[^fn-xss] ⚠️
 - Store your keys securely and do not share your private key
 
+
 Keys exist in two formats, `hex` and the above mentioned npub/nsec. You can use
 a [key converter tool](https://github.com/rot13maxi/key-convertr)[^fn-keys] to
 convert between the two formats.
@@ -158,6 +159,10 @@ store your keys safely (or at least more safely).
 
 - [Nostr in the Alby Extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
 - [The nos2x browser extension and why you should use it](https://youtu.be/IoLw-3ok3_M)
+
+If you're on Android, it is recommended to use a native signer like [Amber].
+
+[Amber]: https://github.com/greenart7c3/Amber?tab=readme-ov-file#download-and-install
 
 You can also generate your keys by other means if you know what you're doing.[^bip85]
 It's still early days, so be prepared to get rekt.
