@@ -56,7 +56,10 @@ It is free as in freedom and puts the user in control.
 
 # Get Started
 
-While there are [many clients](#clients), the following three are currently quite popular: Damus for iOS, Amethyst for Android, and Iris for Web.
+While there are [many clients](#clients), the following three are currently
+quite popular: Damus for iOS, Amethyst for Android, and noStrudel for Web.
+[Primal](https://primal.net/) is often recommended too, as it works on all
+platforms.
 
 Download a suitable client:
 
