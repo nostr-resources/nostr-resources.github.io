@@ -91,11 +91,6 @@ tastes!
 [nostrapps.com](https://nostrapps.com/) and try one of the more adventurous apps
 yourself!
 
-**Are all nostr apps available on the App Store?**  
-🦚 They are not, because monopolies are inherently afraid of to decentralized
-power of nostr. Check out [zap.store](https://zap.store/download/), an app store
-built on nostr.
-
 **Where do I store my "nsec" aka private key?**  
 🦚 Make sure read the [key management](#keys) section!
 
@@ -105,6 +100,12 @@ built on nostr.
 - [Guide for Damus](https://nostr.how/guides/damus) (iOS)
 - [Guide for Amethyst](https://nostr.how/guides/amethyst) (Android)
 - [Guide for Iris](https://nostr.how/guides/iris) (Web)
+
+**Are all nostr apps available on the App Store?**  
+🦚 They are not. The existing monopolies are threatened by nostr and what it
+represents. But fear not, we will build our own app stores. We have one on
+Android already: [zap.store](https://zap.store/download/), an app store built on
+nostr.
 
 **Where do I find alternatives to existing stuff?**  
 🦚 Have a look at [noalt.app](http://noalt.app/)
