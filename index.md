@@ -74,21 +74,35 @@ Download a suitable client:
 
 ---
 
-Want some hand-holding while you set up your profile? Give [nosta.me](https://nosta.me/) a try!
+# FAQ
 
-Not happy with the client choice above? Pick one of the [many other clients](#clients)!
+**Want some hand-holding while you set up your profile?**  
+🦚 Give [nosta.me](https://nosta.me/) a try!
 
-Android user? Check out [zap.store](https://zap.store/download/), a permissionless app store built on nostr.
+**Not happy with the client choice above?**  
+🦚 Pick one of the [many other clients](#clients)!
 
----
+**Want to venture beyond the timeline?**  
+🦚 Browse [nostrapps.com](https://nostrapps.com/) and try one of the more adventurous apps!
 
-Need help? Check out these guides:
+**Android user?**  
+🦚 Check out [zap.store](https://zap.store/download/), an app store built on nostr.
+
+**Need further help with the clients recommended above?**  
+🦚 Check out these guides:
 
 - [Guide for Damus](https://nostr.how/guides/damus) (iOS)
 - [Guide for Amethyst](https://nostr.how/guides/amethyst) (Android)
 - [Guide for Iris](https://nostr.how/guides/iris) (Web)
 
-Make sure to take care of your [key management](#keys)!
+**Need help with managing your "nsec" aka private key?**  
+🦚 Make sure read the [key management](#keys) section!
+
+**Looking for alternatives to existing stuff?**  
+🦚 Have a look at [noalt.app](http://noalt.app/)
+
+**Any other questions?**  
+🦚 Consult this [external FAQ](https://uselessshit.co/resources/nostr/).
 
 ---
 
