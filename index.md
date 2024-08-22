@@ -83,29 +83,36 @@ Download a suitable client:
 🦚 Give [nosta.me](https://nosta.me/) a try!
 
 **What is the best nostr client?**  
-🦚 There is no best. You'll have to [pick a client](#clients) according to your tastes!
+🦚 There is no best. You'll have to [pick a client](#clients) according to your
+tastes!
 
-**Want to venture beyond the timeline?**  
-🦚 Browse [nostrapps.com](https://nostrapps.com/) and try one of the more adventurous apps!
+**Is nostr just a twitter clone?**  
+🦚 No, it's way more than that. I'd suggest you browse
+[nostrapps.com](https://nostrapps.com/) and try one of the more adventurous apps
+yourself!
 
-**Android user?**  
-🦚 Check out [zap.store](https://zap.store/download/), an app store built on nostr.
+**Are all nostr apps available on the App Store?**  
+🦚 They are not, because monopolies are inherently afraid of to decentralized
+power of nostr. Check out [zap.store](https://zap.store/download/), an app store
+built on nostr.
 
-**Need further help with the clients recommended above?**  
+**How do I set up my client properly?**  
 🦚 Check out these guides:
 
 - [Guide for Damus](https://nostr.how/guides/damus) (iOS)
 - [Guide for Amethyst](https://nostr.how/guides/amethyst) (Android)
 - [Guide for Iris](https://nostr.how/guides/iris) (Web)
 
-**Need help with managing your "nsec" aka private key?**  
+**Where do I store my "nsec" aka private key?**  
 🦚 Make sure read the [key management](#keys) section!
 
-**Looking for alternatives to existing stuff?**  
+**Where do I find alternatives to existing stuff?**  
 🦚 Have a look at [noalt.app](http://noalt.app/)
 
-**Any other questions?**  
-🦚 Consult this [external FAQ](https://uselessshit.co/resources/nostr/).
+**I have more questions. Who can help me?**  
+🦚 Consult this [external FAQ](https://uselessshit.co/resources/nostr/),
+[swarmstr](https://swarmstr.com/), or the
+[#asknostr](https://nostr.band/?q=%23asknostr) hashtag.
 
 ---
 
