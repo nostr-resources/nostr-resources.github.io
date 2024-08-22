@@ -56,7 +56,9 @@ It is free as in freedom and puts the user in control.
 
 # Get Started
 
-While there are [many clients](#clients), the following three are currently quite popular: Damus for iOS, Amethyst for Android, and Iris for Web.
+While there are [many clients](#clients), the following three are currently
+quite popular: Damus for iOS, Amethyst for Android, and noStrudel for Web.
+Primal is often recommended too, as it works on all platforms.
 
 Download a suitable client:
 
@@ -66,29 +68,51 @@ Download a suitable client:
     <a href="https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst" target="_blank"><i class="fa-brands fa-android"></i> Amethyst</a>
   </div>
   <br/>
-  <a href="https://snort.social/" target="_blank"><i class="fa-solid fa-globe"></i> Snort</a> &nbsp; &middot; &nbsp;
-  <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a> &nbsp; &middot; &nbsp;
+  <a href="https://nostrudel.ninja" target="_blank"><i class="fa-solid fa-globe"></i> noStrudel</a> &nbsp; &middot; &nbsp;
   <a href="https://primal.net/" target="_blank"><i class="fa-solid fa-globe"></i> Primal</a> &nbsp; &middot; &nbsp;
-  <a href="https://coracle.social/" target="_blank"><i class="fa-solid fa-globe"></i> Coracle</a>
+  <a href="https://coracle.social/" target="_blank"><i class="fa-solid fa-globe"></i> Coracle</a> &nbsp; &middot; &nbsp;
+  <a href="https://snort.social/" target="_blank"><i class="fa-solid fa-globe"></i> Snort</a> &nbsp; &middot; &nbsp;
+  <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a>
 </div>
 
 ---
 
-Want some hand-holding while you set up your profile? Give [nosta.me](https://nosta.me/) a try!
+# FAQ
 
-Not happy with the client choice above? Pick one of the [many other clients](#clients)!
+**What's the easiest way to create a profile?**  
+🦚 Give [nosta.me](https://nosta.me/) a try!
 
-Android user? Check out [zap.store](https://zap.store/download/), a permissionless app store built on nostr.
+**What is the best nostr client?**  
+🦚 There is no best. You'll have to [pick a client](#clients) according to your
+tastes!
 
----
+**Is nostr just a twitter clone?**  
+🦚 No, it's way more than that. I'd suggest you browse
+[nostrapps.com](https://nostrapps.com/) and try one of the more adventurous apps
+yourself!
 
-Need help? Check out these guides:
+**Are all nostr apps available on the App Store?**  
+🦚 They are not, because monopolies are inherently afraid of to decentralized
+power of nostr. Check out [zap.store](https://zap.store/download/), an app store
+built on nostr.
+
+**Where do I store my "nsec" aka private key?**  
+🦚 Make sure read the [key management](#keys) section!
+
+**How do I set up my client properly?**  
+🦚 Check out these guides:
 
 - [Guide for Damus](https://nostr.how/guides/damus) (iOS)
 - [Guide for Amethyst](https://nostr.how/guides/amethyst) (Android)
 - [Guide for Iris](https://nostr.how/guides/iris) (Web)
 
-Make sure to take care of your [key management](#keys)!
+**Where do I find alternatives to existing stuff?**  
+🦚 Have a look at [noalt.app](http://noalt.app/)
+
+**I have more questions. Who can help me?**  
+🦚 Consult this [external FAQ](https://uselessshit.co/resources/nostr/),
+[swarmstr](https://swarmstr.com/), or the
+[#asknostr](https://nostr.band/?q=%23asknostr) hashtag.
 
 ---
 
@@ -118,6 +142,7 @@ Two quick things:
 - ⚠️ **DO NOT PASTE YOUR PRIVATE KEY INTO WEBSITES**[^fn-xss] ⚠️
 - Store your keys securely and do not share your private key
 
+
 Keys exist in two formats, `hex` and the above mentioned npub/nsec. You can use
 a [key converter tool](https://github.com/rot13maxi/key-convertr)[^fn-keys] to
 convert between the two formats.
@@ -134,6 +159,10 @@ store your keys safely (or at least more safely).
 
 - [Nostr in the Alby Extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
 - [The nos2x browser extension and why you should use it](https://youtu.be/IoLw-3ok3_M)
+
+If you're on Android, it is recommended to use a native signer like [Amber].
+
+[Amber]: https://github.com/greenart7c3/Amber?tab=readme-ov-file#download-and-install
 
 You can also generate your keys by other means if you know what you're doing.[^bip85]
 It's still early days, so be prepared to get rekt.
