@@ -58,8 +58,7 @@ It is free as in freedom and puts the user in control.
 
 While there are [many clients](#clients), the following three are currently
 quite popular: Damus for iOS, Amethyst for Android, and noStrudel for Web.
-[Primal](https://primal.net/) is often recommended too, as it works on all
-platforms.
+Primal is often recommended too, as it works on all platforms.
 
 Download a suitable client:
 
@@ -69,21 +68,22 @@ Download a suitable client:
     <a href="https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst" target="_blank"><i class="fa-brands fa-android"></i> Amethyst</a>
   </div>
   <br/>
-  <a href="https://snort.social/" target="_blank"><i class="fa-solid fa-globe"></i> Snort</a> &nbsp; &middot; &nbsp;
-  <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a> &nbsp; &middot; &nbsp;
+  <a href="https://nostrudel.ninja" target="_blank"><i class="fa-solid fa-globe"></i> noStrudel</a> &nbsp; &middot; &nbsp;
   <a href="https://primal.net/" target="_blank"><i class="fa-solid fa-globe"></i> Primal</a> &nbsp; &middot; &nbsp;
-  <a href="https://coracle.social/" target="_blank"><i class="fa-solid fa-globe"></i> Coracle</a>
+  <a href="https://coracle.social/" target="_blank"><i class="fa-solid fa-globe"></i> Coracle</a> &nbsp; &middot; &nbsp;
+  <a href="https://snort.social/" target="_blank"><i class="fa-solid fa-globe"></i> Snort</a> &nbsp; &middot; &nbsp;
+  <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a>
 </div>
 
 ---
 
 # FAQ
 
-**Want some hand-holding while you set up your profile?**  
+**What's the easiest way to create a profile?**  
 🦚 Give [nosta.me](https://nosta.me/) a try!
 
-**Not happy with the client choice above?**  
-🦚 Pick one of the [many other clients](#clients)!
+**What is the best nostr client?**  
+🦚 There is no best. You'll have to [pick a client](#clients) according to your tastes!
 
 **Want to venture beyond the timeline?**  
 🦚 Browse [nostrapps.com](https://nostrapps.com/) and try one of the more adventurous apps!
