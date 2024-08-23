@@ -118,6 +118,9 @@ clearly see via [zaplife.lol](https://zaplife.lol).
 - [Guide for Amethyst](https://nostr.how/guides/amethyst) (Android)
 - [Guide for Iris](https://nostr.how/guides/iris) (Web)
 
+**What are relays, and how do I find them?**  
+🦚 Read the [relays](#relays) section.
+
 **Are all nostr apps available on the App Store?**  
 🦚 They are not. The existing monopolies are threatened by nostr and what it
 represents. But fear not, we will build our own app stores. We have one on
@@ -135,7 +138,6 @@ follow hashtags.
 
 **How do I find my twitter friends?**  
 🦚 This is explained in the "[finding others](#finding-others)" section.
-
 
 **I have more questions. Who can help me?**  
 🦚 Consult this [external FAQ](https://uselessshit.co/resources/nostr/),
