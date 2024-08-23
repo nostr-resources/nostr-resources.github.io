@@ -86,6 +86,9 @@ Download a suitable client:
 🦚 There is no best. You'll have to [pick a client](#clients) according to your
 tastes!
 
+**What is the second best nostr client?**  
+🦚 This question is best answered by watching [this video](https://youtu.be/uDgnZn3SjLw).
+
 **Is nostr just a twitter clone?**  
 🦚 No, it's way more than that. I'd suggest you browse
 [nostrapps.com](https://nostrapps.com/) and try one of the more adventurous apps
@@ -94,12 +97,29 @@ yourself!
 **Where do I store my "nsec" aka private key?**  
 🦚 Make sure read the [key management](#keys) section!
 
+**What is an "npub"?**  
+🦚 Your "npub", or nostr public key, is your public identity. It is unique to
+you and can be used to look up your profile and initiate a connection with you,
+either via a follow, a DM, or a zap.
+
+**What are zaps?**  
+🦚 Zaps are nostr's way of seamlessly transferring value between users. They are
+neither "tips" nor "expensive likes," but a new way of expressing value and
+counterfeit-resistant engagement. They are [sat-based][br] tokens of appreciation with
+perfect scarcity. Zaps are flowing through the system at all times, as you can
+clearly see via [zaplife.lol](https://zaplife.lol).
+
+[br]: https://bitcoin-resources.com/
+
 **How do I set up my client properly?**  
 🦚 Check out these guides:
 
 - [Guide for Damus](https://nostr.how/guides/damus) (iOS)
 - [Guide for Amethyst](https://nostr.how/guides/amethyst) (Android)
 - [Guide for Iris](https://nostr.how/guides/iris) (Web)
+
+**What are relays, and how do I find them?**  
+🦚 Read the [relays](#relays) section.
 
 **Are all nostr apps available on the App Store?**  
 🦚 They are not. The existing monopolies are threatened by nostr and what it
@@ -109,6 +129,15 @@ nostr.
 
 **Where do I find alternatives to existing stuff?**  
 🦚 Have a look at [noalt.app](http://noalt.app/)
+
+**How do I find people to follow?**  
+🦚 Use various [search](#search) tools, look up [trending
+people](https://nostr.band/?trending=people), and follow topical hashtags like
+[#introductions](https://nostr.band/?q=%23introductions). Yes, on nostr you can
+follow hashtags.
+
+**How do I find my twitter friends?**  
+🦚 This is explained in the "[finding others](#finding-others)" section.
 
 **I have more questions. Who can help me?**  
 🦚 Consult this [external FAQ](https://uselessshit.co/resources/nostr/),
@@ -246,7 +275,7 @@ Run your own:
 
 Paid relays:
 
-- [relay.exchange](https://relay.exchange/)
+- [nostr.watch/relays/find#paid](https://nostr.watch/relays/find#paid)
 
 Paid relays effectively deal with spam by charging users a small usage fee in
 sats. You can set your global feed to paid relays only, which will get rid of
@@ -358,13 +387,13 @@ To receive zaps you need a lightning wallet that supports
 Popular custodial solutions are:
 
 - [Wallet of Satoshi](https://walletofsatoshi.com/) - recommended for mobile
-- [Alby](https://getalby.com/) - recommended for desktop as browser extention 
+- [Alby](https://getalby.com/) - recommended for desktop as browser extention
 - [Stacker News](https://stacker.news)
 - [Lightning Tip Bot](https://ln.tips)
 
 Self-custodial solutions:
-- [Mutiny Wallet](https://www.mutinywallet.com/)
 - [Zeus](https://zeusln.app/)
+- [Alby Hub](https://blog.getalby.com/what-is-alby-hub/)
 
 To use Lightning Tip Bot in a more private way, you can:
 
