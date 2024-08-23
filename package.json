@@ -33,7 +33,7 @@
   "devDependencies": {
     "@babel/cli": "^7.24.8",
     "@babel/core": "^7.25.2",
-    "@babel/preset-env": "^7.25.3",
+    "@babel/preset-env": "^7.25.4",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
     "eslint": "^9.9.0",
@@ -48,7 +48,7 @@
     "gulp-zip": "^6.0.0",
     "node-sass": "^9.0.0",
     "s3-website": "^3.3.1",
-    "stylelint": "^16.8.1",
+    "stylelint": "^16.8.2",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
   }
