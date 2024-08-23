@@ -275,7 +275,7 @@ Run your own:
 
 Paid relays:
 
-- [relay.exchange](https://relay.exchange/)
+- [nostr.watch/relays/find#paid](https://nostr.watch/relays/find#paid)
 
 Paid relays effectively deal with spam by charging users a small usage fee in
 sats. You can set your global feed to paid relays only, which will get rid of
