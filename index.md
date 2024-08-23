@@ -392,7 +392,6 @@ Popular custodial solutions are:
 - [Lightning Tip Bot](https://ln.tips)
 
 Self-custodial solutions:
-- [Mutiny Wallet](https://www.mutinywallet.com/)
 - [Zeus](https://zeusln.app/)
 
 To use Lightning Tip Bot in a more private way, you can:
