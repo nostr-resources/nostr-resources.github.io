@@ -387,12 +387,13 @@ To receive zaps you need a lightning wallet that supports
 Popular custodial solutions are:
 
 - [Wallet of Satoshi](https://walletofsatoshi.com/) - recommended for mobile
-- [Alby](https://getalby.com/) - recommended for desktop as browser extention 
+- [Alby](https://getalby.com/) - recommended for desktop as browser extention
 - [Stacker News](https://stacker.news)
 - [Lightning Tip Bot](https://ln.tips)
 
 Self-custodial solutions:
 - [Zeus](https://zeusln.app/)
+- [Alby Hub](https://blog.getalby.com/what-is-alby-hub/)
 
 To use Lightning Tip Bot in a more private way, you can:
 
