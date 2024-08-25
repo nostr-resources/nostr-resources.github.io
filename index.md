@@ -531,7 +531,7 @@ Videos:
 - [How To Use NOSTR](https://youtu.be/qn-Zp491t4Y) by [BTC Sessions](nostr:npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8)
 - [Social Media is broken. Can we fix it?](https://youtu.be/aA-jiiepOrE) by [Max DeMarco](nostr:npub1lelkh3hhxw9hdwlcpk6q9t0xt9f7yze0y0nxazvzqjmre3p98x3sthkvyz)
 
-For more videos have a look at [nostrvision.com](https://www.nostrvision.com/).
+For conference videos have a look at the [nostr world](https://www.youtube.com/@nostrworld) channel.
 
 ---
 
