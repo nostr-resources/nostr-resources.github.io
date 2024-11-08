@@ -33,7 +33,7 @@ This site could be way better (and up-to-date) than it is. If you're interested 
 Thank you.
 ```
 
-> WTF is nostr?
+> What is nostr?
 >
 ><cite>You, probably</cite>
 
