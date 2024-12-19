@@ -554,7 +554,7 @@ Check out [awesome-nostr](https://github.com/aljazceru/awesome-nostr) for links 
 
 There is also [NostrDesign](https://nostrdesign.org/), a great resource for developers and UIX design for nostr. 
 
-Also make sure to have a look at the various [nostr bounties](https://bountsr.org/) if you're in the mood to earn sats.
+If you would like to donate to nostr development, have a look at various [nostr projects](https://geyser.fund/?search=nostr) or visit the [OpenSats Nostr Fund](https://opensats.org/funds/nostr). 
 
 This site is open source too. If you can, please [improve this page](https://github.com/nostr-resources/nostr-resources.github.io). You can also create a [translation](#translations).
 
