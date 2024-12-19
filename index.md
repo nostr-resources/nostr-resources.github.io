@@ -106,10 +106,12 @@ either via a follow, a DM, or a zap.
 🦚 Zaps are nostr's way of seamlessly transferring value between users. They are
 neither "tips" nor "expensive likes," but a new way of expressing value and
 counterfeit-resistant engagement. They are [sat-based][br] tokens of appreciation with
-perfect scarcity. Zaps are flowing through the system at all times, as you can
-clearly see via [zaplife.lol](https://zaplife.lol).
+perfect scarcity. They are, as one nostrich so beautifully put it, a way to say:
+[keep doing you][kdy]. Zaps are flowing through the system at all times, as you
+can clearly see via [zaplife.lol](https://zaplife.lol).
 
 [br]: https://bitcoin-resources.com/
+[kdy]: https://coracle.social/nevent1qqs2f66rxmq5xdcpfc4mdzded083zse8qy2mnqkayyvtzruknqmuf3gzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxaaw0q4
 
 **How do I set up my client properly?**  
 🦚 Check out these guides:
