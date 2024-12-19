@@ -565,7 +565,7 @@ This site is open source too. If you can, please [improve this page](https://git
 - [Chinese translation](https://mp.weixin.qq.com/s/RoO-oOgGAXpcGyjD8IYBdw) by Cakksakkas
 - [French translation](https://nostr.fr) by Marco.BTC.fr
 - [Spanish translation](https://bitcoinnostr.com/recursos-de-nostr/) by [BitByBit](nostr:npub1luhyzgce7qtcs6r6v00ryjxza8av8u4dzh3avg0zks38tjktnmxspxq903)
-- [German translation](https://nostr-info.de) by [cercatrova](nostr:npub1nxzp3zn90r44z07aeajc7wyah4fju49c9d3g45mxvmm64rmnrdusffch7m)
+- [German translation](https://cercatrova.blog/nostr-info-de/) by [cercatrova](nostr:npub1nxzp3zn90r44z07aeajc7wyah4fju49c9d3g45mxvmm64rmnrdusffch7m)
 - [Italian translation](https://gist.github.com/theRescuer/717295270a35b4641081b6ef2cdf3025) by [avallanosterza](nostr:npub1l0cwargp532n6x62pdcetkau783sxhpfhwu9d6qgpqm8r0mvt0eqqhlf2c)
 - [Brazilian Portuguese translation](https://gist.github.com/fernandoporazzi/d1c47b4f2a1d2c1a2e0654a2a31668ff) por [fernandoporazzi](nostr:npub1wh30wunfpkezx5s7edqu9g0s0raeetf5dgthzm0zw7sk8wqygmjqqfljgh)
 
