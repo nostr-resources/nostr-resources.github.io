@@ -126,7 +126,7 @@ can clearly see via [zaplife.lol](https://zaplife.lol).
 **Are all nostr apps available on the App Store?**  
 🦚 They are not. The existing monopolies are threatened by nostr and what it
 represents. But fear not, we will build our own app stores. We have one on
-Android already: [zap.store](https://zap.store/download/), an app store built on
+Android already: [Zapstore](https://zapstore.dev/download/), an app store built on
 nostr.
 
 **Where do I find alternatives to existing stuff?**  
@@ -212,7 +212,7 @@ Mobile clients:
 - [Amethyst (Android)](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
 - [Snort (Android)](https://play.google.com/store/apps/details?id=social.snort.app)
 - [Nostur (iOS)](https://apps.apple.com/us/app/nostur/id1672780508) - native iOS/iPad client with MacOS[^fn-mac] version
-- [Plebstr (iOS & Android)](https://play.google.com/store/apps/details?id=com.plebstr.client) - Good short message client similar to Twitter
+- [Openvibe (iOS & Android)](https://play.google.com/store/apps/details?id=com.plebstr.client) - Nostr, Threads, Bluesky, and Mastadon in one client.
 - [Primal (iOS & Android)](https://primal.net/downloads) - Clean & performant, but not very feature-rich (yet)
 
 There are more native clients in development, Nostros[^nostros] and Nozzle[^nozzle] being two of them.
@@ -251,7 +251,7 @@ Web clients for content creators:
 - [Highlighter](https://highlighter.com/) - Client focused on reading and highlighting long-form content.
 - [Shipyard](https://shipyard.pub/) - Write, schedule, and boost your notes.
 - [Stemstr](https://stemstr.app/) - Share your music with the world and let others collaborate.
-- [Wavelake](https://www.wavlake.com/) - A music platform similar to Spotify.
+- [Wavlake](https://www.wavlake.com/) - A music platform similar to Spotify.
 - [Satellite.earth](https://satellite.earth/) - Focuses on moderated communities like reddit but also offers CDN media hosting and other nostr services.
 
 Desktop clients:
@@ -296,7 +296,7 @@ nostr can do more than just social media.
 
 - [Sendstr](https://sendstr.com/) - shared clipboard between devices over nostr.
 - [nosbin](https://nosbin.com/) - pastebin over nostr.
-- [Nostr.Cooking](https://nostr.cooking/) - create, explore or share recipes.
+- [Zap.Cooking](https://zap.cooking/) - create, explore or share recipes.
 - [Badges](https://badges.page/) - create badges and award them to your friends or followers.
 - [Emojis](https://emojis-iota.vercel.app/) - create or use emoji packs supported on most nostr clients.
 - [ZapGoals](https://goals-silk.vercel.app/) - create zap goals for fund raisers or other events.
