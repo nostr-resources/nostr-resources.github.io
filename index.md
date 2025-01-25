@@ -290,7 +290,7 @@ almost all spam.
 Backing up your nostr keys AND your profile is as essential as backing up your private keys for Bitcoin!
 
 - [Metadata Nostr](https://metadata.nostr.com/) - a profile and following list backup tool.
-- [NostrSync](https://nostrsync.live/) - another service to backup profile AND nostr events.
+- [NostrSync](https://nostrsync.vercel.app/) - another service to backup profile AND nostr events.
 
 nostr can do more than just social media.
 
