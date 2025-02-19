@@ -212,7 +212,7 @@ Mobile clients:
 - [Amethyst (Android)](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
 - [Snort (Android)](https://play.google.com/store/apps/details?id=social.snort.app)
 - [Nostur (iOS)](https://apps.apple.com/us/app/nostur/id1672780508) - native iOS/iPad client with MacOS[^fn-mac] version
-- [Openvibe (iOS & Android)](https://play.google.com/store/apps/details?id=com.plebstr.client) - Nostr, Threads, Bluesky, and Mastadon in one client.
+- [Openvibe (iOS & Android)](https://play.google.com/store/apps/details?id=com.plebstr.client) - Nostr, Threads, Bluesky, and Mastodon in one client.
 - [Primal (iOS & Android)](https://primal.net/downloads) - Clean & performant, but not very feature-rich (yet)
 
 There are more native clients in development, Nostros[^nostros] and Nozzle[^nozzle] being two of them.
