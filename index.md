@@ -463,7 +463,10 @@ You can also create a search bot at [sb.nostr.band](https://sb.nostr.band) and t
 
 ### RSS
 
-You can also create an RSS feed with posts matching some keywords at [rss.nostr.band](https://rss.nostr.band) and use your favorite RSS reader app to follow different nostr conversations.
+You can also create an RSS feed on nostr by following [this guide](https://habla.news/a/naddr1qvzqqqr4gupzp89qh469qapddgsrr8qw84xx08y7q34fm3cw3m64c2g9ufq9ydqtqyghwumn8ghj7mn0wd68ytnhd9hx2tcqzpkngat8w4nhzve3ve6k2d3hvyus88uu4f) .
+[Narr](https://github.com/fiatjaf/narr) is a self-hosted nostr and RSS reader.
+[Feeder](https://github.com/spacecowboy/Feeder/) has added support for nostr feeds in their reader.
+There is [Noflux](https://github.com/fiatjaf/noflux) too.
 
 ## Podcasts
 
