@@ -215,9 +215,9 @@ Mobile clients:
 - [Openvibe (iOS & Android)](https://play.google.com/store/apps/details?id=com.plebstr.client) - Nostr, Threads, Bluesky, and Mastodon in one client.
 - [Primal (iOS & Android)](https://primal.net/downloads) - Clean & performant, but not very feature-rich (yet)
 
-There are more native clients in development, Nostros[^nostros] and Nozzle[^nozzle] being two of them.
+There are more native clients in development, Nostros[^nostros] and Voyage[^voyage] being two of them.
 
-[Nootti](https://nootti.com) is the first iOS native cross-posting client for Nostr, Bluesky and Mastodon.
+[Nootti](https://nootti.com) is the first iOS native cross-posting client for Nostr, Bluesky and Mastodon. [Nos](https://nos.social/) is another iOS client that integrates with other social protocols.
 
 Web clients:
 
@@ -226,7 +226,7 @@ Web clients:
 - [snort.deck](https://snort.social/deck) - A tweetdeck like version of the snort client.
 - [noStrudel](https://nostrudel.ninja/) - Supports many NIPs inc communities, streams, blogs and more
 - [coracle.social](https://coracle.social/) - Search, filters, and micro-apps
-- [yosup.app](https://yosup.app/) - Mobile-friendly and twitter-like
+- [jumble](https://jumble.social/]) - Explore content feeds by relay and create custom relay sets
 - [iris.to](https://iris.to/) - Clean interface & rich in features
 - [nostrgram.co](https://nostrgram.co/) - Focus on images and media, supports multiple layout styles
 
@@ -235,7 +235,7 @@ On Android you can use the [Kiwi Browser](https://kiwibrowser.com/) to use the
 extension, which allows you to use any web client.
 
 [^nostros]: [KoalaSat/nostros](https://github.com/KoalaSat/nostros)
-[^nozzle]: [dluvian/Nozzle](https://github.com/dluvian/Nozzle)
+[^voyage]: [dluvian/Voyage](https://github.com/dluvian/voyage)
 
 There's also [Nostr Console](https://github.com/vishalxl/nostr_console),
 [noscl](https://github.com/fiatjaf/noscl), and
@@ -258,7 +258,7 @@ Desktop clients:
 
 - [Lume](https://lume.nu/) - Website
 - [Gossip](https://github.com/mikedilger/gossip) - Github
-- [Nostrid](https://github.com/lapulpeta/Nostrid) - Github
+- [Notedeck by Damus]([https://damus.io/notedeck/]) - Website
 - [more-speech](https://github.com/unclebob/more-speech) - Github, a Nostr client in Clojure
 
 ## Relays
@@ -291,15 +291,16 @@ Backing up your nostr keys AND your profile is as essential as backing up your p
 
 - [Metadata Nostr](https://metadata.nostr.com/) - a profile and following list backup tool.
 - [NostrSync](https://nostrsync.vercel.app/) - another service to backup profile AND nostr events.
+- [Follows Nostr](https://follows.nostr.com/) - recover lost contacts/follows.
 
 nostr can do more than just social media.
 
-- [Sendstr](https://sendstr.com/) - shared clipboard between devices over nostr.
+- [Listr](https://listr.lol/) - create and manage lists to use in supporting nostr apps.
 - [nosbin](https://nosbin.com/) - pastebin over nostr.
 - [Zap.Cooking](https://zap.cooking/) - create, explore or share recipes.
 - [Badges](https://badges.page/) - create badges and award them to your friends or followers.
-- [Emojis](https://emojis-iota.vercel.app/) - create or use emoji packs supported on most nostr clients.
-- [ZapGoals](https://goals-silk.vercel.app/) - create zap goals for fund raisers or other events.
+- [Emojis](https://emojito.meme/) - create or use emoji packs supported on most nostr clients.
+- [Pinja](https://www.pinja.in/) -pin urls as bookmarks.
 - [NsecBunker](https://nsecbunker.com/) - keep your nostr keys in a single place and provide fine-grained access to team members.
 
 ## Games
