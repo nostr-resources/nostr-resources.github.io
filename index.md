@@ -228,7 +228,6 @@ Web clients:
 - [coracle.social](https://coracle.social/) - Search, filters, and micro-apps
 - [jumble](https://jumble.social/]) - Explore content feeds by relay and create custom relay sets
 - [iris.to](https://iris.to/) - Clean interface & rich in features
-- [nostrgram.co](https://nostrgram.co/) - Focus on images and media, supports multiple layout styles
 
 On Android you can use the [Kiwi Browser](https://kiwibrowser.com/) to use the
 [Alby](https://getalby.com) or [nos2x](https://github.com/fiatjaf/nos2x)
@@ -389,22 +388,20 @@ To receive zaps you need a lightning wallet that supports
 
 Popular custodial solutions are:
 
-- [Wallet of Satoshi](https://walletofsatoshi.com/) - recommended for mobile
-- [Alby](https://getalby.com/) - recommended for desktop as browser extention
-- [Stacker News](https://stacker.news)
-- [Lightning Tip Bot](https://ln.tips)
+- [Wallet of Satoshi](https://walletofsatoshi.com/) - recommended for mobile (not available everywhere)
+- [Coinos](https://coinos.io/) - a web wallet with Nostr Wallet Connect capabilities
+- [Primal](https://primal.net/home) - nostr client with built-in Bitcoin wallet for iOS, Android, and web
+
+The Cashu protocol is bringing bitcoin-backed ecash to custodial Nostr zaps and beyond. It is still quite new (aka experimental). You can read more about it [here](https://cashu.space/). A couple of nice wallets to try are:
+
+- [Minibits](https://www.minibits.cash/) - Android native
+- [Cashu.me](https://wallet.cashu.me/welcome) - PWA for iOS and Android
+
+You can find ecash mints and read reviews at [bitcoinmints.com](https://bitcoinmints.com/?tab=mints).
 
 Self-custodial solutions:
 - [Zeus](https://zeusln.app/)
 - [Alby Hub](https://blog.getalby.com/what-is-alby-hub/)
-
-To use Lightning Tip Bot in a more private way, you can:
-
-1. Use [sms4sats](https://sms4sats.com/) to sign up to Telegram
-2. Create an [LN.tips](https://ln.tips) wallet
-3. Type `/nostr add <your_npub>` to add your npub
-4. Type `/advanced` to see your anonymous lightning address...
-5. ...and add it to your nostr profile. Done!
 
 ### Mentions & Deep Links
 
@@ -509,7 +506,7 @@ Some third party media hosters may be able to see, and share your IP address.
 
 ### Privacy & Direct Messages
 
-Only the message content is encrypted on Nostr: the sender, recipient and timestamp are visible to everyone.
+Only the message content is encrypted on Nostr: the sender, recipient and timestamp are visible to everyone. There are a few approaches currently underway to improve this. To best understand how your direct messages are handled, check with your favorite message client developer.
 
 ---
 
