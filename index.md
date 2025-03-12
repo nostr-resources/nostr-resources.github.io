@@ -355,11 +355,13 @@ You can also use your Twitter display picture by [following this guide](https://
 
 ### Verifying yourself
 
-If you have a domain and want to have a "verified" checkmark, here is some
+If you have a domain and want to have a "verified" checkmark and nostr address, here is some
 useful info:
 
 - [NVK's guide (using Github Pages)](https://nvk.org/n00b-nip5)
 - [metasikander's guide (generic)](https://gist.github.com/metasikander/609a538e6a03b2f67e5c8de625baed3e)
+
+Some clients, such as [Ditto](https://soapbox.pub/ditto/) offer verification to enhance parts of their service. Others, like [Primal](https://primal.net/home), will provide a verified nostr address as part of their subsciption memberships.
 
 There are also centralized verification services that you can use, but be aware
 that all these are centralized and that they can rug-pull you at any moment:
