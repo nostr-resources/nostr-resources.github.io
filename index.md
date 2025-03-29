@@ -80,7 +80,7 @@ Download a suitable client:
 # FAQ
 
 **What's the easiest way to create a profile?**  
-🦚 Going to [start.njump.me](https://start.njump.me/) is probably easiest. There is also [nosta.me](https://nosta.me/)
+🦚 Going to [nstart.me](https://nstart.me/) is probably easiest. There is also [nosta.me](https://nosta.me/)
 
 **What is the best nostr client?**  
 🦚 There is no best. You'll have to [pick a client](#clients) according to your
