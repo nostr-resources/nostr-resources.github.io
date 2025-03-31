@@ -80,7 +80,7 @@ Download a suitable client:
 # FAQ
 
 **What's the easiest way to create a profile?**  
-🦚 Going to [start.njump.me](https://start.njump.me/) is probably easiest. There is also [nosta.me](https://nosta.me/)
+🦚 Going to [nstart.me](https://nstart.me/) is probably easiest. There is also [nosta.me](https://nosta.me/)
 
 **What is the best nostr client?**  
 🦚 There is no best. You'll have to [pick a client](#clients) according to your
@@ -136,7 +136,8 @@ nostr.
 🦚 Use various [search](#search) tools, look up [trending
 people](https://nostr.band/?trending=people), and follow topical hashtags like
 [#introductions](https://nostr.band/?q=%23introductions). Yes, on nostr you can
-follow hashtags.
+follow hashtags. You can also visit [Npub.world](https://npub.world/) to search for 
+a specific person.
 
 **How do I find my twitter friends?**  
 🦚 This is explained in the "[finding others](#finding-others)" section.
@@ -237,7 +238,7 @@ extension, which allows you to use any web client.
 [^voyage]: [dluvian/Voyage](https://github.com/dluvian/voyage)
 
 There's also [Nostr Console](https://github.com/vishalxl/nostr_console),
-[noscl](https://github.com/fiatjaf/noscl), and
+[algia](https://github.com/mattn/algia), and
 [nostr-commander](https://github.com/8go/nostr-commander-rs) if you're into CLI
 stuff.
 
@@ -252,6 +253,7 @@ Web clients for content creators:
 - [Stemstr](https://stemstr.app/) - Share your music with the world and let others collaborate.
 - [Wavlake](https://www.wavlake.com/) - A music platform similar to Spotify.
 - [Satellite.earth](https://satellite.earth/) - Focuses on moderated communities like reddit but also offers CDN media hosting and other nostr services.
+- [Npub.pro](https://npub.pro/) - Nostr-based websites to show case creator content.
 
 Desktop clients:
 
@@ -275,8 +277,6 @@ Run your own:
 - [Set up a Nostr Relay server in under 5 minutes](https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under)[^fn-fork]
 
 Paid relays:
-
-- [nostr.watch/relays/find#paid](https://nostr.watch/relays/find#paid)
 
 Paid relays effectively deal with spam by charging users a small usage fee in
 sats. You can set your global feed to paid relays only, which will get rid of
@@ -436,7 +436,6 @@ came streaming in. Since everything is out in the open, you can see this nicely
 in the stats.
 
 - [nashboard.space](https://nashboard.space/)
-- [nostr.io](https://nostr.io/stats)
 - [nostr.band](https://nostr.band/stats.html)
 
 ## Sats
@@ -453,7 +452,7 @@ Most clients support search, but there's also:
 - [nostrview.com](https://nostrview.com)
 - [nos.today](https://nos.today)
 
-You can also create a search bot at [sb.nostr.band](https://sb.nostr.band) and then follow it to receive new posts matching a keyword or hashtag right into your feed.
+Some DVMs, like [Noogle](https://noogle.lol/), have search capabilities, as well.
 
 ### Bots
 
@@ -471,7 +470,7 @@ There is [Noflux](https://github.com/fiatjaf/noflux) too.
 ## Podcasts
 
 - [nostrovia](https://nostrovia.org/) - weekly nostr news roundup
-- [La Cosa Nostr](https://cast.bitcoiner.social/@lacosanostr/about) - interviews with relay operators and builders
+- [La Cosa Nostr](https://tunein.com/podcasts/Technology-Podcasts/La-Cosa-Nostr---The-Decentralized-Network-p3709902/?topicId=355452728) - interviews with relay operators and builders
 - [Nostr Talks](https://www.curiousdk.com/podcast) - Nostr related news and interviews
 - [Thank God For Nostr](https://tgfb.com/podcasts/thank-god-for-nostr/) - nostr from the Christian perspective
 
@@ -486,7 +485,7 @@ Episodes:
 
 ## Explorers
 
-- [nostr.guru](https://www.nostr.guru/)
+[Nostr Gateway](https://github.com/fiatjaf/nostr-gateway?tab=readme-ov-file)
 
 ---
 
@@ -518,6 +517,8 @@ Only the message content is encrypted on Nostr: the sender, recipient and timest
 - [usenostr.org](https://usenostr.org/) by [Pluja](nostr:npub1jh4qu2g5e49syrwh293q8q90xeklvdx47pnj5vyca2tkljed08us0ctj6k)
 - [nostr.net](https://www.nostr.net/) aka awesome-nostr by [Aljaz](nostr:npub1aljazgxlpnpfp7n5sunlk3dvfp72456x6nezjw4sd850q879rxqsthg9jp)
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) by [fiatjaf](nostr:npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6)
+- [nostr.org](https://nostr.org/) by [elidy](nostr:npub1a7n2h5y3gt90y00mwrknhx74fyzzjqw25ehkscje58x9tfyhqd5snyvfnu)
+- [whynostr.com](https://www.whynostr.com/) by [zach](nostr:npub10fu0hlkx3s4n4dsgfu0cpqephga4afr4qtzpz9vsyqf7vj88v2yqdp8vp4)
 
 Articles and explainers:
 
