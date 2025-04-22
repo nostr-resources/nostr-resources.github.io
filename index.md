@@ -470,7 +470,12 @@ There is [Noflux](https://github.com/fiatjaf/noflux) too.
 - [nostrovia](https://nostrovia.org/) - weekly nostr news roundup
 - [La Cosa Nostr](https://tunein.com/podcasts/Technology-Podcasts/La-Cosa-Nostr---The-Decentralized-Network-p3709902/?topicId=355452728) - interviews with relay operators and builders
 - [Nostr Talks](https://www.curiousdk.com/podcast) - Nostr related news and interviews
-- [Thank God For Nostr](https://tgfb.com/podcasts/thank-god-for-nostr/) - nostr from the Christian perspective
+- [Thank God For Nostr](https://tgfb.com/podcasts/thank-god-for-nostr/) - nostr from a Christian perspective
+- [No Solutions](https://fountain.fm/show/1jdehAGo1tgBdKZXIo8K) - No solutions; only trade-offs. Walking towards a better internet.
+- [Nostr Rising](https://bitcoin.review/nostr/) - a [Bitcoin.Review](https://bitcoin.review/) series
+- [No Strings](https://nostrings.show/) -  episodes for those just learning about nostr and episodes for experts who want to stay updated
+- [Bitcoin And...](https://fountain.fm/show/eK5XaSb3UaLRavU3lYrI) - It's the news you can use
+- [Plebchain Radio](https://fountain.fm/show/0N6GGdZuYNNG7ysagCg9) - weekly live audio show made for plebs, by plebs
 
 Episodes:
 
@@ -480,6 +485,8 @@ Episodes:
 - [BA691 - A Native Protocol for Social Media](https://pod.link/1359544516/episode/8e647d338c79265bed63dfb06dd71e7b) by [jack](nostr:npub1sg6plzptd64u62a878hep2kev88swjh3tw00gjsfl8f237lmu63q0uf63m)
 - [BTC111 - Decentralized Social Media & Bitcoin](https://www.theinvestorspodcast.com/bitcoin-fundamentals/nostr-decentralized-social-media-william-casarin/) with [jb55](nostr:npub1xtscya34g58tk0z605fvr788k263gsu6cy9x0mhnm87echrgufzsevkk5s) hosted by [Preston Pysh](nostr:npub1s5yq6wadwrxde4lhfs56gn64hwzuhnfa6r9mj476r5s4hkunzgzqrs6q7z) ([transcript](https://chowcollection.medium.com/preston-pysh-btc111-nostr-decentralized-social-media-bitcoin-w-william-casarin-352f6dedce46), [archive](https://archive.ph/uCSDQ))
 - [What's new with Stacker.News and Nostr?](https://www.curiousdk.com/p/whats-new-with-stackernews-and-nostr) a conversation with Keyan Kousha and Max Webster ([transcript](https://chowcollection.medium.com/david-king-whats-new-with-stacker-news-e49e3256eddc), [archive](https://archive.is/wip/wGrb8))
+- [BAChat-83 - Decentralizing Global Markets with Nostr](https://play.pocketcasts.com/podcasts/d44c81b0-10eb-0136-c266-7d73a919276a/7f0a34a8-e0b3-4c13-8538-a9a863c644ce), with [PABLOF7z](nostr:npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft) ([archive](https://archive.is/C3xHd))
+- [The pro-hashed podcast, episode 22](https://youtu.be/wiDNJPKWRmQ), a conversation between [Constant](nostr:npub1t6jxfqz9hv0lygn9thwndekuahwyxkgvycyscjrtauuw73gd5k7sqvksrw) and [fiatjaf](nostr:npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6) 
 
 ## Explorers
 
@@ -534,6 +541,7 @@ Videos:
 
 - [How To Use NOSTR](https://youtu.be/qn-Zp491t4Y) by [BTC Sessions](nostr:npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8)
 - [Social Media is broken. Can we fix it?](https://youtu.be/aA-jiiepOrE) by [Max DeMarco](nostr:npub1lelkh3hhxw9hdwlcpk6q9t0xt9f7yze0y0nxazvzqjmre3p98x3sthkvyz)
+- [Nostr - FOSDEM 2025](https://youtu.be/Tbt3jL1Ms0w) by [Wouter Constant](nostr:npub1t6jxfqz9hv0lygn9thwndekuahwyxkgvycyscjrtauuw73gd5k7sqvksrw)
 
 For conference videos have a look at the [nostr world](https://www.youtube.com/@nostrworld) channel.
 
