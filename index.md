@@ -461,9 +461,8 @@ Some DVMs, like [Noogle](https://noogle.lol/), have search capabilities, as well
 ### RSS
 
 You can also create an RSS feed on nostr by following [this guide](https://habla.news/a/naddr1qvzqqqr4gupzp89qh469qapddgsrr8qw84xx08y7q34fm3cw3m64c2g9ufq9ydqtqyghwumn8ghj7mn0wd68ytnhd9hx2tcqzpkngat8w4nhzve3ve6k2d3hvyus88uu4f) .
-[Narr](https://github.com/fiatjaf/narr) is a self-hosted nostr and RSS reader.
-[Feeder](https://github.com/spacecowboy/Feeder/) has added support for nostr feeds in their reader.
-There is [Noflux](https://github.com/fiatjaf/noflux) too.
+[Narr](https://github.com/fiatjaf/narr) is a web-based nostr feed aggregator and RSS reader.
+There is [Noflux](https://github.com/fiatjaf/noflux), too.
 
 ## Podcasts
 
