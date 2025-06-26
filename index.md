@@ -28,7 +28,7 @@ collective throats.
 ```
 LOOKING FOR MAINTAINERS
 
-This site could be way better (and up-to-date) than it is. If you're interested in maintaining it, please reach out to me by leaving a comment in the "Looking for Maintainers" issues on GitHub. More info in the footnote at the very end.
+This site could be way better than it is. If you're interested in maintaining it, please reach out to me by leaving a comment in the "Looking for Maintainers" issues on GitHub. More info in the footnote at the very end.
 
 Thank you.
 ```
@@ -64,14 +64,14 @@ Download a suitable client:
 
 <div class="action-buttons">
   <div class="button button-black">
-    <a href="https://apps.apple.com/ca/app/damus/id1628663131" target="_blank"><i class="fa-brands fa-apple"></i> Damus</a>
-    <a href="https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst" target="_blank"><i class="fa-brands fa-android"></i> Amethyst</a>
+    <a href="https://damus.io/" target="_blank"><i class="fa-brands fa-apple"></i> Damus</a>
+    <a href="https://www.amethyst.social/" target="_blank"><i class="fa-brands fa-android"></i> Amethyst</a>
   </div>
   <br/>
   <a href="https://nostrudel.ninja" target="_blank"><i class="fa-solid fa-globe"></i> noStrudel</a> &nbsp; &middot; &nbsp;
   <a href="https://primal.net/" target="_blank"><i class="fa-solid fa-globe"></i> Primal</a> &nbsp; &middot; &nbsp;
   <a href="https://coracle.social/" target="_blank"><i class="fa-solid fa-globe"></i> Coracle</a> &nbsp; &middot; &nbsp;
-  <a href="https://snort.social/" target="_blank"><i class="fa-solid fa-globe"></i> Snort</a> &nbsp; &middot; &nbsp;
+  <a href="https://phoenix.social/" target="_blank"><i class="fa-solid fa-globe"></i> Phoenix</a> &nbsp; &middot; &nbsp;
   <a href="https://iris.to/" target="_blank"><i class="fa-solid fa-globe"></i> Iris</a>
 </div>
 
@@ -145,8 +145,8 @@ a specific person.
 
 **I have more questions. Who can help me?**  
 🦚 Consult this [external FAQ](https://uselessshit.co/resources/nostr/),
-[swarmstr](https://swarmstr.com/), or the
-[#asknostr](https://nostr.band/?q=%23asknostr) hashtag.
+[swarmstr](https://swarmstr.com/), [asknostr](https://asknostr.site/) or use the
+[#asknostr](https://nostr.band/?q=%23asknostr) hashtag in a note from any client.
 
 ---
 
@@ -210,8 +210,8 @@ list of clients or have a look at the [client comparison table](https://github.c
 
 Mobile clients:
 
-- [Damus (iOS)](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, also works on MacOS[^fn-mac]
-- [Amethyst (Android)](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
+- [Damus (iOS)](https://damus.io/) - Twitter-style iOS client, also works on MacOS[^fn-mac]
+- [Amethyst (Android)](https://www.amethyst.social/) - Twitter-style Android client
 - [Snort (Android)](https://play.google.com/store/apps/details?id=social.snort.app)
 - [Nostur (iOS)](https://apps.apple.com/us/app/nostur/id1672780508) - native iOS/iPad client with MacOS[^fn-mac] version
 - [Openvibe (iOS & Android)](https://play.google.com/store/apps/details?id=com.plebstr.client) - Nostr, Threads, Bluesky, and Mastodon in one client.
@@ -224,8 +224,8 @@ There are more native clients in development, Nostros[^nostros] and Voyage[^voya
 Web clients:
 
 - [primal.net](https://primal.net/) - Explore your tribe, network, and global trends
-- [snort.social](https://snort.social/) - Simple interface with automatic image-upload
-- [snort.deck](https://snort.social/deck) - A tweetdeck like version of the snort client.
+- [phoenix.social](https://phoenix.social/) - Simple interface with automatic image-upload
+- [phoenix.deck](https://phoenix.social/deck) - A tweetdeck like version of the snort client.
 - [noStrudel](https://nostrudel.ninja/) - Supports many NIPs inc communities, streams, blogs and more
 - [coracle.social](https://coracle.social/) - Search, filters, and micro-apps
 - [jumble](https://jumble.social/]) - Explore content feeds by relay and create custom relay sets
@@ -300,9 +300,13 @@ nostr can do more than just social media.
 - [Zap.Cooking](https://zap.cooking/) - create, explore or share recipes.
 - [Badges](https://badges.page/) - create badges and award them to your friends or followers.
 - [Emojis](https://emojito.meme/) - create or use emoji packs supported on most nostr clients.
+<<<<<<< master
 - [Pinja](https://www.pinja.in/) - pin urls as bookmarks.
 - [Lantern](https://chromewebstore.google.com/detail/lantern/jjoijlenmgefkaeiomoaelcljfibpcgh) - highlight, annotate, and discuss anything on the web.
 - [NsecBunker](https://nsecbunker.com/) - keep your nostr keys in a single place and provide fine-grained access to team members.
+=======
+- [Pinja](https://www.pinja.in/) -pin urls as bookmarks.
+>>>>>>> master
 
 ## Games
 
@@ -466,9 +470,8 @@ Some DVMs, like [Noogle](https://noogle.lol/), have search capabilities, as well
 ### RSS
 
 You can also create an RSS feed on nostr by following [this guide](https://habla.news/a/naddr1qvzqqqr4gupzp89qh469qapddgsrr8qw84xx08y7q34fm3cw3m64c2g9ufq9ydqtqyghwumn8ghj7mn0wd68ytnhd9hx2tcqzpkngat8w4nhzve3ve6k2d3hvyus88uu4f) .
-[Narr](https://github.com/fiatjaf/narr) is a self-hosted nostr and RSS reader.
-[Feeder](https://github.com/spacecowboy/Feeder/) has added support for nostr feeds in their reader.
-There is [Noflux](https://github.com/fiatjaf/noflux) too.
+[Narr](https://github.com/fiatjaf/narr) is a web-based nostr feed aggregator and RSS reader.
+There is [Noflux](https://github.com/fiatjaf/noflux), too.
 
 ## Podcasts
 
@@ -495,7 +498,7 @@ Episodes:
 
 ## Explorers
 
-[Nostr Gateway](https://github.com/fiatjaf/nostr-gateway?tab=readme-ov-file)
+[Nostr Guru](https://nostr.guru/)
 
 ---
 
