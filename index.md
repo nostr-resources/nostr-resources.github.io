@@ -300,13 +300,9 @@ nostr can do more than just social media.
 - [Zap.Cooking](https://zap.cooking/) - create, explore or share recipes.
 - [Badges](https://badges.page/) - create badges and award them to your friends or followers.
 - [Emojis](https://emojito.meme/) - create or use emoji packs supported on most nostr clients.
-<<<<<<< master
 - [Pinja](https://www.pinja.in/) - pin urls as bookmarks.
 - [Lantern](https://chromewebstore.google.com/detail/lantern/jjoijlenmgefkaeiomoaelcljfibpcgh) - highlight, annotate, and discuss anything on the web.
 - [NsecBunker](https://nsecbunker.com/) - keep your nostr keys in a single place and provide fine-grained access to team members.
-=======
-- [Pinja](https://www.pinja.in/) -pin urls as bookmarks.
->>>>>>> master
 
 ## Games
 
