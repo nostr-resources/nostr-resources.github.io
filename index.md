@@ -134,8 +134,9 @@ nostr.
 
 **How do I find people to follow?**  
 🦚 Use various [search](#search) tools, look up [trending
-people](https://nostr.band/?trending=people), and follow topical hashtags like
-[#introductions](https://nostr.band/?q=%23introductions). Yes, on nostr you can
+people](https://nostr.band/?trending=people), or check out [Following._](https://following.space/) for convenient, user-curated packs of suggested follows.
+You can follow topical hashtags like
+[#introductions](https://nostr.band/?q=%23introductions), too. Yes, on nostr you can
 follow hashtags. You can also visit [Npub.world](https://npub.world/) to search for 
 a specific person.
 
@@ -285,11 +286,12 @@ almost all spam.
 
 ## Tools
 
-Backing up your nostr keys AND your profile is as essential as backing up your private keys for Bitcoin!
+Managing your nostr keys AND your profile is as essential as backing up your private keys for Bitcoin!
 
-- [Metadata Nostr](https://metadata.nostr.com/) - a profile and following list backup tool.
+- [Nostr Metadata](https://metadata.nostr.com/) - a profile and following list backup tool.
 - [NostrSync](https://nostrsync.vercel.app/) - another service to backup profile AND nostr events.
-- [Follows Nostr](https://follows.nostr.com/) - recover lost contacts/follows.
+- [Nostr Follows](https://follows.nostr.com/) - recover lost contacts/follows.
+- [Nostr Delete](https://delete.nostr.com/) - request to delete any nostr event from its hosting relays.
 
 nostr can do more than just social media.
 
@@ -298,7 +300,9 @@ nostr can do more than just social media.
 - [Zap.Cooking](https://zap.cooking/) - create, explore or share recipes.
 - [Badges](https://badges.page/) - create badges and award them to your friends or followers.
 - [Emojis](https://emojito.meme/) - create or use emoji packs supported on most nostr clients.
-- [Pinja](https://www.pinja.in/) -pin urls as bookmarks.
+- [Pinja](https://www.pinja.in/) - pin urls as bookmarks.
+- [Lantern](https://chromewebstore.google.com/detail/lantern/jjoijlenmgefkaeiomoaelcljfibpcgh) - highlight, annotate, and discuss anything on the web.
+- [NsecBunker](https://nsecbunker.com/) - keep your nostr keys in a single place and provide fine-grained access to team members.
 
 ## Games
 
@@ -348,6 +352,9 @@ Here are some free image hosts:
 - [imgur](https://imgur.com/)
 - [postimages.org](https://postimages.org/)
 - [nostrcheck.me](https://nostrcheck.me/public/)
+
+[Blossom](https://github.com/hzrd149/blossom) uses nostr to decentralizse media hosting. If your favorite social client offers blossom support, check out
+[blossomservers.com](https://blossomservers.com/) to find a list of rated and reviewed blossom servers.
 
 You can also use your Twitter display picture by [following this guide](https://medium.com/@_Bosch_/how-to-use-your-twitter-display-picture-on-nostr-fd43c6a26257).
 
