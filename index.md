@@ -103,8 +103,8 @@ you and can be used to look up your profile and initiate a connection with you,
 either via a follow, a DM, or a zap.
 
 **What are zaps?**  
-🦚 Zaps are nostr's way of seamlessly transferring value between users. They are
-neither "tips" nor "expensive likes," but a new way of expressing value and
+🦚 Zaps are nostr's way of seamlessly transferring value between users. [They are
+neither "tips" nor "expensive likes"](https://njump.me/nevent1qvzqqqqqqypzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qgwwaehxw309ahx7uewd3hkctcqyqx6hc4glxnhergs086yp77ne8cdt8zt5z99r4lcz88whfvtq23920ynxd7), but a new way of expressing value and
 counterfeit-resistant engagement. They are [sat-based][br] tokens of appreciation with
 perfect scarcity. They are, as one nostrich so beautifully put it, a way to say:
 [keep doing you][kdy]. Zaps are flowing through the system at all times, as you
@@ -302,7 +302,7 @@ nostr can do more than just social media.
 - [Emojis](https://emojito.meme/) - create or use emoji packs supported on most nostr clients.
 - [Pinja](https://www.pinja.in/) - pin urls as bookmarks.
 - [Lantern](https://chromewebstore.google.com/detail/lantern/jjoijlenmgefkaeiomoaelcljfibpcgh) - highlight, annotate, and discuss anything on the web.
-- [NsecBunker](https://nsecbunker.com/) - keep your nostr keys in a single place and provide fine-grained access to team members.
+- [Yakbak](https://yakbak.app/) - record and share voice notes on nostr.
 
 ## Games
 
