@@ -80,7 +80,10 @@ Download a suitable client:
 # FAQ
 
 **What's the easiest way to create a profile?**  
-🦚 Going to [nstart.me](https://nstart.me/) is probably easiest. There is also [nosta.me](https://nosta.me/)
+🦚 Going to [nstart.me](https://nstart.me/) is probably easiest. The wizard will walk you 
+through account setup, key management, and even help you build a following list.
+There is also [nosta.me](https://nosta.me/) which offers some introductory to relays and other
+acrivities you can do on nostr.
 
 **What is the best nostr client?**  
 🦚 There is no best. You'll have to [pick a client](#clients) according to your
@@ -163,7 +166,7 @@ To use nostr, you need a [key](#keys) and a [client](#clients).
 - Everybody runs a client. It can be a native client, a web client, etc.
 - To publish something, you write a post, sign it with your key and send it to multiple relays (servers hosted by someone else, or yourself).
 - To get updates from other people, you ask multiple relays if they know anything about these other people.
-- Anyone can run a relay. A relay is very simple and dumb. It does nothing besides accepting posts from some people and forwarding to others.
+- Anyone can run a relay. A relay is very simple. It does nothing besides accepting posts from some people and forwarding to others.
 - Relays don't have to be trusted. Signatures are verified on the client side.
 
 ## Keys
@@ -194,9 +197,10 @@ store your keys safely (or at least more safely).
 - [Nostr in the Alby Extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
 - [The nos2x browser extension and why you should use it](https://youtu.be/IoLw-3ok3_M)
 
-If you're on Android, it is recommended to use a native signer like [Amber].
+If you're on mobile, it is recommended to use a native signer like [Amber] on Android or [Nostash] on iOS.
 
 [Amber]: https://github.com/greenart7c3/Amber?tab=readme-ov-file#download-and-install
+[Nostash]: https://apps.apple.com/us/app/nostash/id6744309333 
 
 You can also generate your keys by other means if you know what you're doing.[^bip85]
 It's still early days, so be prepared to get rekt.
@@ -264,7 +268,7 @@ Desktop clients:
 
 ## Relays
 
-Relays are dumb servers that you can leave behind at any time (so they can't
+Relays are simple servers that you can leave behind at any time (so they can't
 turn evil). You need to connect your client to a relay for it to work. There are
 many relays & you can run your own.
 
@@ -275,6 +279,8 @@ many relays & you can run your own.
 Run your own:
 
 - [Set up a Nostr Relay server in under 5 minutes](https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under)[^fn-fork]
+- [Run your Own Nostr Relay on Android with Cloudflare Domain](https://njump.me/naddr1qq2j6ezsgu69j7n92cmxxmfsgyeyyvjtxfuk7q3qdejts0qlva8mqzjlrxqkc2tmvs2t7elszky5upxaf3jha9qs9m5qxpqqqp65wwjfake
+)
 
 Paid relays:
 
@@ -309,6 +315,7 @@ nostr can do more than just social media.
 Games? WTF? Yes, games:
 
 - [Jester](https://jesterui.github.io/) - Chess over nostr by theborakompanioni
+- [Flappy Nostrich](https://flappy-nostrich.vercel.app) -Navigate bitcoin price talk to reach good  nostr content by [Ryan](https://njump.me/npub1m64hnkh6rs47fd9x6wk2zdtmdj4qkazt734d22d94ery9zzhne5qw9uaks)
 
 ---
 
