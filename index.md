@@ -487,9 +487,6 @@ Episodes:
 - [BAChat-83 - Decentralizing Global Markets with Nostr](https://play.pocketcasts.com/podcasts/d44c81b0-10eb-0136-c266-7d73a919276a/7f0a34a8-e0b3-4c13-8538-a9a863c644ce), with [PABLOF7z](nostr:npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft) ([archive](https://archive.is/C3xHd))
 - [The pro-hashed podcast, episode 22](https://youtu.be/wiDNJPKWRmQ), a conversation between [Constant](nostr:npub1t6jxfqz9hv0lygn9thwndekuahwyxkgvycyscjrtauuw73gd5k7sqvksrw) and [fiatjaf](nostr:npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6) 
 
-## Explorers
-
-[Nostr Guru](https://nostr.guru/)
 
 ---
 
