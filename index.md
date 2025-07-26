@@ -464,6 +464,10 @@ There is [Noflux](https://github.com/fiatjaf/noflux), too.
 
 You can automatically generate a Podcast feed from any npub using [castr.me](http://castr.me/).
 
+## Books
+
+- [Building Nostr](https://building-nostr.coracle.social/) by hodlbod - A guide for developers building on the decentralized social protocol
+
 ## Podcasts
 
 - [nostrovia](https://nostrovia.org/) - weekly nostr news roundup
