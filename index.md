@@ -446,6 +446,7 @@ Most clients support search, but there's also:
 - [nostr.band](https://nostr.band/)
 - [nostrview.com](https://nostrview.com)
 - [nos.today](https://nos.today)
+- [npub.world](https://npub.world/)
 
 Some DVMs, like [Noogle](https://noogle.lol/), have search capabilities, as well.
 
