@@ -249,10 +249,10 @@ Web clients for content creators:
 
 Desktop clients:
 
-- [Lume](https://lume.nu/) - Website
-- [Gossip](https://github.com/mikedilger/gossip) - Github
-- [Notedeck by Damus]([https://damus.io/notedeck/]) - Website
-- [more-speech](https://github.com/unclebob/more-speech) - Github, a Nostr client in Clojure
+- [Lume](https://lume.nu/) - Multi-column, multi-account Nostr client for desktop with customizable feeds and advanced discovery features
+- [Gossip](https://github.com/mikedilger/gossip) - Advanced, privacy-conscious Nostr desktop client with multi-relay support, secure key handling, and extensive moderation and customization options
+- [Notedeck](https://damus.io/notedeck/) - Lightning fast, native, multi-account Nostr client for desktop (by Damus team)
+- [more-speech](https://github.com/unclebob/more-speech) - Powerful Clojure-based Nostr client for desktop, focused on robust content moderation, curation, and advanced relay management
 
 ## Relays
 
@@ -446,12 +446,13 @@ Most clients support search, but there's also:
 - [nostr.band](https://nostr.band/)
 - [nostrview.com](https://nostrview.com)
 - [nos.today](https://nos.today)
+- [npub.world](https://npub.world/)
 
 Some DVMs, like [Noogle](https://noogle.lol/), have search capabilities, as well.
 
 ### Bots
 
-- [How to build a nostr gm bot](https://dergigi.com/2023/01/19/how-to-build-a-nostr-gm-bot/) by [Gigi](nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc)
+- [How to build a nostr gm bot](https://dergigi.com/2023/01/19/how-to-build-a-nostr-gm-bot/) by [Gigi](https://njump.me/dergigi.com)
 - [nostr_bot](https://docs.rs/nostr-bot/latest/nostr_bot/) Rust crate
 - [nostr GPT bot](https://github.com/Marfusios/nostr-client/tree/master/apps/nostr-bot) A GPT 3.5 bot for nostr.
 
@@ -460,6 +461,12 @@ Some DVMs, like [Noogle](https://noogle.lol/), have search capabilities, as well
 You can also create an RSS feed on nostr by following [this guide](https://habla.news/a/naddr1qvzqqqr4gupzp89qh469qapddgsrr8qw84xx08y7q34fm3cw3m64c2g9ufq9ydqtqyghwumn8ghj7mn0wd68ytnhd9hx2tcqzpkngat8w4nhzve3ve6k2d3hvyus88uu4f) .
 [Narr](https://github.com/fiatjaf/narr) is a web-based nostr feed aggregator and RSS reader.
 There is [Noflux](https://github.com/fiatjaf/noflux), too.
+
+You can automatically generate a Podcast feed from any npub using [castr.me](http://castr.me/).
+
+## Books
+
+- [Building Nostr](https://building-nostr.coracle.social/) by hodlbod - A guide for developers building on the decentralized social protocol
 
 ## Podcasts
 
@@ -484,9 +491,6 @@ Episodes:
 - [BAChat-83 - Decentralizing Global Markets with Nostr](https://play.pocketcasts.com/podcasts/d44c81b0-10eb-0136-c266-7d73a919276a/7f0a34a8-e0b3-4c13-8538-a9a863c644ce), with [PABLOF7z](nostr:npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft) ([archive](https://archive.is/C3xHd))
 - [The pro-hashed podcast, episode 22](https://youtu.be/wiDNJPKWRmQ), a conversation between [Constant](nostr:npub1t6jxfqz9hv0lygn9thwndekuahwyxkgvycyscjrtauuw73gd5k7sqvksrw) and [fiatjaf](nostr:npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6) 
 
-## Explorers
-
-[Nostr Guru](https://nostr.guru/)
 
 ---
 
@@ -509,6 +513,8 @@ Some third party media hosters may be able to see, and share your IP address.
 ### Privacy & Direct Messages
 
 Only the message content is encrypted on Nostr: the sender, recipient and timestamp are visible to everyone. There are a few approaches currently underway to improve this. To best understand how your direct messages are handled, check with your favorite message client developer.
+
+For truly secure and private messaging, check out [White Noise](https://www.whitenoise.chat/), a decentralized messenger built on Nostr that provides end-to-end encryption with forward secrecy and post-compromise security.
 
 ---
 
@@ -552,12 +558,6 @@ nostr protocol:
 
 - [NIPs](https://github.com/nostr-protocol/nips)
 
-Clients:
-
-- [Damus](https://github.com/damus-io/damus)
-- [Amethyst](https://github.com/vitorpamplona/amethyst)
-- [Iris](https://github.com/irislib/iris-messenger)
-
 Check out [awesome-nostr](https://github.com/aljazceru/awesome-nostr) for links to other clients, libraries, relay implementations, and related projects to work on.
 
 There is also [NostrDesign](https://nostrdesign.org/), a great resource for developers and UIX design for nostr. 
@@ -593,6 +593,6 @@ the descriptions and explanations an opinionated summary.
 
 If you found a typo, please [fix it](https://github.com/nostr-resources/nostr-resources.github.io/blob/master/index.md).
 If you have suggestions, please [create an issue](https://github.com/nostr-resources/nostr-resources.github.io/issues).
-If you want to scream at me because you think this whole thing is stupid, please [find me on nostr](nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc).
+If you want to scream at me because you think this whole thing is stupid, please [find me on nostr](https://npub.world/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc).
 
 ---
