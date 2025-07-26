@@ -250,6 +250,7 @@ Web clients for content creators:
 Desktop clients:
 
 - [Lume](https://lume.nu/) - Website
+- [Notedeck](https://damus.io/notedeck/) - Lightning fast, native, multi-account Nostr client for desktop (by Damus team)
 - [Gossip](https://github.com/mikedilger/gossip) - Github
 - [Notedeck by Damus]([https://damus.io/notedeck/]) - Website
 - [more-speech](https://github.com/unclebob/more-speech) - Github, a Nostr client in Clojure
