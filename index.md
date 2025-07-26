@@ -452,7 +452,7 @@ Some DVMs, like [Noogle](https://noogle.lol/), have search capabilities, as well
 
 ### Bots
 
-- [How to build a nostr gm bot](https://dergigi.com/2023/01/19/how-to-build-a-nostr-gm-bot/) by [Gigi](nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc)
+- [How to build a nostr gm bot](https://dergigi.com/2023/01/19/how-to-build-a-nostr-gm-bot/) by [Gigi](https://njump.me/dergigi.com)
 - [nostr_bot](https://docs.rs/nostr-bot/latest/nostr_bot/) Rust crate
 - [nostr GPT bot](https://github.com/Marfusios/nostr-client/tree/master/apps/nostr-bot) A GPT 3.5 bot for nostr.
 
@@ -591,6 +591,6 @@ the descriptions and explanations an opinionated summary.
 
 If you found a typo, please [fix it](https://github.com/nostr-resources/nostr-resources.github.io/blob/master/index.md).
 If you have suggestions, please [create an issue](https://github.com/nostr-resources/nostr-resources.github.io/issues).
-If you want to scream at me because you think this whole thing is stupid, please [find me on nostr](nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc).
+If you want to scream at me because you think this whole thing is stupid, please [find me on nostr](https://npub.world/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc).
 
 ---
