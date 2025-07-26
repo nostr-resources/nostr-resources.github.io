@@ -462,6 +462,8 @@ You can also create an RSS feed on nostr by following [this guide](https://habla
 [Narr](https://github.com/fiatjaf/narr) is a web-based nostr feed aggregator and RSS reader.
 There is [Noflux](https://github.com/fiatjaf/noflux), too.
 
+You can automatically generate a Podcast feed from any npub using [castr.me](http://castr.me/).
+
 ## Podcasts
 
 - [nostrovia](https://nostrovia.org/) - weekly nostr news roundup
