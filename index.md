@@ -514,6 +514,8 @@ Some third party media hosters may be able to see, and share your IP address.
 
 Only the message content is encrypted on Nostr: the sender, recipient and timestamp are visible to everyone. There are a few approaches currently underway to improve this. To best understand how your direct messages are handled, check with your favorite message client developer.
 
+For truly secure and private messaging, check out [White Noise](https://www.whitenoise.chat/), a decentralized messenger built on Nostr that provides end-to-end encryption with forward secrecy and post-compromise security.
+
 ---
 
 ## More info
