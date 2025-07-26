@@ -556,12 +556,6 @@ nostr protocol:
 
 - [NIPs](https://github.com/nostr-protocol/nips)
 
-Clients:
-
-- [Damus](https://github.com/damus-io/damus)
-- [Amethyst](https://github.com/vitorpamplona/amethyst)
-- [Iris](https://github.com/irislib/iris-messenger)
-
 Check out [awesome-nostr](https://github.com/aljazceru/awesome-nostr) for links to other clients, libraries, relay implementations, and related projects to work on.
 
 There is also [NostrDesign](https://nostrdesign.org/), a great resource for developers and UIX design for nostr. 
