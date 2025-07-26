@@ -249,10 +249,10 @@ Web clients for content creators:
 
 Desktop clients:
 
-- [Lume](https://lume.nu/) - Website
-- [Gossip](https://github.com/mikedilger/gossip) - Github
+- [Lume](https://lume.nu/) - Multi-column, multi-account Nostr client for desktop with customizable feeds and advanced discovery features
+- [Gossip](https://github.com/mikedilger/gossip) - Advanced, privacy-conscious Nostr desktop client with multi-relay support, secure key handling, and extensive moderation and customization options
 - [Notedeck](https://damus.io/notedeck/) - Lightning fast, native, multi-account Nostr client for desktop (by Damus team)
-- [more-speech](https://github.com/unclebob/more-speech) - Github, a Nostr client in Clojure
+- [more-speech](https://github.com/unclebob/more-speech) - Powerful Clojure-based Nostr client for desktop, focused on robust content moderation, curation, and advanced relay management
 
 ## Relays
 
