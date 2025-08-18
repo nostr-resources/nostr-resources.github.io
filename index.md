@@ -258,7 +258,7 @@ Desktop clients:
 
 Relays are dumb servers that you can leave behind at any time (so they can't
 turn evil). You need to connect your client to a relay for it to work. There are
-many relays & you can run your own.
+many relays & you can run your own. 
 
 - [nostr.watch](http://nostr.watch/) - directory of paid and free relays
 - [nostr.info](https://nostr.info/relays/) directory of known nostr relays
@@ -267,6 +267,7 @@ many relays & you can run your own.
 Run your own:
 
 - [Set up a Nostr Relay server in under 5 minutes](https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under)[^fn-fork]
+- [Install a local relay on your Android device](https://github.com/greenart7c3/Citrine?tab=readme-ov-file#download)
 
 Paid relays:
 
@@ -544,6 +545,7 @@ Videos:
 - [How To Use NOSTR](https://youtu.be/qn-Zp491t4Y) by [BTC Sessions](nostr:npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8)
 - [Social Media is broken. Can we fix it?](https://youtu.be/aA-jiiepOrE) by [Max DeMarco](nostr:npub1lelkh3hhxw9hdwlcpk6q9t0xt9f7yze0y0nxazvzqjmre3p98x3sthkvyz)
 - [Nostr - FOSDEM 2025](https://youtu.be/Tbt3jL1Ms0w) by [Wouter Constant](nostr:npub1t6jxfqz9hv0lygn9thwndekuahwyxkgvycyscjrtauuw73gd5k7sqvksrw)
+- [How to Optimize Your Nostr Relays](https://www.youtube.com/watch?v=TFH7Xr0cJ0w&t=8s) by [bohemia](nostr:npub1fhpw2ux9flhcxyl6xp84996qgnkkcy59zqzjvq9fhpxcx7upymus69ds8n)
 
 For conference videos have a look at the [nostr world](https://www.youtube.com/@nostrworld) channel.
 
