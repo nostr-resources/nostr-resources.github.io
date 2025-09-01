@@ -72,7 +72,8 @@ Download a suitable client:
 # FAQ
 
 **What's the easiest way to create a profile?**  
-🦚 Going to [nstart.me](https://nstart.me/) is probably easiest. There is also [nosta.me](https://nosta.me/)
+🦚 Going to [nstart.me](https://nstart.me/) is probably easiest. The wizard will walk you through every step. 
+There is also [nosta.me](https://nosta.me/), which introduces relays and other nostr activities. 
 
 **What is the best nostr client?**  
 🦚 There is no best. You'll have to [pick a client](#clients) according to your
@@ -97,7 +98,7 @@ either via a follow, a DM, or a zap.
 **What are zaps?**  
 🦚 Zaps are nostr's way of seamlessly transferring value between users. They are
 neither "tips" nor "expensive likes," but a new way of expressing value and
-counterfeit-resistant engagement. They are [sat-based][br] tokens of appreciation with
+counterfeit-resistant engagement. They are [sat-based][br] [tokens of appreciation](https://njump.me/nevent1qvzqqqqqqypzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qgwwaehxw309ahx7uewd3hkctcqyqx6hc4glxnhergs086yp77ne8cdt8zt5z99r4lcz88whfvtq23920ynxd7) with
 perfect scarcity. They are, as one nostrich so beautifully put it, a way to say:
 [keep doing you][kdy]. Zaps are flowing through the system at all times, as you
 can clearly see via [zaplife.lol](https://zaplife.lol).
@@ -155,7 +156,7 @@ To use nostr, you need a [key](#keys) and a [client](#clients).
 - Everybody runs a client. It can be a native client, a web client, etc.
 - To publish something, you write a post, sign it with your key and send it to multiple relays (servers hosted by someone else, or yourself).
 - To get updates from other people, you ask multiple relays if they know anything about these other people.
-- Anyone can run a relay. A relay is very simple and dumb. It does nothing besides accepting posts from some people and forwarding to others.
+- Anyone can run a relay. A relay is very simple. It does nothing besides accepting posts from some people and forwarding to others.
 - Relays don't have to be trusted. Signatures are verified on the client side.
 
 ## Keys
@@ -186,9 +187,11 @@ store your keys safely (or at least more safely).
 - [Nostr in the Alby Extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
 - [The nos2x browser extension and why you should use it](https://youtu.be/IoLw-3ok3_M)
 
-If you're on Android, it is recommended to use a native signer like [Amber].
+If you're on mobile, it is recommended to use a native signer like [Amber] on Android or 
+[Nostash] on iOS.
 
 [Amber]: https://github.com/greenart7c3/Amber?tab=readme-ov-file#download-and-install
+[Nostash]: https://apps.apple.com/us/app/nostash/id6744309333
 
 You can also generate your keys by other means if you know what you're doing.[^bip85]
 It's still early days, so be prepared to get rekt.
@@ -256,9 +259,9 @@ Desktop clients:
 
 ## Relays
 
-Relays are dumb servers that you can leave behind at any time (so they can't
-turn evil). You need to connect your client to a relay for it to work. There are
-many relays & you can run your own.
+Relays are simple servers that you can leave behind at any time ([so they can't
+turn evil](https://youtu.be/5FbgDUQjziM)). You need to connect your client to a relay for it to work. There are
+many relays & you can run your own. Check out [this video](https://youtu.be/TFH7Xr0cJ0w) for a quick tutorial on managing relays.
 
 - [nostr.watch](http://nostr.watch/) - directory of paid and free relays
 - [nostr.info](https://nostr.info/relays/) directory of known nostr relays
@@ -267,6 +270,7 @@ many relays & you can run your own.
 Run your own:
 
 - [Set up a Nostr Relay server in under 5 minutes](https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under)[^fn-fork]
+- Run a native, personal relay on Android with [Citrine](https://github.com/greenart7c3/Citrine?tab=readme-ov-file#download)
 
 Paid relays:
 
@@ -275,6 +279,11 @@ sats. You can set your global feed to paid relays only, which will get rid of
 almost all spam.
 
 [^fn-fork]: Fork with small modifications/fixes: [Install a nostr relay](https://www.massmux.com/install-a-nostr-relay/)
+
+Unique relays:
+
+Relays can also act as [content curators](https://youtu.be/CL34LnBs0OQ), unlock different ways of interacting, be the home of communities or groups, and more.
+See an example of a human-curated feed [here](https://jumble.social/?r=relays.land/spatianostra).
 
 ## Tools
 
@@ -294,13 +303,14 @@ nostr can do more than just social media.
 - [Emojis](https://emojito.meme/) - create or use emoji packs supported on most nostr clients.
 - [Pinja](https://www.pinja.in/) - pin urls as bookmarks.
 - [Lantern](https://chromewebstore.google.com/detail/lantern/jjoijlenmgefkaeiomoaelcljfibpcgh) - highlight, annotate, and discuss anything on the web.
-- [NsecBunker](https://nsecbunker.com/) - keep your nostr keys in a single place and provide fine-grained access to team members.
+- [Formstr](https://formstr.app/dashboard) - create custom or template forms that are accessible anywhere.
 
 ## Games
 
 Games? WTF? Yes, games:
 
 - [Jester](https://jesterui.github.io/) - Chess over nostr by theborakompanioni
+- [Flappy Nostrich](https://flappy-nostrich.vercel.app/) - Navigate bitcoin price talk to find good content by [Ryan](nostr:npub1m64hnkh6rs47fd9x6wk2zdtmdj4qkazt734d22d94ery9zzhne5qw9uaks)
 
 ---
 
