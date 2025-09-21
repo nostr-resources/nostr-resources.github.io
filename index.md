@@ -137,8 +137,7 @@ a specific person.
 🦚 This is explained in the "[finding others](#finding-others)" section.
 
 **I have more questions. Who can help me?**  
-🦚 Consult this [external FAQ](https://uselessshit.co/resources/nostr/),
-[swarmstr](https://swarmstr.com/), [asknostr](https://asknostr.site/) or use the
+🦚 Consult this [external FAQ](https://uselessshit.co/resources/nostr/), [asknostr](https://asknostr.site/) or use the
 [#asknostr](https://nostr.band/?q=%23asknostr) hashtag in a note from any client.
 
 ---
@@ -304,6 +303,9 @@ nostr can do more than just social media.
 - [Pinja](https://www.pinja.in/) - pin urls as bookmarks.
 - [Lantern](https://chromewebstore.google.com/detail/lantern/jjoijlenmgefkaeiomoaelcljfibpcgh) - highlight, annotate, and discuss anything on the web.
 - [Formstr](https://formstr.app/dashboard) - create custom or template forms that are accessible anywhere.
+- [Gitworkshop](https://gitworkshop.dev/) - code collaboration over nostr.
+- [Plektos](https://plektos.app/) - meetup and event calendar.
+- [Wikifreedia](https://wikifreedia.xyz/) - wikis on nostr, filtered by your web of trust. Or not.
 
 ## Games
 
@@ -451,8 +453,9 @@ amount, and a pay button. One such client is Damus, which shows a nice
 
 ## Search
 
-Most clients support search, but there's also:
+Most clients support basic search, but there's also:
 
+- [ants🐜](https://search.dergigi.com/)
 - [nostr.band](https://nostr.band/)
 - [nostrview.com](https://nostrview.com)
 - [nos.today](https://nos.today)
@@ -567,8 +570,11 @@ You are encouraged to report bugs and create pull requests!
 nostr protocol:
 
 - [NIPs](https://github.com/nostr-protocol/nips)
+- [Kind Registry](https://nostr-protocol.github.io/registry-of-kinds/)
 
 Check out [awesome-nostr](https://github.com/aljazceru/awesome-nostr) for links to other clients, libraries, relay implementations, and related projects to work on.
+
+[HelloNostrDocs](https://hellonostr.dev/en/) is a simple guide for getting started wtih nostr development.
 
 There is also [NostrDesign](https://nostrdesign.org/), a great resource for developers and UIX design for nostr. 
 
