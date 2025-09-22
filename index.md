@@ -360,25 +360,33 @@ Here are some free image hosts:
 
 You can also use your Twitter display picture by [following this guide](https://medium.com/@_Bosch_/how-to-use-your-twitter-display-picture-on-nostr-fd43c6a26257).
 
-### Verifying yourself
+### Nostr Addresses (NIP-05)
 
-If you have a domain and want to have a "verified" checkmark, here is some
-useful info:
+A nostr address can make you easier to find, verify your association with an organization, help to safegaurd against impersonation, place your notes in filtered feeds, or grant access to member's only areas. Many clients, relays, and services offer these addresses. A business or organization can self hosted nostr addresses to associate users as employees or team members. You can also host your own:
 
 - [NVK's guide (using Github Pages)](https://nvk.org/n00b-nip5)
 - [metasikander's guide (generic)](https://gist.github.com/metasikander/609a538e6a03b2f67e5c8de625baed3e)
+- [theBTCcourse video guide](https://youtu.be/uzdHdkKwPYE)
 
-There are also centralized verification services that you can use, but be aware
-that all these are centralized and that they can rug-pull you at any moment:
+Free services:
+These providers are generally very basic and tend to disappear, but can useful for making it easier to share and find your profile.
 
 {% for provider in site.data.nip05providers %}{% if provider.price %}{% continue %}{% endif %}
 - [{{ provider.name }}]({{ provider.link }})
 {% endfor %}
 
 Paid services:
+These address providers are often more reputable and provide your nostr address alongside other services.
 
 {% for provider in site.data.nip05providers %}{% unless provider.price %}{% continue %}{% endunless %}
 - [{{ provider.name }}]({{ provider.link }}) ({{ provider.price }})
+{% endfor %}
+
+With memberships and subscriptions:
+These providers offer addresses as part subscription services:
+
+{% for provider in site.data.nip05providers %}{% unless provider.price %}{% continue %}{% unless provider.included %}{% continue %}{% endunless %}
+- [{{ provider.name }}]({{ provider.link }}) ({{ provider.price }}) ({{provider.included}})
 {% endfor %}
 
 Provider missing? Price changed? \\
