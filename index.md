@@ -322,7 +322,7 @@ Some things work a bit differently and aren't always obvious, such as:
 
 - [Finding others](#finding-others)
 - [Posting images](#posting-images)
-- [Verifying yourself](#verifying-yourself)
+- [Nostr Address](#nostr-addresses)
 - [Receiving Zaps](#receiving-zaps)
 
 ### Finding others
@@ -357,21 +357,27 @@ Here are some free image hosts:
 - [postimages.org](https://postimages.org/)
 - [nostrcheck.me](https://nostrcheck.me/public/)
 
-[Blossom](https://github.com/hzrd149/blossom) uses nostr to decentralizse media hosting. If your favorite social client offers blossom support, check out
-[blossomservers.com](https://blossomservers.com/) to find a list of rated and reviewed blossom servers.
+[Blossom](https://github.com/hzrd149/blossom) uses nostr to decentralizse media hosting. 
+If your favorite social client offers blossom support, check out [blossomservers.com](https://blossomservers.com/) 
+to find a list of rated and reviewed blossom servers.
 
-You can also use your Twitter display picture by [following this guide](https://medium.com/@_Bosch_/how-to-use-your-twitter-display-picture-on-nostr-fd43c6a26257).
+If you still have an X/twitter account, you can attach your profile picture to your nostr profile
+by [following this guide](https://medium.com/@_Bosch_/how-to-use-your-twitter-display-picture-on-nostr-fd43c6a26257).
 
-### Verifying yourself
+### Nostr Addresses
 
-If you have a domain and want to have a "verified" checkmark, here is some
+Having a nostr address (aka NIP-05) can make it easier for people to find your profile, associate you 
+with a business or organization, help to guard against impersonation, or provide access to members-only areas.
+
+If you have a domain and want to host your own address, here is some
 useful info:
 
 - [NVK's guide (using Github Pages)](https://nvk.org/n00b-nip5)
 - [metasikander's guide (generic)](https://gist.github.com/metasikander/609a538e6a03b2f67e5c8de625baed3e)
 
-There are also centralized verification services that you can use, but be aware
-that all these are centralized and that they can rug-pull you at any moment:
+There are also centralized nostr address providers that you can use. Paid providers often offer other 
+services alongside of address hosting. Be aware that all these _are_ centralized and that they can rug-pull 
+you at any moment:
 
 {% for provider in site.data.nip05providers %}{% if provider.price %}{% continue %}{% endif %}
 - [{{ provider.name }}]({{ provider.link }})
@@ -382,6 +388,11 @@ Paid services:
 {% for provider in site.data.nip05providers %}{% unless provider.price %}{% continue %}{% endunless %}
 - [{{ provider.name }}]({{ provider.link }}) ({{ provider.price }})
 {% endfor %}
+
+To utlilize a nostr address as credentials, check with the applicable business, organization, or group
+for instructions.
+
+
 
 Provider missing? Price changed? \\
 Please [create a PR](https://github.com/nostr-resources/nostr-resources.github.io/blob/master/_data/nip05providers.yml) or [open an issue](https://github.com/nostr-resources/nostr-resources.github.io/issues) to fix it!
@@ -400,11 +411,13 @@ Popular custodial solutions are:
 - [Wallet of Satoshi](https://walletofsatoshi.com/) - recommended for mobile (not available everywhere)
 - [Coinos](https://coinos.io/) - a web wallet with Nostr Wallet Connect capabilities
 - [Primal](https://primal.net/home) - nostr client with built-in Bitcoin wallet for iOS, Android, and web
+- [Rizful](https://rizful.com/) - easy to use Nostr Wallet Connect capable lightning wallet
 
 The Cashu protocol is bringing bitcoin-backed ecash to custodial Nostr zaps and beyond. It is still quite new (aka experimental). You can read more about it [here](https://cashu.space/). A couple of nice wallets to try are:
 
 - [Minibits](https://www.minibits.cash/) - Android native
 - [Cashu.me](https://wallet.cashu.me/welcome) - PWA for iOS and Android
+- [Macadamia](https://macadamia.cash/) - iOS native
 
 You can find ecash mints and read reviews at [bitcoinmints.com](https://bitcoinmints.com/?tab=mints).
 
@@ -460,6 +473,7 @@ Most clients support basic search, but there's also:
 - [nostrview.com](https://nostrview.com)
 - [nos.today](https://nos.today)
 - [npub.world](https://npub.world/)
+- [nosey](https://nosey.vercel.app/)
 
 Some DVMs, like [Noogle](https://noogle.lol/), have search capabilities, as well.
 
