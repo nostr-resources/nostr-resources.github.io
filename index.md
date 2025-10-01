@@ -322,7 +322,7 @@ Some things work a bit differently and aren't always obvious, such as:
 
 - [Finding others](#finding-others)
 - [Posting images](#posting-images)
-- [Profile Address](#nostr-addresses)
+- [Nostr Address](#nostr-addresses)
 - [Receiving Zaps](#receiving-zaps)
 
 ### Finding others
