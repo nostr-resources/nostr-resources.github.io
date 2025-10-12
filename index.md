@@ -29,8 +29,8 @@ collective throats.
 >
 ><cite>You, probably</cite>
 
-nostr is new and confusing but also really cool. It is **the simplest open protocol that is able to create a
-censorship-resistant global "social" network** once and for all.
+nostr is new and confusing but also really cool. It is [**the simplest open protocol that is able to create a
+censorship-resistant global "social" network** once and for all](https://fiatjaf.com/nostr.html).
 
 - It doesn't rely on any trusted central server, hence it is resilient.
 - It is based on cryptographic keys and signatures, so it is tamperproof.
@@ -244,14 +244,12 @@ Web clients for content creators:
 - [ZapStream](https://zap.stream/) - Streaming on nostr allows for instant monetarisation of content.
 - [Habla](https://habla.news/) and [yakihonne](https://yakihonne.com/) - Long-form posts on nostr similar to Medium.
 - [Highlighter](https://highlighter.com/) - Client focused on reading and highlighting long-form content.
-- [Shipyard](https://shipyard.pub/) - Write, schedule, and boost your notes.
 - [Wavlake](https://www.wavlake.com/) - A music platform similar to Spotify.
 - [Satellite.earth](https://satellite.earth/) - Focuses on moderated communities like reddit but also offers CDN media hosting and other nostr services.
 - [Npub.pro](https://npub.pro/) - Nostr-based websites to show case creator content.
 
 Desktop clients:
 
-- [Lume](https://lume.nu/) - Multi-column, multi-account Nostr client for desktop with customizable feeds and advanced discovery features
 - [Gossip](https://github.com/mikedilger/gossip) - Advanced, privacy-conscious Nostr desktop client with multi-relay support, secure key handling, and extensive moderation and customization options
 - [Notedeck](https://damus.io/notedeck/) - Lightning fast, native, multi-account Nostr client for desktop (by Damus team)
 - [more-speech](https://github.com/unclebob/more-speech) - Powerful Clojure-based Nostr client for desktop, focused on robust content moderation, curation, and advanced relay management
@@ -264,12 +262,14 @@ many relays & you can run your own. Check out [this video](https://youtu.be/TFH7
 
 - [nostr.watch](http://nostr.watch/) - directory of paid and free relays
 - [nostr.info](https://nostr.info/relays/) directory of known nostr relays
-- [relay.tools](https://relay.tools/) - public relay browser
+- [relay.tools](https://relay.tools/) - public relay browser and relay rental service
 
 Run your own:
 
 - [Set up a Nostr Relay server in under 5 minutes](https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under)[^fn-fork]
 - Run a native, personal relay on Android with [Citrine](https://github.com/greenart7c3/Citrine?tab=readme-ov-file#download)
+- [nostr-relay-tray](https://github.com/CodyTseng/nostr-relay-tray?tab=readme-ov-file#--------nostr-relay-tray----) is one of the easiest ways
+-  to run a fully functional, self-hosted relay. 
 
 Paid relays:
 
@@ -357,7 +357,7 @@ Here are some free image hosts:
 - [postimages.org](https://postimages.org/)
 - [nostrcheck.me](https://nostrcheck.me/public/)
 
-[Blossom](https://github.com/hzrd149/blossom) uses nostr to decentralizse media hosting. 
+[Blossom](https://github.com/hzrd149/blossom) uses nostr to decentralize media hosting. 
 If your favorite social client offers blossom support, check out [blossomservers.com](https://blossomservers.com/) 
 to find a list of rated and reviewed blossom servers.
 
@@ -449,12 +449,9 @@ There is even a [redirect tool](https://nostredirect.davidcoen.it/) that you can
 
 ## Stats
 
-Ever since [Jack](https://twitter.com/jack/status/1603945963944480768) joined
-(and funded some nostr devs) and [Elon put it on his naughty
-list](https://twitter.com/dergigi/status/1604548665196138499) a flood of people
-came streaming in. Since everything is out in the open, you can see this nicely
-in the stats.
+Statistics on nostr are as decentralized as the protocol itself, but there are a few providers collecting them to the best of their abilities:
 
+- [npub.world/stats](https://npub.world/stats) 
 - [nashboard.space](https://nashboard.space/)
 - [nostr.band](https://nostr.band/stats.html)
 
@@ -468,7 +465,7 @@ amount, and a pay button. One such client is Damus, which shows a nice
 
 Most clients support basic search, but there's also:
 
-- [ants🐜](https://search.dergigi.com/)
+- [ants🐜](https://ants.sh/)
 - [nostr.band](https://nostr.band/)
 - [nostrview.com](https://nostrview.com)
 - [nos.today](https://nos.today)
@@ -588,7 +585,7 @@ nostr protocol:
 
 Check out [awesome-nostr](https://github.com/aljazceru/awesome-nostr) for links to other clients, libraries, relay implementations, and related projects to work on.
 
-[HelloNostrDocs](https://hellonostr.dev/en/) is a simple guide for getting started wtih nostr development.
+[HelloNostrDocs](https://hellonostr.dev/en/) is a simple guide for getting started wtih nostr development. [Nostrbook](https://nostrbook.dev/) is a comprehensive resource for both humans and AI.
 
 There is also [NostrDesign](https://nostrdesign.org/), a great resource for developers and UIX design for nostr. 
 
