@@ -437,12 +437,11 @@ There is even a [redirect tool](https://nostredirect.davidcoen.it/) that you can
 
 ## Stats
 
-Ever since [Jack](https://twitter.com/jack/status/1603945963944480768) joined
-(and funded some nostr devs) and [Elon put it on his naughty
-list](https://twitter.com/dergigi/status/1604548665196138499) a flood of people
-came streaming in. Since everything is out in the open, you can see this nicely
-in the stats.
+When [Jack](https://twitter.com/jack/status/1603945963944480768) joined
+(and funded some nostr devs), general interest in nostr took off and has been growing since. Accurate statistics are a tricky thing to capture on a 
+decentralized protocol but here are some good examples:
 
+- [npub.world](https://npub.world/stats)
 - [nashboard.space](https://nashboard.space/)
 - [nostr.band](https://nostr.band/stats.html)
 
