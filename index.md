@@ -131,10 +131,9 @@ people](https://nostr.band/?trending=people), or check out [Following._](https:/
 You can follow topical hashtags like
 [#introductions](https://nostr.band/?q=%23introductions), too. Yes, on nostr you can
 follow hashtags. You can also visit [Npub.world](https://npub.world/) to search for 
-a specific person.
+a specific person. Find your X/twitter friends by using this seach query: - [🔎 "verifying my account on nostr" (ppl you follow)](https://twitter.com/search?q=%22verifying%20my%20account%20on%20nostr%22&f=live&pf=1). This uses the [nostr.directory](https://www.nostr.directory/) verification
+message, but the `&pf=1` limits the twitter search to only people you follow.
 
-**How do I find my twitter friends?**  
-🦚 This is explained in the "[finding others](#finding-others)" section.
 
 **I have more questions. Who can help me?**  
 🦚 Consult this [external FAQ](https://uselessshit.co/resources/nostr/), [asknostr](https://asknostr.site/) or use the
@@ -320,19 +319,9 @@ Games? WTF? Yes, games:
 
 Some things work a bit differently and aren't always obvious, such as:
 
-- [Finding others](#finding-others)
 - [Posting images](#posting-images)
 - [Nostr Address](#nostr-addresses)
 - [Receiving Zaps](#receiving-zaps)
-
-### Finding others
-
-Use this search query to find nostr keys of people you follow on twitter:
-
-- [🔎 "verifying my account on nostr" (ppl you follow)](https://twitter.com/search?q=%22verifying%20my%20account%20on%20nostr%22&f=live&pf=1)
-
-This uses the [nostr.directory](https://www.nostr.directory/) verification
-message, but the `&pf=1` limits the twitter search to only people you follow.
 
 ### Posting images
 
