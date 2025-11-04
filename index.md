@@ -131,10 +131,9 @@ people](https://nostr.band/?trending=people), or check out [Following._](https:/
 You can follow topical hashtags like
 [#introductions](https://nostr.band/?q=%23introductions), too. Yes, on nostr you can
 follow hashtags. You can also visit [Npub.world](https://npub.world/) to search for 
-a specific person.
+a specific person. Find your X/twitter friends by using this seach query: - [🔎 "verifying my account on nostr" (ppl you follow)](https://twitter.com/search?q=%22verifying%20my%20account%20on%20nostr%22&f=live&pf=1). This uses the [nostr.directory](https://www.nostr.directory/) verification
+message, but the `&pf=1` limits the twitter search to only people you follow.
 
-**How do I find my twitter friends?**  
-🦚 This is explained in the "[finding others](#finding-others)" section.
 
 **I have more questions. Who can help me?**  
 🦚 Consult this [external FAQ](https://uselessshit.co/resources/nostr/), [asknostr](https://asknostr.site/) or use the
@@ -251,7 +250,6 @@ Web clients for content creators:
 
 Desktop clients:
 
-- [Lume](https://lume.nu/) - Multi-column, multi-account Nostr client for desktop with customizable feeds and advanced discovery features
 - [Gossip](https://github.com/mikedilger/gossip) - Advanced, privacy-conscious Nostr desktop client with multi-relay support, secure key handling, and extensive moderation and customization options
 - [Notedeck](https://damus.io/notedeck/) - Lightning fast, native, multi-account Nostr client for desktop (by Damus team)
 - [more-speech](https://github.com/unclebob/more-speech) - Powerful Clojure-based Nostr client for desktop, focused on robust content moderation, curation, and advanced relay management
@@ -270,7 +268,7 @@ Run your own:
 
 - [Set up a Nostr Relay server in under 5 minutes](https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under)[^fn-fork]
 - Run a native, personal relay on Android with [Citrine](https://github.com/greenart7c3/Citrine?tab=readme-ov-file#download)
-
+- Install [nostr-relay-tray](https://github.com/CodyTseng/nostr-relay-tray/releases) for a simple, local relay on your desktop.
 Paid relays:
 
 Paid relays effectively deal with spam by charging users a small usage fee in
@@ -320,19 +318,9 @@ Games? WTF? Yes, games:
 
 Some things work a bit differently and aren't always obvious, such as:
 
-- [Finding others](#finding-others)
 - [Posting images](#posting-images)
 - [Nostr Address](#nostr-addresses)
 - [Receiving Zaps](#receiving-zaps)
-
-### Finding others
-
-Use this search query to find nostr keys of people you follow on twitter:
-
-- [🔎 "verifying my account on nostr" (ppl you follow)](https://twitter.com/search?q=%22verifying%20my%20account%20on%20nostr%22&f=live&pf=1)
-
-This uses the [nostr.directory](https://www.nostr.directory/) verification
-message, but the `&pf=1` limits the twitter search to only people you follow.
 
 ### Posting images
 
@@ -357,7 +345,7 @@ Here are some free image hosts:
 - [postimages.org](https://postimages.org/)
 - [nostrcheck.me](https://nostrcheck.me/public/)
 
-[Blossom](https://github.com/hzrd149/blossom) uses nostr to decentralizse media hosting. 
+[Blossom](https://github.com/hzrd149/blossom) uses nostr to decentralize media hosting. 
 If your favorite social client offers blossom support, check out [blossomservers.com](https://blossomservers.com/) 
 to find a list of rated and reviewed blossom servers.
 
@@ -449,12 +437,11 @@ There is even a [redirect tool](https://nostredirect.davidcoen.it/) that you can
 
 ## Stats
 
-Ever since [Jack](https://twitter.com/jack/status/1603945963944480768) joined
-(and funded some nostr devs) and [Elon put it on his naughty
-list](https://twitter.com/dergigi/status/1604548665196138499) a flood of people
-came streaming in. Since everything is out in the open, you can see this nicely
-in the stats.
+When [Jack](https://twitter.com/jack/status/1603945963944480768) joined
+(and funded some nostr devs), general interest in nostr took off and has been growing since. Accurate statistics are a tricky thing to capture on a 
+decentralized protocol but here are some good examples:
 
+- [npub.world](https://npub.world/stats)
 - [nashboard.space](https://nashboard.space/)
 - [nostr.band](https://nostr.band/stats.html)
 
@@ -585,6 +572,7 @@ nostr protocol:
 
 - [NIPs](https://github.com/nostr-protocol/nips)
 - [Kind Registry](https://nostr-protocol.github.io/registry-of-kinds/)
+- [Documentation Registry](https://nostrbook.dev/)
 
 Check out [awesome-nostr](https://github.com/aljazceru/awesome-nostr) for links to other clients, libraries, relay implementations, and related projects to work on.
 
