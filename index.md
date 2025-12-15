@@ -126,8 +126,8 @@ nostr.
 🦚 Have a look at [noalt.app](http://noalt.app/)
 
 **How do I find people to follow?**  
-🦚 Use various [search](#search) tools, look up [trending
-people](https://nostr.band/?trending=people), or check out [Following._](https://following.space/) for convenient, user-curated packs of suggested follows.
+🦚 Use various [search](#search) tools, browse [trending
+notes](https://trending.relays.land/), or check out [Following._](https://following.space/) for convenient, user-curated packs of suggested follows.
 You can follow topical hashtags like
 [#introductions](https://nostr.band/?q=%23introductions), too. Yes, on nostr you can
 follow hashtags. You can also visit [Npub.world](https://npub.world/) to search for 
@@ -269,6 +269,7 @@ Run your own:
 - [Set up a Nostr Relay server in under 5 minutes](https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under)[^fn-fork]
 - Run a native, personal relay on Android with [Citrine](https://github.com/greenart7c3/Citrine?tab=readme-ov-file#download)
 - Install [nostr-relay-tray](https://github.com/CodyTseng/nostr-relay-tray/releases) for a simple, local relay on your desktop.
+- Easily host a powerful community relay with many features, on a cheap VPS with [Pyramid](https://github.com/fiatjaf/pyramid)
 Paid relays:
 
 Paid relays effectively deal with spam by charging users a small usage fee in
@@ -304,6 +305,7 @@ nostr can do more than just social media.
 - [Gitworkshop](https://gitworkshop.dev/) - code collaboration over nostr.
 - [Plektos](https://plektos.app/) - meetup and event calendar.
 - [Wikifreedia](https://wikifreedia.xyz/) - wikis on nostr, filtered by your web of trust. Or not.
+- [Boris](https://read.withboris.com/) - a full reader app, with a focus on local, offline reading and sharing highlights.
 
 ## Games
 
@@ -455,7 +457,7 @@ amount, and a pay button. One such client is Damus, which shows a nice
 
 Most clients support basic search, but there's also:
 
-- [ants🐜](https://search.dergigi.com/)
+- [ants🐜](https://ants.sh/)
 - [nostr.band](https://nostr.band/)
 - [nostrview.com](https://nostrview.com)
 - [nos.today](https://nos.today)
@@ -484,13 +486,12 @@ You can automatically generate a Podcast feed from any npub using [castr.me](htt
 
 ## Podcasts
 
-- [nostrovia](https://nostrovia.org/) - weekly nostr news roundup
+- [nostrovia](https://nostrovia.org/) - nostr news roundup
 - [La Cosa Nostr](https://tunein.com/podcasts/Technology-Podcasts/La-Cosa-Nostr---The-Decentralized-Network-p3709902/?topicId=355452728) - interviews with relay operators and builders
 - [Nostr Talks](https://www.curiousdk.com/podcast) - Nostr related news and interviews
 - [Thank God For Nostr](https://tgfb.com/podcasts/thank-god-for-nostr/) - nostr from a Christian perspective
 - [No Solutions](https://fountain.fm/show/1jdehAGo1tgBdKZXIo8K) - No solutions; only trade-offs. Walking towards a better internet.
 - [Nostr Rising](https://bitcoin.review/nostr/) - a [Bitcoin.Review](https://bitcoin.review/) series
-- [No Strings](https://nostrings.show/) -  episodes for those just learning about nostr and episodes for experts who want to stay updated
 - [Bitcoin And...](https://fountain.fm/show/eK5XaSb3UaLRavU3lYrI) - It's the news you can use
 - [Plebchain Radio](https://fountain.fm/show/0N6GGdZuYNNG7ysagCg9) - weekly live audio show made for plebs, by plebs
 
