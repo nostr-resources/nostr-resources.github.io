@@ -129,7 +129,7 @@ nostr.
 🦚 Use various [search](#search) tools, browse [trending
 notes](https://trending.relays.land/), or check out [Following._](https://following.space/) for convenient, user-curated packs of suggested follows.
 You can follow topical hashtags like
-[#introductions](https://nostr.band/?q=%23introductions), too. Yes, on nostr you can
+[#introductions](https://nosey.vercel.app/?q=%23introductions), too. Yes, on nostr you can
 follow hashtags. You can also visit [Npub.world](https://npub.world/) to search for 
 a specific person. Find your X/twitter friends by using this seach query: - [🔎 "verifying my account on nostr" (ppl you follow)](https://twitter.com/search?q=%22verifying%20my%20account%20on%20nostr%22&f=live&pf=1). This uses the [nostr.directory](https://www.nostr.directory/) verification
 message, but the `&pf=1` limits the twitter search to only people you follow.
@@ -137,7 +137,7 @@ message, but the `&pf=1` limits the twitter search to only people you follow.
 
 **I have more questions. Who can help me?**  
 🦚 Consult this [external FAQ](https://uselessshit.co/resources/nostr/), [asknostr](https://asknostr.site/) or use the
-[#asknostr](https://nostr.band/?q=%23asknostr) hashtag in a note from any client.
+[#asknostr](https://nosey.vercel.app/?q=%23asknostr) hashtag in a note from any client.
 
 ---
 
@@ -205,7 +205,7 @@ Mobile clients:
 
 - [Damus (iOS)](https://damus.io/) - Twitter-style iOS client, also works on MacOS[^fn-mac]
 - [Amethyst (Android)](https://www.amethyst.social/) - Twitter-style Android client
-- [Snort (Android)](https://play.google.com/store/apps/details?id=social.snort.app)
+- [Flotilla (Android)](https://play.google.com/store/apps/details?id=social.flotilla&hl=en_US) - DMs and group chats
 - [Nostur (iOS)](https://apps.apple.com/us/app/nostur/id1672780508) - native iOS/iPad client with MacOS[^fn-mac] version
 - [Openvibe (iOS & Android)](https://play.google.com/store/apps/details?id=com.plebstr.client) - Nostr, Threads, Bluesky, and Mastodon in one client.
 - [Primal (iOS & Android)](https://primal.net/downloads) - Clean & performant, but not very feature-rich (yet)
@@ -245,8 +245,9 @@ Web clients for content creators:
 - [Highlighter](https://highlighter.com/) - Client focused on reading and highlighting long-form content.
 - [Shipyard](https://shipyard.pub/) - Write, schedule, and boost your notes.
 - [Wavlake](https://www.wavlake.com/) - A music platform similar to Spotify.
-- [Satellite.earth](https://satellite.earth/) - Focuses on moderated communities like reddit but also offers CDN media hosting and other nostr services.
+- [Satellite.earth](https://satellite.earth/) - Focuses on reddit-like reading experience but also offers CDN media hosting and other nostr services.
 - [Npub.pro](https://npub.pro/) - Nostr-based websites to show case creator content.
+- [Pidgeon](https://pidgeon.lol/) - Compose and schedule notes.
 
 Desktop clients:
 
@@ -270,6 +271,7 @@ Run your own:
 - Run a native, personal relay on Android with [Citrine](https://github.com/greenart7c3/Citrine?tab=readme-ov-file#download)
 - Install [nostr-relay-tray](https://github.com/CodyTseng/nostr-relay-tray/releases) for a simple, local relay on your desktop.
 - Easily host a powerful community relay with many features, on a cheap VPS with [Pyramid](https://github.com/fiatjaf/pyramid)
+
 Paid relays:
 
 Paid relays effectively deal with spam by charging users a small usage fee in
@@ -445,7 +447,6 @@ decentralized protocol but here are some good examples:
 
 - [npub.world](https://npub.world/stats)
 - [nashboard.space](https://nashboard.space/)
-- [nostr.band](https://nostr.band/stats.html)
 
 ## Sats
 
@@ -458,7 +459,6 @@ amount, and a pay button. One such client is Damus, which shows a nice
 Most clients support basic search, but there's also:
 
 - [ants🐜](https://ants.sh/)
-- [nostr.band](https://nostr.band/)
 - [nostrview.com](https://nostrview.com)
 - [nos.today](https://nos.today)
 - [npub.world](https://npub.world/)
