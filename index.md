@@ -203,12 +203,13 @@ list of clients or have a look at the [client comparison table](https://github.c
 
 Mobile clients:
 
-- [Damus (iOS)](https://damus.io/) - Twitter-style iOS client, also works on MacOS[^fn-mac]
+- [Damus (iOS & Android)](https://damus.io/) - Twitter-style iOS/Android client, also works on MacOS[^fn-mac]
 - [Amethyst (Android)](https://www.amethyst.social/) - Twitter-style Android client
 - [Flotilla (Android)](https://play.google.com/store/apps/details?id=social.flotilla&hl=en_US) - DMs and group chats
 - [Nostur (iOS)](https://apps.apple.com/us/app/nostur/id1672780508) - native iOS/iPad client with MacOS[^fn-mac] version
 - [Openvibe (iOS & Android)](https://play.google.com/store/apps/details?id=com.plebstr.client) - Nostr, Threads, Bluesky, and Mastodon in one client.
 - [Primal (iOS & Android)](https://primal.net/downloads) - Clean & performant, but not very feature-rich (yet)
+- [Yakihonne (iOS & Android)](https://yakihonne.com/yakihonne-mobile-app) - Cross-platform Nostr client
 
 There are more native clients in development, Nostros[^nostros] and Voyage[^voyage] being two of them.
 
@@ -223,6 +224,7 @@ Web clients:
 - [coracle.social](https://coracle.social/) - Search, filters, and micro-apps
 - [jumble](https://jumble.social/]) - Explore content feeds by relay and create custom relay sets
 - [iris.to](https://iris.to/) - Clean interface & rich in features
+- [x21](https://x21.social/) - Clean interface
 
 On Android you can use the [Kiwi Browser](https://kiwibrowser.com/) to use the
 [Alby](https://getalby.com) or [nos2x](https://github.com/fiatjaf/nos2x)
@@ -296,6 +298,7 @@ Managing your nostr keys AND your profile is as essential as backing up your pri
 
 nostr can do more than just social media.
 
+- [Asknostr](https://asknostr.site) - Q&A platform (alternative to Quora/StackOverflow)
 - [Listr](https://listr.lol/) - create and manage lists to use in supporting nostr apps.
 - [nosbin](https://nosbin.com/) - pastebin over nostr.
 - [Zap.Cooking](https://zap.cooking/) - create, explore or share recipes.
@@ -445,6 +448,7 @@ When [Jack](https://twitter.com/jack/status/1603945963944480768) joined
 (and funded some nostr devs), general interest in nostr took off and has been growing since. Accurate statistics are a tricky thing to capture on a 
 decentralized protocol but here are some good examples:
 
+- [nostr.stats](https://stats.andotherstuff.org/)
 - [npub.world](https://npub.world/stats)
 - [nashboard.space](https://nashboard.space/)
 
