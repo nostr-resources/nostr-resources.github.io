@@ -119,7 +119,7 @@ can clearly see via [zaplife.lol](https://zaplife.lol).
 **Are all nostr apps available on the App Store?**  
 🦚 They are not. The existing monopolies are threatened by nostr and what it
 represents. But fear not, we will build our own app stores. We have one on
-Android already: [Zapstore](https://zapstore.dev/download/), an app store built on
+Android already: [Zapstore](https://zapstore.dev/), an app store built on
 nostr.
 
 **Where do I find alternatives to existing stuff?**  
@@ -178,9 +178,8 @@ convert between the two formats.
 
 Use [Alby](https://getalby.com) or [nos2x](https://github.com/fiatjaf/nos2x) to
 generate your keys, or generate them using a dedicated tool like
-[rana](https://github.com/grunch/rana) or
-[nostrogen](https://hitony.com/nostrogen/). The aforementioned extensions will
-store your keys safely (or at least more safely).
+[rana](https://github.com/grunch/rana). The aforementioned extensions will
+store your keys safely (or at least more safely). Check out [this list](https://spatianostra.com/a-simple-list-of-nostr-signers/) for a sampling of key management tools.
 
 - [Nostr in the Alby Extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
 - [The nos2x browser extension and why you should use it](https://youtu.be/IoLw-3ok3_M)
@@ -223,6 +222,8 @@ Web clients:
 - [coracle.social](https://coracle.social/) - Search, filters, and micro-apps
 - [jumble](https://jumble.social/]) - Explore content feeds by relay and create custom relay sets
 - [iris.to](https://iris.to/) - Clean interface & rich in features
+- [nostria](https://nostria.app/) - Explore relay feeds, topics, music, and more
+- [grimoire](https://grimoire.rocks/) - A nostr client for magicians
 
 On Android you can use the [Kiwi Browser](https://kiwibrowser.com/) to use the
 [Alby](https://getalby.com) or [nos2x](https://github.com/fiatjaf/nos2x)
@@ -299,9 +300,9 @@ nostr can do more than just social media.
 - [Listr](https://listr.lol/) - create and manage lists to use in supporting nostr apps.
 - [nosbin](https://nosbin.com/) - pastebin over nostr.
 - [Zap.Cooking](https://zap.cooking/) - create, explore or share recipes.
-- [Badges](https://badges.page/) - create badges and award them to your friends or followers.
+- [Badges](https://nostrsigil.com) - create badges and award them to your friends or followers.
 - [Emojis](https://emojito.meme/) - create or use emoji packs supported on most nostr clients.
-- [Pinja](https://www.pinja.in/) - pin urls as bookmarks.
+- [Pinja](https://www.yumyu.me/) - pin urls as bookmarks.
 - [Lantern](https://chromewebstore.google.com/detail/lantern/jjoijlenmgefkaeiomoaelcljfibpcgh) - highlight, annotate, and discuss anything on the web.
 - [Formstr](https://formstr.app/dashboard) - create custom or template forms that are accessible anywhere.
 - [Gitworkshop](https://gitworkshop.dev/) - code collaboration over nostr.
@@ -315,6 +316,8 @@ Games? WTF? Yes, games:
 
 - [Jester](https://jesterui.github.io/) - Chess over nostr by theborakompanioni
 - [Flappy Nostrich](https://flappy-nostrich.vercel.app/) - Navigate bitcoin price talk to find good content by [Ryan](nostr:npub1m64hnkh6rs47fd9x6wk2zdtmdj4qkazt734d22d94ery9zzhne5qw9uaks)
+- [Word5](https://word5.otherstuff.ai/) - Just like Wordle, but on nostr
+- [Puzzl35](https://puzzl35.com/) - Turn your photos and art into puzzles to share with your friends
 
 ---
 
@@ -446,6 +449,7 @@ When [Jack](https://twitter.com/jack/status/1603945963944480768) joined
 decentralized protocol but here are some good examples:
 
 - [npub.world](https://npub.world/stats)
+- [nostr stats](https://stats.andotherstuff.org/)
 - [nashboard.space](https://nashboard.space/)
 
 ## Sats
@@ -459,7 +463,6 @@ amount, and a pay button. One such client is Damus, which shows a nice
 Most clients support basic search, but there's also:
 
 - [ants🐜](https://ants.sh/)
-- [nostrview.com](https://nostrview.com)
 - [nos.today](https://nos.today)
 - [npub.world](https://npub.world/)
 - [nosey](https://nosey.vercel.app/)
@@ -486,10 +489,11 @@ You can automatically generate a Podcast feed from any npub using [castr.me](htt
 
 ## Podcasts
 
+- [Nostr Compass](https://podcast.nostrcompass.org/) - weekly interviews with nostr developers
 - [nostrovia](https://nostrovia.org/) - nostr news roundup
 - [La Cosa Nostr](https://tunein.com/podcasts/Technology-Podcasts/La-Cosa-Nostr---The-Decentralized-Network-p3709902/?topicId=355452728) - interviews with relay operators and builders
 - [Nostr Talks](https://www.curiousdk.com/podcast) - Nostr related news and interviews
-- [Thank God For Nostr](https://tgfb.com/podcasts/thank-god-for-nostr/) - nostr from a Christian perspective
+- [Thank God For Nostr](https://podcasts.apple.com/us/podcast/thank-god-for-nostr/id1694064646) - nostr from a Christian perspective
 - [No Solutions](https://fountain.fm/show/1jdehAGo1tgBdKZXIo8K) - No solutions; only trade-offs. Walking towards a better internet.
 - [Nostr Rising](https://bitcoin.review/nostr/) - a [Bitcoin.Review](https://bitcoin.review/) series
 - [Bitcoin And...](https://fountain.fm/show/eK5XaSb3UaLRavU3lYrI) - It's the news you can use
@@ -549,7 +553,6 @@ Articles and explainers:
 - [Implications of Open Monetary and Information Networks](https://www.lynalden.com/open-networks/) by [Lyn Alden](nostr:npub1a2cww4kn9wqte4ry70vyfwqyqvpswksna27rtxd8vty6c74era8sdcw83a)
 - [What Is Nostr and How Do I Use It?](https://www.btctimes.com/news/what-is-nostr-and-how-do-i-use-it) by [Walker V.](nostr:npub1cj8znuztfqkvq89pl8hceph0svvvqk0qay6nydgk9uyq7fhpfsgsqwrz4u)
 - [What is Nostr, and how to start using Nostr](https://github.com/vishalxl/nostr_console/discussions/31) by Vishal
-- [Welcome to Nostr](http://lnshort.it/nostr-welcome/) by [Tony](nostr:npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7)
 - [Nostr, an Introduction](https://wiki.wellorder.net/post/nostr-intro/) by Greg Heartsfield
 - [Nostr Newcomers Most Common Questions and Answers](https://uselessshit.co/resources/nostr/) by pitiunited
 - [Why Nostr Matters](https://blog.lopp.net/why-nostr-matters/) by Jameson Lopp
@@ -559,6 +562,7 @@ Videos:
 - [How To Use NOSTR](https://youtu.be/qn-Zp491t4Y) by [BTC Sessions](nostr:npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8)
 - [Social Media is broken. Can we fix it?](https://youtu.be/aA-jiiepOrE) by [Max DeMarco](nostr:npub1lelkh3hhxw9hdwlcpk6q9t0xt9f7yze0y0nxazvzqjmre3p98x3sthkvyz)
 - [Nostr - FOSDEM 2025](https://youtu.be/Tbt3jL1Ms0w) by [Wouter Constant](nostr:npub1t6jxfqz9hv0lygn9thwndekuahwyxkgvycyscjrtauuw73gd5k7sqvksrw)
+- [Nostr: the decentralized future of social media?](https://www.youtube.com/live/pi2JbHWd_BM?si=u6NcQk86B3zSAQXe) by ReasonTV with [Will Caasarin](nostr:npub1xtscya34g58tk0z605fvr788k263gsu6cy9x0mhnm87echrgufzsevkk5s)
 
 For conference videos have a look at the [nostr world](https://www.youtube.com/@nostrworld) channel.
 
