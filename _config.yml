@@ -14,7 +14,7 @@ twitter_username: dergigi
 default_img: /assets/images/avatar.png
 social:
   - name: nostr
-    url: nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc
+    url: nostr:npub166qthqk9lghgpjy8zkxxuwud5n6rtkv7kacsm2ku5w6gfgrruwvq83qv5j
   - name: github
     url: https://github.com/nostr-resources/nostr-resources.github.io
   - name: bitcoin
