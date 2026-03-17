@@ -10,4 +10,4 @@ Used to be a [gist](https://gist.github.com/dergigi/1ee8dc7e3da4b6572ed785ab24bc
 
 # Contributing
 
-If you make a contribution (always welcome!) please publicly tag [@dergigi](https://njump.to/_@dergigi.com) or [@nostr-resources](https://njump.to/_@nostr-resources.com) on nostr so that we know something happened here. (GitHub notifications are rekt.)
+If you make a contribution (always welcome!) please publicly tag [@nostr-resources](https://njump.to/_@nostr-resources.com) and [@dergigi](https://njump.to/_@dergigi.com) on nostr so that we know something happened here. (GitHub notifications are rekt.)
