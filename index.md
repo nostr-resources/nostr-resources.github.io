@@ -548,6 +548,8 @@ For truly secure and private messaging, check out [White Noise](https://www.whit
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) by [fiatjaf](nostr:npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6)
 - [nostr.org](https://nostr.org/) by [elidy](nostr:npub1a7n2h5y3gt90y00mwrknhx74fyzzjqw25ehkscje58x9tfyhqd5snyvfnu)
 - [whynostr.com](https://www.whynostr.com/) by [zach](nostr:npub10fu0hlkx3s4n4dsgfu0cpqephga4afr4qtzpz9vsyqf7vj88v2yqdp8vp4)
+- [nostrich.love](https://nostrich.love/) by [pitiunited](nostr:npub178umpxtdflcm7a08nexvs4mu384kx0ngg9w8ltm5eut6q7lcp0vq05qrg4)
+
 
 Articles and explainers:
 
