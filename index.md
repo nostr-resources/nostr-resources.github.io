@@ -181,6 +181,7 @@ generate your keys, or generate them using a dedicated tool like
 [rana](https://github.com/grunch/rana). The aforementioned extensions will
 store your keys safely (or at least more safely). Check out [this list](https://spatianostra.com/a-simple-list-of-nostr-signers/) for a sampling of key management tools.
 
+- [Deepmarks](https://deepmarks.org/extension) - Nostr-native bookmarks and a browser extension signer for logging into compatible apps.
 - [Nostr in the Alby Extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
 - [The nos2x browser extension and why you should use it](https://youtu.be/IoLw-3ok3_M)
 
@@ -305,6 +306,7 @@ nostr can do more than just social media.
 - [Zap.Cooking](https://zap.cooking/) - create, explore or share recipes.
 - [Badges](https://nostrsigil.com) - create badges and award them to your friends or followers.
 - [Emojis](https://emojito.meme/) - create or use emoji packs supported on most nostr clients.
+- [Deepmarks](https://deepmarks.org/extension) - save public or private bookmarks from the browser toolbar and sign into compatible Nostr apps with the extension.
 - [Pinja](https://www.yumyu.me/) - pin urls as bookmarks.
 - [Lantern](https://chromewebstore.google.com/detail/lantern/jjoijlenmgefkaeiomoaelcljfibpcgh) - highlight, annotate, and discuss anything on the web.
 - [Formstr](https://formstr.app/dashboard) - create custom or template forms that are accessible anywhere.
