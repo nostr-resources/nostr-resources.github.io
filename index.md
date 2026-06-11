@@ -304,14 +304,14 @@ nostr can do more than just social media.
 - [nosbin](https://nosbin.com/) - pastebin over nostr.
 - [Zap.Cooking](https://zap.cooking/) - create, explore or share recipes.
 - [Badges](https://nostrsigil.com) - create badges and award them to your friends or followers.
-- [Emojis](https://emojito.meme/) - create or use emoji packs supported on most nostr clients.
-- [Pinja](https://www.yumyu.me/) - pin urls as bookmarks.
 - [Lantern](https://chromewebstore.google.com/detail/lantern/jjoijlenmgefkaeiomoaelcljfibpcgh) - highlight, annotate, and discuss anything on the web.
 - [Formstr](https://formstr.app/dashboard) - create custom or template forms that are accessible anywhere.
 - [Gitworkshop](https://gitworkshop.dev/) - code collaboration over nostr.
 - [Plektos](https://plektos.app/) - meetup and event calendar.
 - [Wikifreedia](https://wikifreedia.xyz/) - wikis on nostr, filtered by your web of trust. Or not.
 - [Boris](https://read.withboris.com/) - a full reader app, with a focus on local, offline reading and sharing highlights.
+- [Yakbak](https://yakbak.app/) -  create and listen to public voice messages
+- [ShoSho](https://shosho.live/) - go live or watch a stream.
 
 ## Games
 
@@ -451,6 +451,7 @@ When [Jack](https://twitter.com/jack/status/1603945963944480768) joined
 (and funded some nostr devs), general interest in nostr took off and has been growing since. Accurate statistics are a tricky thing to capture on a 
 decentralized protocol but here are some good examples:
 
+- [nostr archives](https://nostrarchives.com/analytics)
 - [npub.world](https://npub.world/stats)
 - [nostr stats](https://stats.andotherstuff.org/)
 - [nashboard.space](https://nashboard.space/)
