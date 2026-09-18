@@ -254,6 +254,7 @@ Web clients for content creators:
 
 Desktop clients:
 
+- [Goop](https://goop.dergigi.com/) - Native NIP-17 direct-message client for macOS, Windows, and Linux
 - [Gossip](https://github.com/mikedilger/gossip) - Advanced, privacy-conscious Nostr desktop client with multi-relay support, secure key handling, and extensive moderation and customization options
 - [Notedeck](https://damus.io/notedeck/) - Lightning fast, native, multi-account Nostr client for desktop (by Damus team)
 - [more-speech](https://github.com/unclebob/more-speech) - Powerful Clojure-based Nostr client for desktop, focused on robust content moderation, curation, and advanced relay management
